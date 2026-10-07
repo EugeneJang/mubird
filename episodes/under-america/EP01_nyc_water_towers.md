@@ -1,9 +1,11 @@
 # Under America EP.01 NYC Water Towers — The barrel on the roof isn't storage
 
-**84초 · 18컷 · 큰자막 2개 (3D 공간 연출) · 영어 나레이션**
+**90초 · 18컷 · 큰자막 2개 (3D 공간 연출) · 영어 나레이션(정중한 안내자 어투)**
 **제목:** NYC water towers aren't for storing water. They're the city's water pressure. | Under America #1
 
 이번 편이 싸우는 상대는 **"물은 위로 안 올라간다"**는 것입니다. 뉴욕 수도관의 압력은 6층까지만 물을 밀어 올리고, 그 위는 수도꼭지에서 바람 소리만 납니다. 압력을 올리면 거리 밑 낡은 주철관이 터지죠. 그래서 나온 답이 **"아래에서 밀지 말고, 위에 올려 두고 떨어뜨린다"**였습니다. 그리고 그 답은 150년 동안 바뀌지 않았어요. 지금도 나무로 만듭니다.
+
+어투는 **정중한 안내자(도슨트)**입니다. 시청자를 "you"로 부르고, "Let's", "Here's the part I'd love you to remember"처럼 권유하고 안내합니다. 명령문·속어·비꼼은 쓰지 않습니다. 일본어 시트의 「です・ます」, 한국어 시트의 "~해요"에 대응하는 영어 존댓말이에요.
 
 마지막에 **반전**이 하나 있어요. 옥상 탱크의 물은 지하 펌프에서 시작된 게 아니라, **200km 떨어진 산에서 펌프 없이 내려온 물**이라는 것. 뉴욕 수돗물의 95%는 중력만으로 거리까지 옵니다. 탱크는 그 긴 낙하의 **마지막 30m**일 뿐이죠. 시청자가 마지막 3초에 스카이라인을 다시 보게 만드는 편입니다.
 
@@ -42,74 +44,78 @@
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–4 | New York's rooftop water towers aren't for storing water. They're for pushing it. | 뉴욕 옥상 수탑은 물을 저장하는 게 아니다. 밀어내는 것이다 | 맨해튼 옥상 디오라마 부감. 수십 개의 나무 탱크 위로 카메라가 내려가고, 탱크 하나가 붉게 강조됨 | 프레임→영상 (시작+끝) | Quality |
-| 2 | 4–8 | There are as many as 17,000 of them. Almost nobody asks why. | 최대 1만 7천 개가 있다. 왜인지 묻는 사람은 거의 없다 | 옥상 와이드가 계속 넓어지며 탱크들이 끝없이 이어짐. 옆에 황동 압력 게이지가 서 있음 | 프레임→영상 (시작) | Fast |
-| 3 | 8–13 | The answer starts under the street. The city's mains push water up about six floors. Then they run out. | 답은 거리 밑에서 시작한다. 시 본관은 6층까지 물을 올린다. 거기서 끝난다 | **핵심 비주얼 ①.** 거리 단면. 지하 주철 본관에서 건물 안 수직 배관으로 물이 올라가다 6층 높이에서 멈춤 ★ 3D 큰자막 「SIX FLOORS」 멈춘 수면 옆 공간에 입체 글자가 떠오름 | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–5 | You've probably seen them: the wooden tanks on New York's rooftops. They're not really there to store water. They're there to push it. | 보신 적 있으시죠, 뉴욕 옥상의 나무 탱크. 사실 물을 저장하려고 있는 게 아니에요. 밀어내려고 있는 겁니다 | 맨해튼 옥상 디오라마 부감. 수십 개의 나무 탱크 위로 카메라가 내려가고, 탱크 하나가 붉게 강조됨 | 프레임→영상 (시작+끝) | Quality |
+| 2 | 5–9 | There are as many as 17,000 of them, and most of us never stop to ask why. | 최대 1만 7천 개가 있는데, 우리 대부분은 왜인지 멈춰 묻지 않아요 | 옥상 와이드가 계속 넓어지며 탱크들이 끝없이 이어짐. 옆에 황동 압력 게이지가 서 있음 | 프레임→영상 (시작) | Fast |
+| 3 | 9–14 | The answer begins under the street. The city's water mains can push water up about six floors. After that, they simply run out. | 답은 거리 밑에서 시작돼요. 시 본관은 6층 정도까지 물을 올릴 수 있어요. 그 위로는 그냥 힘이 다합니다 | **핵심 비주얼 ①.** 거리 단면. 지하 주철 본관에서 건물 안 수직 배관으로 물이 올라가다 6층 높이에서 멈춤 ★ 3D 큰자막 「SIX FLOORS」 멈춘 수면 옆 공간에 입체 글자가 떠오름 | 프레임→영상 (시작+끝) | Quality |
 
 ### 난관 — 물은 무게다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 13–18 | Water pressure is just weight. Every 10 feet you climb, you lose about 4 psi. | 수압은 그냥 무게다. 10피트 올라갈 때마다 약 4psi를 잃는다 | 건물 단면을 카메라가 한 층씩 올라가고, 옆 압력 게이지 바늘이 층마다 왼쪽으로 한 칸씩 떨어짐 | 프레임→영상 (시작+끝) | Quality |
-| 5 | 18–23 | By the seventh floor, a faucet barely trickles. And in the 1880s, New York was getting taller fast. | 7층이면 수도꼭지가 겨우 똑똑 떨어진다. 1880년대 뉴욕은 빠르게 높아지고 있었다 | 7층 세면대 수도꼭지에서 물이 가늘게 끊기며 떨어짐. 창밖으로 신축 고층 건물 골조가 올라감 | 프레임→영상 (시작) | Fast |
-| 6 | 23–30 | The city could have cranked up the pressure. But higher pressure bursts the old iron pipes under every street. So the problem had to be solved one building at a time. | 시가 압력을 올릴 수도 있었다. 하지만 압력을 높이면 모든 거리 밑 낡은 철관이 터진다. 그래서 건물 하나하나가 풀어야 했다 | 거리 밑 주철관 단면. 압력이 오르자 관 이음새에서 물이 새고 포장이 부풀어 오름. 붉은 경고 윤곽 | 프레임→영상 (시작+끝) | Quality |
+| 4 | 14–19 | Water pressure is really just weight. For every 10 feet you go up, you lose about 4 psi. | 수압은 사실 무게예요. 10피트 올라갈 때마다 약 4psi를 잃습니다 | 건물 단면을 카메라가 한 층씩 올라가고, 옆 압력 게이지 바늘이 층마다 왼쪽으로 한 칸씩 떨어짐 | 프레임→영상 (시작+끝) | Quality |
+| 5 | 19–24 | By the seventh floor, a faucet gives you barely a trickle. And in the 1880s, New York was growing taller every year. | 7층이면 수도꼭지에서 겨우 똑똑 떨어져요. 그리고 1880년대 뉴욕은 해마다 높아지고 있었죠 | 7층 세면대 수도꼭지에서 물이 가늘게 끊기며 떨어짐. 창밖으로 신축 고층 건물 골조가 올라감 | 프레임→영상 (시작) | Fast |
+| 6 | 24–31 | The city could have raised the pressure. But higher pressure would burst the old iron pipes under every street. So each building had to solve the problem on its own. | 시가 압력을 올릴 수도 있었어요. 하지만 압력을 높이면 모든 거리 밑 낡은 철관이 터집니다. 그래서 건물마다 스스로 풀어야 했어요 | 거리 밑 주철관 단면. 압력이 오르자 관 이음새에서 물이 새고 포장이 부풀어 오름. 붉은 경고 윤곽 | 프레임→영상 (시작+끝) | Quality |
 
 ### 해법 — 위에 올려 두고 떨어뜨린다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 30–36 | So they flipped the problem. Don't push water up from below. Put it on the roof, and let it fall. | 그래서 문제를 뒤집었다. 아래에서 밀지 말고 옥상에 올려 두고 떨어뜨린다 | **핵심 비주얼 ②.** 건물 전체 단면. 지하 펌프에서 가는 수직관이 옥상 탱크까지 올라가고, 탱크에서 굵은 하향관이 각 층으로 갈라짐. 물 흐름이 위로 가늘게, 아래로 굵게. 압력 게이지 바늘이 오른쪽으로 튕겨 올라감 | 프레임→영상 (시작+끝) | Quality |
-| 8 | 36–41 | A pump in the basement runs when the tank gets low. A float switch shuts it off when it's full. | 지하 펌프는 탱크가 비면 돈다. 꽉 차면 플로트 스위치가 끈다 | 탱크 내부 단면. 수위가 오르며 둥근 플로트가 떠오르고, 끝에 닿자 지하 펌프 모터가 멈춤 | 프레임→영상 (시작+끝) | Fast |
-| 9 | 41–47 | Then gravity takes over. 100 feet of height means about 43 psi at the ground-floor sink. No motor. No electricity. | 그다음은 중력이 맡는다. 100피트 높이는 1층 세면대에서 약 43psi가 된다. 모터도 전기도 없다 | 탱크에서 1층까지 수직 치수선이 내려오고, 1층 수도꼭지에서 힘차게 물이 쏟아짐 | 프레임→영상 (시작) | Fast |
-| 10 | 47–53 | The bottom of the tank is a fire reserve. If the power goes out, the sprinklers still have pressure. | 탱크 바닥은 소방 예비수다. 전기가 끊겨도 스프링클러는 압력을 가진다 | 탱크 단면, 하부 1/3이 붉은 윤곽으로 구분됨. 건물 안 스프링클러 헤드로 이어지는 별도 관 | 프레임→영상 (시작) | Fast |
+| 7 | 31–37 | Here's the clever part. Instead of pushing water up from below, they placed it on the roof and let it fall. | 여기가 영리한 부분이에요. 아래에서 밀어 올리는 대신, 옥상에 올려 두고 떨어뜨린 겁니다 | **핵심 비주얼 ②.** 건물 전체 단면. 지하 펌프에서 가는 수직관이 옥상 탱크까지 올라가고, 탱크에서 굵은 하향관이 각 층으로 갈라짐. 물 흐름이 위로 가늘게, 아래로 굵게. 압력 게이지 바늘이 오른쪽으로 튕겨 올라감 | 프레임→영상 (시작+끝) | Quality |
+| 8 | 37–42 | A pump in the basement runs whenever the tank gets low, and a float switch turns it off once the tank is full. | 지하 펌프는 탱크가 비면 돌고, 가득 차면 플로트 스위치가 꺼 줍니다 | 탱크 내부 단면. 수위가 오르며 둥근 플로트가 떠오르고, 끝에 닿자 지하 펌프 모터가 멈춤 | 프레임→영상 (시작+끝) | Fast |
+| 9 | 42–48 | From there, gravity does the work. 100 feet of height gives you about 43 psi at the ground-floor sink. No motor, no electricity needed. | 그다음은 중력이 일해요. 100피트 높이면 1층 세면대에서 약 43psi가 나옵니다. 모터도 전기도 필요 없어요 | 탱크에서 1층까지 수직 치수선이 내려오고, 1층 수도꼭지에서 힘차게 물이 쏟아짐 | 프레임→영상 (시작) | Fast |
+| 10 | 48–53 | The bottom of the tank is kept as a fire reserve. Even if the power goes out, the sprinklers still have pressure. | 탱크 바닥은 소방 예비수로 남겨 둡니다. 전기가 끊겨도 스프링클러는 압력을 유지해요 | 탱크 단면, 하부 1/3이 붉은 윤곽으로 구분됨. 건물 안 스프링클러 헤드로 이어지는 별도 관 | 프레임→영상 (시작) | Fast |
 
 ### 왜 아직 나무인가
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 11 | 53–59 | And they're still built from wood. Cedar boards, steel hoops, no nails, no glue. When the wood soaks, it swells and seals itself. | 그리고 지금도 나무로 만든다. 삼나무 널, 강철 테, 못도 접착제도 없다. 나무가 물을 먹으면 부풀어 스스로 틈을 막는다 | **핵심 비주얼 ③.** 탱크 벽 클로즈업 단면. 널 사이 가느다란 틈에 물이 스며들자 나무가 부풀어 틈이 닫힘. 강철 테가 바깥에서 조여 줌 | 프레임→영상 (시작+끝) | Quality |
-| 12 | 59–64 | A crew of six can tear down an old tank and build a new one in a single day. Each one lasts about 35 years. | 6명 작업조가 옛 탱크를 철거하고 새 탱크를 하루에 세운다. 하나가 약 35년을 간다 | 옥상 타임랩스. 낡은 탱크가 해체되고 새 널이 원형으로 세워지며 테가 둘러짐. 해가 떠서 지는 동안 | 프레임→영상 (시작+끝) | Fast |
-| 13 | 64–69 | Steel would rust. Plastic would cook in the sun. Wood keeps the water cool in summer and slows the freeze in winter. | 강철은 녹슨다. 플라스틱은 햇빛에 익는다. 나무는 여름엔 물을 차게 하고 겨울엔 얼음을 늦춘다 | 세 탱크 비교: 녹슨 강철 탱크, 햇빛에 변색된 플라스틱 탱크, 멀쩡한 나무 탱크. 나무 탱크만 또렷하게 남음 | 프레임→영상 (시작) | Fast |
+| 11 | 53–59 | And yes, they're still made of wood. Cedar boards, steel hoops, no nails and no glue. When the wood soaks, it swells and seals itself. | 네, 지금도 나무로 만들어요. 삼나무 널, 강철 테, 못도 접착제도 없습니다. 나무가 물을 먹으면 부풀어서 스스로 틈을 막아요 | **핵심 비주얼 ③.** 탱크 벽 클로즈업 단면. 널 사이 가느다란 틈에 물이 스며들자 나무가 부풀어 틈이 닫힘. 강철 테가 바깥에서 조여 줌 | 프레임→영상 (시작+끝) | Quality |
+| 12 | 59–64 | A crew of six can take down an old tank and build a new one in a single day. Each one lasts around 35 years. | 6명 작업조가 옛 탱크를 내리고 새 탱크를 하루에 세울 수 있어요. 하나가 35년쯤 갑니다 | 옥상 타임랩스. 낡은 탱크가 해체되고 새 널이 원형으로 세워지며 테가 둘러짐. 해가 떠서 지는 동안 | 프레임→영상 (시작+끝) | Fast |
+| 13 | 64–69 | Steel would rust. Plastic would bake in the sun. Wood keeps the water cool in summer and slows the freeze in winter. | 강철은 녹슬고, 플라스틱은 햇빛에 익어요. 나무는 여름엔 물을 차게 하고 겨울엔 얼음을 늦춥니다 | 세 탱크 비교: 녹슨 강철 탱크, 햇빛에 변색된 플라스틱 탱크, 멀쩡한 나무 탱크. 나무 탱크만 또렷하게 남음 | 프레임→영상 (시작) | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 14 | 69–73 | But here's the part most New Yorkers never hear. The water in that tank didn't start in the basement. | 그런데 뉴욕 사람 대부분이 모르는 부분이 있다. 그 탱크의 물은 지하에서 시작된 게 아니다 | 탱크에서 카메라가 빠져나와 건물 아래 거리, 거리 아래 본관을 따라 북쪽으로 쭉 후진 | 프레임→영상 (시작) | Quality |
-| 15 | 73–79 | It fell from mountains up to 125 miles away. About 95 percent of the city's water reaches the street with no pumps at all. Just downhill. | 그 물은 최대 125마일 떨어진 산에서 떨어져 내려왔다. 시 전체 물의 약 95%가 펌프 없이 거리까지 온다. 그냥 내리막이다 | **핵심 비주얼 ④.** 지형 단면으로 전환. 멀리 높은 산의 저수지에서 긴 수도교가 완만한 내리막으로 도시까지 이어짐. 압력 게이지 옆에 긴 경사선이 "툭" 나타남 ★ 3D 큰자막 「125 MILES」 경사선 위 공간에 입체 글자 | 프레임→영상 (시작+끝) | Quality |
-| 16 | 79–82 | The tank on the roof isn't where the pressure begins. | 옥상 탱크는 압력이 시작되는 곳이 아니다 | 지형 단면 끝자락, 도시의 건물 하나가 확대되며 옥상 탱크가 붉게 강조. 산→탱크 전체 경로가 한 줄로 빛남 | 프레임→영상 (시작) | Quality |
-| 17 | 82–84 | It's the last 100 feet of a 125-mile fall. | 그건 125마일 낙하의 마지막 100피트다 | 탱크에서 1층까지 짧은 붉은 치수선만 남고, 긴 경사선은 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
-| 18 | 84 | — | — | 로고 0.5초 | 편집 | — |
+| 14 | 69–73 | But here's the part I'd love you to remember. The water in that tank didn't start in the basement. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 그 탱크의 물은 지하에서 시작된 게 아닙니다 | 탱크에서 카메라가 빠져나와 건물 아래 거리, 거리 아래 본관을 따라 북쪽으로 쭉 후진 | 프레임→영상 (시작) | Quality |
+| 15 | 73–80 | It came down from mountains up to 125 miles away. About 95 percent of the city's water reaches the street without a single pump. It simply flows downhill. | 최대 125마일 떨어진 산에서 내려온 물이에요. 시 전체 물의 약 95%가 펌프 하나 없이 거리까지 옵니다. 그냥 내리막을 따라 흘러요 | **핵심 비주얼 ④.** 지형 단면으로 전환. 멀리 높은 산의 저수지에서 긴 수도교가 완만한 내리막으로 도시까지 이어짐. 압력 게이지 옆에 긴 경사선이 "툭" 나타남 ★ 3D 큰자막 「125 MILES」 경사선 위 공간에 입체 글자 | 프레임→영상 (시작+끝) | Quality |
+| 16 | 80–83 | So the tank on the roof isn't where the pressure begins. | 그러니 옥상 탱크는 압력이 시작되는 곳이 아니에요 | 지형 단면 끝자락, 도시의 건물 하나가 확대되며 옥상 탱크가 붉게 강조. 산→탱크 전체 경로가 한 줄로 빛남 | 프레임→영상 (시작) | Quality |
+| 17 | 83–86 | It's the last 100 feet of a 125-mile fall. | 125마일 낙하의 마지막 100피트인 거죠 | 탱크에서 1층까지 짧은 붉은 치수선만 남고, 긴 경사선은 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
+| 18 | 86–90 | Next time, let's visit Chicago, the city that lifted itself out of the mud. | 다음엔 진흙에서 스스로를 들어올린 도시, 시카고로 가 볼게요 | 다음 편 티저(시카고 거리 단면 실루엣) + 로고 | 편집 | — |
 
 ---
 
 ## 4. 나레이션 원고 (녹음용)
 
 ```
-New York's rooftop water towers aren't for storing water. They're for pushing it.
-There are as many as 17,000 of them. Almost nobody asks why.
-The answer starts under the street. The city's mains push water up about six floors. Then they run out.
+You've probably seen them: the wooden tanks on New York's rooftops. They're not really there to store water. They're there to push it.
+There are as many as 17,000 of them, and most of us never stop to ask why.
+The answer begins under the street. The city's water mains can push water up about six floors. After that, they simply run out.
 
-Water pressure is just weight. Every 10 feet you climb, you lose about 4 psi.
-By the seventh floor, a faucet barely trickles. And in the 1880s, New York was getting taller fast.
-The city could have cranked up the pressure. But higher pressure bursts the old iron pipes under every street. So the problem had to be solved one building at a time.
+Water pressure is really just weight. For every 10 feet you go up, you lose about 4 psi.
+By the seventh floor, a faucet gives you barely a trickle. And in the 1880s, New York was growing taller every year.
+The city could have raised the pressure. But higher pressure would burst the old iron pipes under every street. So each building had to solve the problem on its own.
 
-So they flipped the problem. Don't push water up from below. Put it on the roof, and let it fall.
-A pump in the basement runs when the tank gets low. A float switch shuts it off when it's full.
-Then gravity takes over. 100 feet of height means about 43 psi at the ground-floor sink. No motor. No electricity.
-The bottom of the tank is a fire reserve. If the power goes out, the sprinklers still have pressure.
+Here's the clever part. Instead of pushing water up from below, they placed it on the roof and let it fall.
+A pump in the basement runs whenever the tank gets low, and a float switch turns it off once the tank is full.
+From there, gravity does the work. 100 feet of height gives you about 43 psi at the ground-floor sink. No motor, no electricity needed.
+The bottom of the tank is kept as a fire reserve. Even if the power goes out, the sprinklers still have pressure.
 
-And they're still built from wood. Cedar boards, steel hoops, no nails, no glue. When the wood soaks, it swells and seals itself.
-A crew of six can tear down an old tank and build a new one in a single day. Each one lasts about 35 years.
-Steel would rust. Plastic would cook in the sun. Wood keeps the water cool in summer and slows the freeze in winter.
+And yes, they're still made of wood. Cedar boards, steel hoops, no nails and no glue. When the wood soaks, it swells and seals itself.
+A crew of six can take down an old tank and build a new one in a single day. Each one lasts around 35 years.
+Steel would rust. Plastic would bake in the sun. Wood keeps the water cool in summer and slows the freeze in winter.
 
-But here's the part most New Yorkers never hear. The water in that tank didn't start in the basement.
-It fell from mountains up to 125 miles away. About 95 percent of the city's water reaches the street with no pumps at all. Just downhill.
-The tank on the roof isn't where the pressure begins.
+But here's the part I'd love you to remember. The water in that tank didn't start in the basement.
+It came down from mountains up to 125 miles away. About 95 percent of the city's water reaches the street without a single pump. It simply flows downhill.
+So the tank on the roof isn't where the pressure begins.
 It's the last 100 feet of a 125-mile fall.
+
+Next time, let's visit Chicago, the city that lifted itself out of the mud.
 ```
 
-약 215단어. 분당 155단어로 읽으면 83초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
+약 235단어. 분당 155단어로 읽으면 약 90초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
+
+**어투 체크:** 명령문 없음("Don't…" 금지) · 속어 없음("cranked up" 같은 표현 금지) · 시청자를 낮추는 표현 없음("Almost nobody asks" → "most of us never stop to ask") · 권유형 연결어 사용("Here's the clever part", "I'd love you to remember", "let's visit").
 
 ---
 
@@ -118,8 +124,10 @@ It's the last 100 feet of a 125-mile fall.
 - 이번 편은 시즌 **첫 편**이라 채널 문법을 전부 보여 줘야 해요. 부정 훅(컷 1), 단면 진입(컷 3), 압력 게이지(컷 4), 치수선(컷 9), 반전(컷 15~17)이 한 편에 다 들어 있습니다. 이 다섯 가지가 이후 모든 편의 고정 장치예요.
 - 컷 3 "6층에서 멈추는 물"은 이 편의 첫 쾌감 포인트. 수직관 속 수면이 올라오다 **딱** 멈추는 순간에 큰자막이 떠야 합니다. 효과음은 쇳소리 없이 물이 멎는 "툭" 하나만.
 - 컷 4 압력 게이지는 층마다 바늘이 **한 칸씩 똑똑 떨어지는** 리듬이 중요해요. 나레이션 "10 feet / 4 psi"에 바늘 두 칸을 맞추세요.
+- 컷 7 나레이션 "Here's the clever part"는 안내자가 전시물 앞에서 고개를 돌리는 느낌으로, 반 박자 쉬고 읽습니다.
 - 컷 7이 이 편의 중심 이미지. 위로 가는 가는 관, 아래로 내려오는 굵은 관의 **굵기 대비**가 "밀지 않고 떨어뜨린다"를 말 없이 설명합니다. 바늘이 오른쪽으로 튕기는 타이밍은 "let it fall"의 fall에.
 - 컷 11 나무가 부풀어 틈이 닫히는 장면은 매크로로 천천히. 이 편에서 가장 "손으로 만든 것"의 온기가 나오는 컷이에요. 색온도를 여기서만 살짝 따뜻하게.
+- 컷 14 "I'd love you to remember"가 이 채널의 반전 신호 문구예요. 매 편 같은 자리에 같은 문구를 쓰면 시청자가 기다리게 됩니다.
 - 컷 15~17 반전은 **스케일 점프**예요. 30m짜리 탱크 이야기를 하다가 갑자기 200km 산이 나오는 순간, 게이지 옆에 경사선이 "툭" 생기고 BGM이 한 옥타브 열리게. 컷 17 나레이션 후 1초 정적.
 - 색 흐름: 옥상(컷 1~2)은 새벽 회청색 하늘과 삼나무의 따뜻한 갈색, 지하·배관(컷 3~10)은 차가운 주철 회색과 물의 청회색, 나무(컷 11~13)는 따뜻한 적삼목 톤, 반전(컷 14~17)은 산의 초록 회색과 긴 수로의 푸른 빛. 붉은 강조는 치수선·게이지 바늘·강조 탱크에만.
 - 큰자막 두 개(컷 3, 15)는 3D 공간 연출. 영어라도 Veo 안에서 글자가 깨질 수 있으니 끝 프레임을 Nano Banana Pro로 만들 때 글자를 미리 넣고 프레임→영상으로 연결.
@@ -129,6 +137,7 @@ It's the last 100 feet of a 125-mile fall.
 - **크레딧 배분:** Quality 10컷(1, 3, 4, 6, 7, 11, 14, 15, 16, 17), Fast 7컷, 편집 1컷. 먼저 3·7·15번으로 톤 확정
 - 컷 3: 시작(물이 2층쯤 차오르는 중) → 끝(6층 높이에서 멈춘 수면 + 큰자막). 수직관의 위치와 굵기가 두 프레임에서 정확히 같아야 함
 - 컷 4: 시작(1층, 바늘 오른쪽 끝) → 끝(6층, 바늘 붉은 영역). 카메라 상승과 바늘 하강이 한 동작. 바늘 외에는 아무것도 움직이지 않게
+- 컷 18: 시카고 거리 단면 실루엣 1장을 Nano Banana로 만들어 로고와 함께 편집. 2편 레퍼런스 A를 미리 만들어 두면 재사용 가능
 - 컷 7: 시작(펌프 정지, 탱크 비어 있음, 바늘 왼쪽) → 끝(탱크 가득, 하향관에 물, 바늘 오른쪽). 관 굵기 대비는 시작 프레임부터 그려 두기
 - 컷 11: 시작(널 사이 가는 틈으로 빛이 새어 들어옴) → 끝(틈이 닫히고 널이 살짝 부풀어 있음). 마이크로 변화라 카메라는 완전 고정
 - 컷 12: 시작(낡은 탱크, 아침) → 끝(새 탱크, 노을). 탱크 위치와 크기 고정, 주변 건물 고정
@@ -345,4 +354,4 @@ All visuals AI-generated for illustration. Narration and research by the channel
 ```
 
 **업로드 설정:** "변경되거나 합성된 콘텐츠" ON · 어린이용 아님 · 미국 동부 오후 6시 게시 · TikTok·Reels 동시 게시
-**고정 댓글:** "Next: Chicago didn't drain its swamp. It lifted the entire city out of it. 👉 EP.02"
+**고정 댓글:** "Thanks for watching. Next time, we'll visit Chicago, the city that lifted itself out of the mud. 👉 EP.02"

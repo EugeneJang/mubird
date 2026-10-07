@@ -55,8 +55,21 @@ All visuals AI-rendered. Every number sourced. New short daily.
 
 ### 보이스 스펙
 - 남성 또는 중성, 30대, 미국 일반(General American) 억양, 분당 150~160단어. 감탄·웃음 없음.
-- 문장 끝을 내리는 서술형. 질문문은 편당 1개 이하.
 - ElevenLabs 계열 TTS 1개 보이스로 고정. 바꾸지 않음.
+
+### 어투 규정: 정중한 안내자 (영어 존댓말)
+일본어 시트의 「です・ます」, 한국어 시트의 "~해요"에 대응하는 영어 공손체입니다. 박물관 도슨트가 관람객에게 설명하는 톤.
+
+| 하기 | 하지 않기 |
+|---|---|
+| 시청자를 "you"로 부르고 "we / let's"로 함께 보기 | 명령문 ("Don't push water up", "Look at this") |
+| "You've probably seen…", "Here's the clever part", "I'd love you to remember", "Let's take a look", "Next time, let's visit…" | 속어·구어 ("cranked up", "cook in the sun", "gonna") |
+| 완곡한 단정 ("they simply run out", "it gives you about 43 psi") | 시청자를 낮추는 표현 ("Almost nobody asks", "you never noticed") |
+| 추산치엔 "about / around / as many as" | 비꼼·과장 ("insane", "mind-blowing") |
+| 끝은 짧은 다음 편 안내 ("Next time, let's visit…") | 구독·좋아요 요청 |
+
+고정 신호 문구(매 편 같은 자리): 전환 "Here's the clever part." · 반전 "But here's the part I'd love you to remember." · 마무리 "Next time, let's visit…"
+
 
 ---
 
@@ -102,10 +115,11 @@ NYC 2 · 시카고/중서부 1 · LA/서부 1 · 텍사스/남부 1 · 전국 �
 0:03–0:12  SETUP       시청자가 아는 상식 1문장 + "그게 아니다" 1문장 + 연도 하나
 0:12–0:35  MECHANISM   어떻게 작동하는지. 숫자 2~3개(피트·마일·톤·연도). 단면 공개 샷과 동기화
 0:35–0:50  COST        그래서 생긴 결과·부작용·비용·현재 상태
-0:50–0:55  TURN        훅을 한 번 더 비튼 마지막 한 줄. 질문·구독 요청 없음(루프 유도)
+0:50–0:55  TURN        "But here's the part I'd love you to remember."로 열고, 훅을 한 번 더 비튼 마지막 한 줄
+0:55–0:58  NEXT        "Next time, let's visit…" 다음 편 한 줄 안내. 구독 요청 없음
 ```
 
-문장 규칙: 한 문장 12단어 이하, 숫자는 한 문장에 하나, 접속사로 문장 잇지 않기.
+문장 규칙: 한 문장 14단어 이하, 숫자는 한 문장에 하나, 어투는 §1 "정중한 안내자" 규정 준수(명령문·속어 금지).
 
 ---
 
@@ -146,13 +160,13 @@ muted concrete and steel palette, no readable text, no people in focus, 8 second
 ### Week 1 — 전국이 아는 것부터
 | # | 제목(훅) | 핵심 숫자 | 축 | 도시 |
 |---|---|---|---|---|
-| 1 | NYC water towers aren't storage. They're the city's water pressure. | 6층 이상 의무, 탱크 최대 1만 7천 개, 제조사 2곳 | B | NYC |
+| 1 | NYC water towers aren't for storing water. They're the city's water pressure. | 6층 이상 의무, 탱크 최대 1만 7천 개, 제조사 2곳 | B | NYC |
 | 2 | ★ Chicago didn't drain the swamp. It lifted the entire city out of it. | 1850~60년대, 4~14ft, 1에이커 블록을 잭스크루 6,000개로 | D | 시카고 |
 | 3 | ★ Staten Island's new park is 150 million tons of New York's garbage. | 1948~2001, 2,200에이커, 최고 225ft | A | NYC |
 | 4 | ★ Hoover Dam is still cooling down. Without these pipes, it'd take 125 years. | 1인치 파이프 582마일, 하루 얼음 1,000t | C | 네바다/애리조나 |
 | 5 | ★ The Mississippi above St. Louis isn't a river. It's 29 lakes in a row. | Lock & Dam 29개, 9ft 항로 | A | 중서부 |
 | 6 | The real reason American houses are built from wood. | 목재 가격·지진·공기 | B | 전국 |
-| 7 | Round manhole covers aren't a design choice. A square one can fall in. | 약 250lb, 대각선 차이 | A | 전국 |
+| 7 | Round manhole covers aren't just a design choice. A square one could fall in. | 약 250lb, 대각선 차이 | A | 전국 |
 
 ### Week 2 — 내 건물 안
 | # | 제목(훅) | 핵심 숫자 | 축 | 도시 |
@@ -191,43 +205,35 @@ muted concrete and steel palette, no readable text, no people in focus, 8 second
 
 ## 7. 첫 3편 풀 대본 (영어, 녹음 가능)
 
-### Ep.1 — NYC water towers aren't storage. They're the city's water pressure.
-```
-[0:00] New York's rooftop water towers aren't for storing water. They're for pushing it.
-[0:03] The city's mains deliver pressure for about six floors. Above that, a faucet just hisses.
-[0:10] So since the 1800s, any building taller than six stories has had to make its own pressure. With gravity.
-[0:17] A pump in the basement lifts water to the roof all day. The tank holds it. Height does the rest: every 10 feet of water adds about 4 psi.
-[0:27] The tanks are still made of wood. Cedar staves, steel hoops, no glue. Wood swells when wet and seals itself.
-[0:35] Two family companies build almost all of them. Up to 17,000 tanks sit on the skyline, and most are replaced every 30 to 35 years.
-[0:45] The city could have built bigger mains and higher pressure. It would have burst every old pipe under the street.
-[0:51] So the skyline is the water system. Every tank is a tiny reservoir, 100 feet in the air.
-```
-샷: ①맨해튼 옥상 와이드 + 지도 줌인 ②탱크 단면 진입(치수선 "6 floors") ③지하 펌프→옥상 배관 흐름 ④"10 ft = 4 psi" 그래픽 ⑤삼나무 판 클로즈업 ⑥1800년대→현재 타임랩스 ⑦스카이라인 복귀.
+### Ep.1 — NYC water towers aren't for storing water. They're the city's water pressure.
+전체 제작 시트: [episodes/under-america/EP01_nyc_water_towers.md](../episodes/under-america/EP01_nyc_water_towers.md) (90초, 18컷, 정중한 안내자 어투로 작성 완료)
 
 ### Ep.2 — Chicago didn't drain the swamp. It lifted the entire city out of it.
 ```
-[0:00] Chicago didn't drain its swamp. It picked up the whole city and lifted it out.
-[0:04] In the 1850s, downtown Chicago sat barely above Lake Michigan. Streets were mud. Sewage had nowhere to go. Cholera came back every summer.
-[0:13] The fix needed sewers. Sewers need a slope. Chicago had none. So engineers decided the city had to be higher.
-[0:21] Not the land. The buildings. Crews slid jackscrews under brick blocks and turned them a quarter turn at a time.
-[0:29] One block on Lake Street: a full acre, 35,000 tons, 6,000 screws, 600 men. Raised over four days. Shops stayed open the whole time.
-[0:39] Over the 1850s and 60s, the downtown went up between 4 and 14 feet. New streets were built on top of the old ones.
-[0:47] The dirt dug for the new sewers filled the gap underneath.
-[0:50] Chicago's downtown isn't on the ground. It's standing on a city that's still buried below it.
+[0:00] Chicago didn't drain its swamp. It picked up the whole city and lifted it out. Let me show you how.
+[0:05] In the 1850s, downtown Chicago sat barely above Lake Michigan. The streets were mud, and sewage had nowhere to go. Cholera came back every summer.
+[0:14] The fix needed sewers, and sewers need a slope. Chicago had none. So the engineers decided the city itself would have to be higher.
+[0:22] Here's the clever part. Not the land. The buildings. Crews slid jackscrews under entire brick blocks and turned them a quarter turn at a time.
+[0:30] One block on Lake Street: a full acre, 35,000 tons, 6,000 screws. It rose over four days, and the shops stayed open the whole time.
+[0:39] Through the 1850s and 60s, the downtown went up between 4 and 14 feet. New streets were laid on top of the old ones.
+[0:47] But here's the part I'd love you to remember. The dirt dug out for the new sewers is what filled the gap underneath.
+[0:52] So downtown Chicago isn't standing on the ground. It's standing on a city that's still buried below it.
+[0:56] Next time, let's visit a park in New York that's built on 150 million tons of garbage.
 ```
-샷: ①시카고 다운타운 와이드 + 지도 줌인 ②거리 단면 진입: 현재 거리 아래 옛 지면, 치수선 "4–14 ft" ③잭스크루 클로즈업, 사람 손이 돌리는 모션 ④1에이커 블록 들어올리기 와이드, "6,000 screws / 35,000 tons" ⑤하수관 경사 그래픽 ⑥1850→1870 타임랩스 ⑦현재 거리 복귀.
+샷: ①시카고 다운타운 와이드 + 지도 줌인 ②거리 단면 진입: 현재 거리 아래 옛 지면, 치수선 "4–14 ft" ③잭스크루 클로즈업, 손이 돌리는 모션(얼굴 없음) ④1에이커 블록 들어올리기 와이드 ⑤하수관 경사 그래픽 ⑥1850→1870 타임랩스 ⑦현재 거리 복귀.
 
 ### Ep.3 — Staten Island's new park is 150 million tons of New York's garbage.
 ```
-[0:00] New York's biggest new park isn't built on land. It's built on 150 million tons of garbage.
-[0:04] Fresh Kills, Staten Island. From 1948 to 2001, nearly everything the city threw away came here by barge.
-[0:12] Four mounds grew. The tallest reached about 225 feet, higher than the Statue of Liberty next door.
-[0:19] By the 1990s it was called the largest landfill on Earth. The smell reached New Jersey. Leachate ran into the creeks.
-[0:27] So they capped it. Layers of plastic liner, clay and soil over the trash, and hundreds of wells drilled into the pile to pull out methane.
-[0:37] That gas is piped to a plant and sold. Enough to heat about 20,000 homes.
-[0:43] Now it's 2,200 acres of grassland, almost three times the size of Central Park, opening in phases until the 2030s.
-[0:50] The hills are still settling. The ground drops a little every year, because what's under it is still rotting.
-[0:55] You're not walking on a hill. You're walking on a city's last 50 years.
+[0:00] New York's biggest new park isn't built on land. It's built on 150 million tons of garbage. Let's take a look.
+[0:05] Fresh Kills, Staten Island. From 1948 to 2001, nearly everything the city threw away came here by barge.
+[0:13] Four mounds grew. The tallest reached about 225 feet, higher than the Statue of Liberty across the harbor.
+[0:20] By the 1990s it was called the largest landfill on Earth. The smell reached New Jersey, and leachate ran into the creeks.
+[0:28] Here's the clever part. They capped it: plastic liner, clay and soil over the trash, and hundreds of wells drilled into the pile to draw out the methane.
+[0:38] That gas is piped to a plant and sold. It's enough to heat around 20,000 homes.
+[0:44] Today it's 2,200 acres of grassland, almost three times the size of Central Park, opening in phases into the 2030s.
+[0:51] But here's the part I'd love you to remember. The hills are still settling. The ground drops a little every year, because what's underneath is still breaking down.
+[0:58] You're not standing on a hill. You're standing on a city's last 50 years.
+[1:02] Next time, let's head west to Hoover Dam, which is still cooling down.
 ```
 샷: ①초원 와이드 + 지도 줌인 → 땅속 단면 진입 ②단면 층: 흙/점토/라이너/쓰레기, 치수선 "225 ft" ③1948→2001 바지선 타임랩스 ④자유의 여신상 높이 비교 ⑤메탄 포집정 → 관로 → 플랜트 ⑥센트럴파크 3배 면적 비교 ⑦침하 애니메이션 후 초원 복귀.
 
