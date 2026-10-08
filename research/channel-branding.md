@@ -50,23 +50,24 @@ amazing america, american wonders, engineering, architecture, infrastructure, ho
 
 ---
 
-## 3. 프로필 사진 (800×800, 원형 크롭)
+## 3. 프로필 사진 (800×800, 원형 크롭) — "AAB" 이니셜 로고
 
-### 3-1. 메인안: 펼친 책 위로 솟은 옥상 물탱크
+### 3-1. 메인안: 금박 AAB + 펼친 책
 ```
-Square 1:1, 2K. An antique leather-bound encyclopedia lying open, seen from a low three-quarter angle and centered in the frame, its deep navy cover edged with worn gold tooling and its aged parchment pages fanned slightly. Rising out of the open pages like a pop-up book, but rendered as a fully photorealistic miniature: a single New York rooftop wooden water tank on short steel legs, weathered cedar staves, rusted steel hoops, a conical roof, standing on a small patch of tar rooftop that grows out of the paper. One thin, crisp red dimension line (#E53935) with small end ticks runs vertically beside the tank, from the page to the top of its roof. Background: smooth deep navy (#0E1A2B) gradient with a soft warm glow behind the book, as if lit by a reading lamp. Cinematic, shallow depth of field, gentle rim light, subtle film grain. Strong simple silhouette that still reads when scaled down to a small circle. No text, no letters, no numbers, no logo, no watermark.
+Square 1:1, 2K. A bold, centered monogram logo reading "AAB" in large classic serif capital letters with crisp engraved edges, rendered in photorealistic worn gold leaf, standing upright as solid 3D letters on the open pages of an antique leather-bound encyclopedia. The book's deep navy cover with faded gold tooling frames the bottom of the composition; aged parchment pages fan slightly. One thin red architectural dimension line (#E53935) with small tick marks at both ends runs horizontally beneath the letters, spanning exactly their width, like an engineer's measurement. Background: smooth deep navy (#0E1A2B) gradient with a soft warm reading-lamp glow behind the letters. Cinematic rim light on the gold, subtle film grain. The three letters "AAB" must be large, sharp, correctly spelled and fill about 60 percent of the width, with generous margin for a circular crop. No other text, no watermark.
 ```
 
-### 3-2. 대안 A: 금박 이니셜 엠블럼 (로고형)
+### 3-2. 대안 A: 가죽 표지에 박힌 AAB (가장 단순)
 ```
-Square 1:1, 2K. A close, centered view of the front cover of an antique navy leather book. Embossed in worn gold leaf at the center, a classic engraved-style monogram of three capital letters "AAB" inside a thin circular border. Crossing the monogram diagonally, one thin red architectural dimension line (#E53935) with small tick marks at both ends, as if drawn on top by an engineer. Soft raking light that shows the leather grain and the depth of the embossing. Generous margin for a circular crop. Photorealistic, premium, no other text, no watermark.
+Square 1:1, 2K. A close, centered view of the front cover of an antique deep navy leather book. Debossed and gilded at the center in worn gold leaf: the three capital letters "AAB" in a classic engraved serif, large and sharp, inside a thin circular gold border. One thin red dimension line (#E53935) with tick marks at both ends runs beneath the letters. Soft raking light showing the leather grain and the depth of the gilding. Generous margin for a circular crop. Photorealistic, premium, no other text, no watermark.
 ```
-> 이니셜 글자는 깨질 수 있으니, 깨지면 글자 없이 생성하고 편집에서 금박 질감 "AAB"를 얹으세요.
 
-### 3-3. 대안 B: 책장 사이로 보이는 성조기 색 하늘의 스카이라인
+### 3-3. 대안 B: AAB 사이로 솟은 옥상 물탱크
 ```
-Square 1:1, 2K. An antique navy leather book standing slightly open toward the viewer; through the gap between the pages, a tiny photorealistic American skyline at golden hour glows as if the book were a window, with a few rooftop water tanks and a steel bridge silhouette. One thin red dimension line (#E53935) traces the top edge of the skyline. Deep navy background, warm light spilling from inside the book. No text, no logo, no watermark.
+Square 1:1, 2K. Large gold-leaf serif capital letters "AAB" standing as solid 3D objects on a dark navy surface; between the two A's and the B, a small photorealistic New York rooftop wooden water tank rises on short steel legs, the same height as the letters. One thin red dimension line (#E53935) with end ticks runs beside the tank. Deep navy background, warm rim light, subtle grain. Letters correctly spelled, sharp, centered, generous margin for a circular crop. No other text, no watermark.
 ```
+
+> 생성 이미지 속 글자가 깨지거나 철자가 틀리면, 글자 없이 책·배경만 생성하고 편집에서 금박 질감 "AAB"를 얹으세요(서체 예: Cormorant Garamond Bold, Playfair Display Black).
 
 **체크:** 원형으로 잘라 32px까지 줄여도 "책 + 탱크(또는 이니셜)"가 읽히는지 · 붉은 선은 하나뿐인지 · 글자가 깨지지 않았는지.
 
@@ -86,10 +87,12 @@ Ultra-wide 16:9 at 2560x1440. A photorealistic close-up of an antique parchment 
 
 ### 4-3. 편집에서 얹을 글자 (안전 영역 안)
 ```
+AAB
 AMAZING AMERICA BOOK
 An encyclopedia of American wonders, brought back to life with AI.
 A new page every day
 ```
+- "AAB": 금박 세리프 대문자로 크게, 그 아래 채널명 전체를 작게. 프로필과 같은 서체·질감
 - 채널명: 클래식 세리프(예: Cormorant Garamond Bold, Playfair Display) **금박 질감** 또는 흰색. 아래에 붉은 치수선 한 줄(양 끝 틱 포함).
 - 한 줄 소개: 산세리프(Inter) Regular, 흰색 80%.
 - 업로드 주기: 작은 글자, 안전 영역 안.
@@ -108,7 +111,7 @@ A new page every day
 |---|---|
 | 영상 인트로/아웃트로 | 0.5초: 책장이 넘어가며 다음 장소가 솟아오름. 아웃트로 로고도 같은 동작 |
 | 편수 표기 | "Page 1 · NYC Water Towers" 식. 영상 제목이 아니라 화면 하단 작은 자막과 재생목록 이름에 |
-| 워터마크(영상 우하단) | 대안 A의 금박 이니셜 엠블럼을 150×150 투명 PNG |
+| 워터마크(영상 우하단) | 프로필 대안 A의 금박 "AAB" 엠블럼을 150×150 투명 PNG |
 | 썸네일 공통 요소 | 왼쪽 위 작은 금박 책 아이콘 + 엑스레이 리빌 순간 프레임 + 큰 숫자 하나(6 FLOORS, 225 FT) |
 | 색 | 남색 #0E1A2B · 금박 #C9A24A · 붉은 선 #E53935 · 양피지 #EFE6D2 · 흰색 |
 
