@@ -45,13 +45,23 @@ Everything you drive past every day has a secret under it.
 All visuals AI-rendered. Every number sourced. New short daily.
 ```
 
-### 시그니처 비주얼 규격
-- **색**: 배경은 중립 콘크리트 톤, 강조는 단 하나 **빨간 치수선(#E53935)**. 다른 색 강조 금지.
+### 시그니처 비주얼 규격 (v2: 실사 기반 시네마틱 3D)
+
+**기준 한 줄: "뉴욕에서 드론 띄워 찍고 VFX를 얹었다"로 보여야 한다.** 미국 시청자는 픽사·게임 시네마틱·Zack D 급 3D에 익숙합니다. 모형·디오라마·받침대 위 단면처럼 보이는 순간 이탈합니다.
+
+| 층 | 내용 | 금지 |
+|---|---|---|
+| **① 실사 베이스** | 실제 거리·옥상·지하를 찍은 사진(직접 촬영 또는 CC0)을 Nano Banana **Ingredients**로 넣어 구도·빛·재질을 그대로 가져온 포토리얼 장면. 35mm 아나모픽 느낌, 얕은 심도, 필름 그레인, 하이라이트 롤오프 | 받침대·전시대·디오라마·토이 룩 |
+| **② 엑스레이 리빌** | 실사 장면 안에서 벽·바닥·땅이 **국소적으로** 유리처럼 투명해지며 내부가 드러남. 가장자리는 얇은 붉은 선 하나. 안쪽은 결로·녹·때가 있는 실물 재질 | 절단 단면·투시선·파란 홀로그램·다이어그램 |
+| **③ 실물 3D 글자** | 큰자막은 장면 안에 **실제로 놓인 금속·석재 글자**. 장면 조명을 받고 그림자를 드리우며 카메라 이동 시 시차가 생김 | 떠 있는 UI 자막 |
+
 - **단위**: 피트·마일·톤·갤런(미국 단위) 우선, 미터는 쓰지 않음.
-- **자막**: 흰색 산세리프(Inter Bold), 화면 하단 1/3, 한 번에 한 줄, 숫자는 1.3배 크기.
-- **카메라**: 돌리인 → 땅속/벽속으로 들어가는 단면 공개가 매 편의 "시그니처 샷"(5~12초 지점).
-- **지도 컷**: 매 편 1회, 미국 지도에서 해당 도시로 줌인(0.5초). 지역 시청자 공유 트리거.
-- **로고**: 빨간 치수선으로 그린 ㄱ자 꺾쇠 + 채널명. 영상 끝 0.5초만 노출.
+- **자막(소형)**: 흰색 산세리프(Inter Bold), 화면 하단 1/3, 한 번에 한 줄. 유행어 6개는 붉은 밑줄 한 줄.
+- **연출 장치**: 매 편 하나. 디오라마 옆 소품이 아니라 **장면 속 실물**로(지하 펌프실의 압력 게이지, 공사 현장의 측량 막대, 취수탑 벽의 수위 눈금 등). 숫자는 편집에서.
+- **카메라 언어**: 드론 오빗·하강, FPV로 창문 통과, 매크로 돌리. 모든 움직임에 무게. 한 편 안에서 빛이 흐름(블루아워 → 아침 → 골든아워).
+- **지도 컷**: 매 편 1회, 실사 위성 느낌의 미국 지도에서 해당 도시로 줌인(0.5초).
+- **로고**: 붉은 치수선으로 그린 ㄱ자 꺾쇠 + 채널명. 영상 끝 0.5초만 노출.
+- **품질 게이트**: 생성물마다 첫 질문은 "이게 사진으로 보이나?" 아니면 탈락. 1편 컷 1·3·7이 기준 샷.
 
 ### 보이스 스펙
 - 남성 또는 중성, 30대, 미국 일반(General American) 억양, 분당 150~160단어. 감탄·웃음 없음.
@@ -154,27 +164,26 @@ NYC 2 · 시카고/중서부 1 · LA/서부 1 · 텍사스/남부 1 · 전국 �
 
 ---
 
-## 5. 제작 파이프라인 (편당 약 2.5~3시간 목표)
+## 5. 제작 파이프라인 (편당 약 3.5~4시간 목표)
 
 | 단계 | 도구 | 산출물 | 시간 |
 |---|---|---|---|
 | 1. 소재 선정 | §6 캘린더 + r/engineering, r/urbanplanning, r/nyc·r/chicago 등 도시 서브레딧, 지역 뉴스 | 제목 1문장 | 10분 |
 | 2. 사실 검증 | 출처 2개 이상(USGS·USACE·시 정부·주요 언론). 숫자마다 URL 기록 | `facts.md` | 30분 |
 | 3. 대본 | §4 템플릿 | 125~145단어 | 20분 |
-| 4. 샷리스트 | 7샷 × 8초 (지도 줌인 포함) | 프롬프트 7개 | 15분 |
-| 5. 영상 생성 | Google Flow / Veo 3.1, 9:16 | 클립 7개 | 40분 |
+| 4. 로케이션·샷리스트 | 모티브 장소 선정, 사진 확보(직접/CC0), 컷별 샷 | 로케이션 표 + 프롬프트 | 25분 |
+| 5. 스틸 생성 | Nano Banana Pro + 로케이션 사진 Ingredients | 레퍼런스 6장 + 컷별 시작/끝 스틸 | 50분 |
+| 5b. 영상 생성 | Google Flow / Veo 3.1, 9:16, 프레임→영상 | 클립 7~18개 | 60분 |
 | 6. 음성 | ElevenLabs 고정 보이스 | WAV | 5분 |
 | 7. 편집 | CapCut 또는 Premiere. 치수선 프리셋(AE 템플릿 1회 제작) | 55초 mp4 | 40분 |
 | 8. 업로드 | §5-2 메타 | YouTube Shorts → TikTok → Reels | 10분 |
 
-### 5-1. 공통 비주얼 프롬프트
+### 5-1. 공통 비주얼 프롬프트 (v2)
 ```
-photorealistic 3D architectural cutaway of [SUBJECT, CITY], vertical 9:16,
-slow cinematic dolly-in, camera passes through the surface to reveal the section,
-thin red dimension lines and small labels overlaid, overcast neutral daylight,
-muted concrete and steel palette, no readable text, no people in focus, 8 seconds
+Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real location shoot in [CITY], captured on a full-frame camera with a 35mm anamorphic lens: shallow depth of field, gentle oval bokeh, natural film-like color, soft highlight roll-off, subtle grain. Real materials with wear. Atmospheric light with volumetric haze. Any "x-ray" reveal is a localized, physically plausible effect: a surface turns to clear glass only in one bounded area, with a single thin red edge line; what is inside is rendered as real, lit, worn material, never as a diagram. Large captions are real 3D letters physically placed in the scene (brushed metal or stone), catching the scene's light and casting shadows. Strictly no model, no diorama, no display base, no cutaway edges, no blueprint lines, no hologram, no UI overlays, no cartoon, no toy look, no oversaturation, no readable text other than the specified caption letters, no logos, no brand signage, no license plates, no visible human faces.
 ```
-샷 역할 고정: ①도시 와이드 + 지도 줌인 → ②단면 진입(시그니처) → ③메커니즘 클로즈업 → ④숫자 비교 그래픽 → ⑤타임랩스/연대 → ⑥결과·현재 → ⑦훅 리프레이즈용 와이드 복귀.
+샷 역할 고정: ①실사 도입(드론/로우앵글) + 지도 줌인 → ②엑스레이 리빌(시그니처) → ③메커니즘 매크로 → ④실물 3D 글자 숫자 → ⑤타임랩스/연대 → ⑥결과·현재 → ⑦훅 리프레이즈용 와이드 복귀.
+로케이션 사진은 직접 촬영 또는 CC0만 Ingredients로 사용. 스트리트뷰·타인 사진은 참고용. 생성물의 간판·얼굴·번호판은 제거.
 
 ### 5-2. 업로드 메타 규격
 - 제목: 훅 문장. 설명 1줄째: 훅 재진술, 2줄째: 출처 2~3개 링크, 3줄째: `All visuals AI-generated for illustration.`
