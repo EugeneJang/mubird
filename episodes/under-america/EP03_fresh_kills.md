@@ -105,7 +105,7 @@ v1의 "코어 튜브 소품"을 **마운드 꼭대기에 실제로 박힌 흰 �
 | 14 | 105–112 | And they're still moving. As the trash settles, the ground sinks a little every year. The park is designed to move with it. | 그리고 지금도 움직이고 있어요. 쓰레기가 다져지면서 땅이 매년 조금씩 내려앉습니다. 공원은 그 움직임을 전제로 설계됐어요 | **L1.** 같은 언덕 고정 카메라 타임랩스, 계절이 바뀌며(풀이 초록→금빛→초록) 언덕 윤곽과 말뚝, 산책로가 함께 아주 조금 내려앉음. 원래 높이가 얇은 붉은 선으로 공중에 남음 | 프레임→영상 (시작+끝) | Fast |
 | 15 | 112–119 | Even the name remembers. "Kills" is an old Dutch word for a stream. Before this was a mountain, it was water. | 이름조차 기억하고 있어요. "Kills"는 옛 네덜란드어로 물길이라는 뜻이에요. 산이 되기 전, 여기는 물이었습니다 | **L1 + L2.** 초원 언덕 위로 1940년대 갯벌 습지와 물길이 반투명하게 겹쳐, 물결이 언덕 윤곽을 따라 일렁임. 언덕 기슭 실제 하구의 물과 이어짐 | 프레임→영상 (시작+끝) | Quality |
 | 16 | 119–125 | So you're not standing on a hill. You're standing on half a century of a city's ordinary days, wrapped and set aside. | 그러니 여러분이 선 곳은 언덕이 아니에요. 한 도시가 보낸 반세기의 평범한 날들이, 포장돼 한쪽에 놓인 자리입니다 | **L1.** 골든아워 초원 와이드, 바람에 풀이 눕고 멀리 맨해튼. 측량 말뚝의 두 눈금(짧은 것, 긴 것)만 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
-| 17 | 125–131 | Next time, let's head west to Hoover Dam, which is still cooling down. | 다음엔 서쪽으로, 아직도 식고 있는 후버댐으로 가 볼게요 | 다음 편 티저: 블랙캐니언 위 후버댐 실사 드론 컷, 댐 벽 일부가 투명해지는 1초(EP.04 레퍼런스 선제작) | 편집 | — |
+| 17 | 125–131 | Next time, let's head west to Hoover Dam, a wall of concrete that should have taken 125 years to cool. | 다음엔 서쪽으로, 식는 데만 125년이 걸렸어야 할 콘크리트 벽, 후버댐으로 가 볼게요 | 다음 편 티저: 블랙캐니언 위 후버댐 실사 드론 컷, 댐 벽 일부가 투명해지는 1초(EP.04 레퍼런스 선제작) | 편집 | — |
 | 18 | 131–134 | — | — | 로고 0.5초 | 편집 | — |
 
 ---
@@ -134,7 +134,7 @@ And they're still moving. As the trash settles, the ground sinks a little every 
 Even the name remembers. "Kills" is an old Dutch word for a stream. Before this was a mountain, it was water.
 So you're not standing on a hill. You're standing on half a century of a city's ordinary days, wrapped and set aside.
 
-Next time, let's head west to Hoover Dam, which is still cooling down.
+Next time, let's head west to Hoover Dam, a wall of concrete that should have taken 125 years to cool.
 ```
 
 약 345단어. 분당 155단어로 읽으면 약 134초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
@@ -410,4 +410,4 @@ All visuals AI-generated for illustration. Narration and research by the channel
 ```
 
 **업로드 설정:** "변경되거나 합성된 콘텐츠" ON · 어린이용 아님 · 미국 동부 오후 6시 게시 · TikTok·Reels 동시 게시
-**고정 댓글:** "Thanks for watching. Next time, let's head west to Hoover Dam, which is still cooling down. 👉 EP.04 · Earlier: NYC's rooftop water towers 👉 EP.01 · Raising Chicago 👉 EP.02"
+**고정 댓글:** "Thanks for watching. Next time, let's head west to Hoover Dam, a wall of concrete that should have taken 125 years to cool. 👉 EP.04 · Earlier: NYC's rooftop water towers 👉 EP.01 · Raising Chicago 👉 EP.02"

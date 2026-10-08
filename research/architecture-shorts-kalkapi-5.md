@@ -370,7 +370,7 @@ architectural visualization style, 8s clip
 |---|---|---|---|
 | 392만 | 에어컨 없이 5만 명을 시원하게 만든 로마의 방법 | *The Colosseum had air conditioning. It was made of sails.* | 벨라리움(velarium): 관중 5만, 돛 운용은 미세눔 함대 해군, 돛대 약 240개 |
 | 253만 | 바다보다 낮은 나라가 사는 법, 풍차 1만 개로 바다를 밀어냈다 | *Dutch windmills weren't for grinding flour. They were pumps.* | 19세기 중반 풍차 약 1만 기, 국토 26%가 해수면 아래, 킨데르다이크 19기 |
-| 246만 | 식는 데만 125년, 후버댐이 콘크리트 속에 냉장고를 넣은 이유 | *Hoover Dam is still cooling down. Without this, it would've taken 125 years.* | 1인치 냉각 파이프 총 582마일(약 937km), 하루 얼음 1,000톤 제빙 플랜트, 타설 1933~35 |
+| 246만 | 식는 데만 125년, 후버댐이 콘크리트 속에 냉장고를 넣은 이유 | *Hoover Dam was built as 215 columns. One solid pour would have taken 125 years to cool.* | 1인치 냉각 파이프 총 582마일(약 937km), 하루 얼음 1,000톤 제빙 플랜트, 타설 1933~35 |
 
 ---
 

@@ -203,7 +203,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 | 1 | NYC water towers aren't for storing water. They're the city's water pressure. | 6층 이상 의무, 탱크 최대 1만 7천 개, 제조사 2곳 | B | NYC |
 | 2 | ★ Chicago didn't drain the swamp. It lifted the entire city out of it. | 1850~60년대, 4~14ft, 1에이커 블록을 잭스크루 6,000개로 | D | 시카고 |
 | 3 | ★ Staten Island's new park is 150 million tons of New York's garbage. | 1948~2001, 2,200에이커, 최고 225ft | A | NYC |
-| 4 | ★ Hoover Dam is still cooling down. Without these pipes, it'd take 125 years. | 1인치 파이프 582마일, 하루 얼음 1,000t | C | 네바다/애리조나 |
+| 4 | ★ Hoover Dam isn't one block of concrete. It's 215 columns, because one pour would've taken 125 years to cool. | 1인치 파이프 582마일, 하루 얼음 1,000t | C | 네바다/애리조나 |
 | 5 | ★ The Mississippi above St. Louis isn't a river. It's 29 lakes in a row. | Lock & Dam 29개, 9ft 항로 | A | 중서부 |
 | 6 | The real reason American houses are built from wood. | 목재 가격·지진·공기 | B | 전국 |
 | 7 | Round manhole covers aren't just a design choice. A square one could fall in. | 약 250lb, 대각선 차이 | A | 전국 |
@@ -273,7 +273,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 [0:44] Today it's 2,200 acres of grassland, almost three times the size of Central Park, opening in phases into the 2030s.
 [0:51] But here's the part I'd love you to remember. The hills are still settling. The ground drops a little every year, because what's underneath is still breaking down.
 [0:58] You're not standing on a hill. You're standing on a city's last 50 years.
-[1:02] Next time, let's head west to Hoover Dam, which is still cooling down.
+[1:02] Next time, let's head west to Hoover Dam, a wall of concrete that should have taken 125 years to cool.
 ```
 샷: ①초원 와이드 + 지도 줌인 → 땅속 단면 진입 ②단면 층: 흙/점토/라이너/쓰레기, 치수선 "225 ft" ③1948→2001 바지선 타임랩스 ④자유의 여신상 높이 비교 ⑤메탄 포집정 → 관로 → 플랜트 ⑥센트럴파크 3배 면적 비교 ⑦침하 애니메이션 후 초원 복귀.
 
