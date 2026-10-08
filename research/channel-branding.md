@@ -25,20 +25,21 @@
 An encyclopedia of American wonders, brought back to life with AI. One page a day: the clever ideas hidden in the places you walk past.
 ```
 
-### 2-2. 채널 설명란 (About, 정중한 안내자 어투)
+### 2-2. 채널 설명란 (About, 968자 · 유튜브 제한 1,000자)
 ```
-Welcome to the Amazing America Book.
+Welcome to the Amazing America Book, an encyclopedia of American wonders brought back to life with AI.
 
-Every page of this book is one place you've probably walked past a thousand times: the wooden tank on a New York roof, a downtown street in Chicago, a quiet green hill on Staten Island. And behind every one of them is a problem that seemed impossible, and an idea that turned it around.
+Every page of this book is a place you have probably passed a thousand times without a second look: the wooden tanks on New York's rooftops, the streets of downtown Chicago, a quiet green hill on Staten Island, a dam deep in a desert canyon. Each one hides a problem that once seemed impossible, a moment when nothing worked, and one brilliant idea that turned everything around.
 
-In about a minute, we open the page, look through the walls and the ground, and show you how it really works. Then we save one detail for the end that I'd love you to remember.
+In about a minute, we open the page. We look through the walls, under the pavement and deep into the ground to show you how these places really work, and we always save one detail for the end that I'd love you to remember.
 
 A new page every day.
 
-All visuals are AI-generated for illustration, based on real places. The research and narration are done by the channel, and every number is sourced in the episode description. If you spot a mistake, please let us know in the comments and we'll correct it.
+All visuals are AI-generated for illustration and based on real places. Research and narration are by the channel, and every number is sourced in the description. If you spot a mistake, please tell us in the comments.
 
-Business inquiries: [채널 전용 이메일]
+Business: [email]
 ```
+> `[email]`은 채널 전용 이메일로 바꾸세요. 주소가 길면 글자 수가 1,000자를 넘을 수 있으니 붙여 넣은 뒤 유튜브 글자 수 표시를 확인하세요.
 
 ### 2-3. 한국어 참고 번역 (업로드용 아님)
 > 어메이징 아메리카 북에 오신 걸 환영합니다. 이 책의 한 페이지 한 페이지는 여러분이 천 번은 지나쳤을 장소예요. 그 뒤에는 불가능해 보였던 문제와, 그걸 뒤집은 생각이 숨어 있습니다. 1분 안에 페이지를 펼치고, 벽과 땅속을 들여다보며 어떻게 작동하는지 보여 드릴게요. 매일 한 페이지씩.
