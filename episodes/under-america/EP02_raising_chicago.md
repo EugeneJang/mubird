@@ -1,6 +1,6 @@
 # Under America EP.02 Raising Chicago — The city that lifted itself out of the mud
 
-**125초 · 18컷 · 큰자막 2개 (3D 공간 연출) · 영어 나레이션(정중한 안내자 어투)**
+**134초 · 19컷 · 큰자막 2개 (3D 공간 연출) · 영어 나레이션(정중한 안내자 어투)**
 **제목:** Chicago didn't drain its swamp. It lifted the entire downtown out of it. | Under America #2
 
 이번 편이 싸우는 상대는 **"물이 빠질 곳이 없다"**는 것입니다. 1850년대 시카고 다운타운은 미시간호 수면과 거의 같은 높이라 하수관을 놓을 경사가 없었어요. 땅을 파면 물이 나오고, 경사를 만들 수 없으면 하수가 흐르지 않죠. 그래서 나온 답이 **"도시를 통째로 들어올린다"**였습니다. 하수관을 기존 길 위에 놓고 흙으로 덮어 새 길을 만들고, 건물은 잭스크루 수천 개로 들어올렸어요.
@@ -50,31 +50,32 @@
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 22–30 | Here was the problem. Sewers need a slope, and Chicago had none. So he proposed the opposite: raise the city. | 문제는 이거였어요. 하수관엔 경사가 필요한데 시카고엔 없었죠. 그래서 그는 반대를 제안합니다. 도시를 높이자 | **핵심 비주얼 ①.** 거리 단면 속 수평 하수관에 물이 고여 움직이지 않음. 이어서 거리 전체가 위로 들리며 하수관이 비스듬해지고 물이 흐르기 시작. 수준표에 두 번째 붉은 표지가 생겨 위로 올라감 | 프레임→영상 (시작+끝) | Quality |
-| 5 | 30–40 | Lay the sewers on top of the existing streets, bury them, and pave a new street above. The grade would rise between four and fourteen feet. | 하수관을 기존 길 위에 놓고, 흙으로 덮고, 그 위에 새 길을 포장한다. 지반은 4피트에서 14피트까지 올라갑니다 | 옛 포장 위에 벽돌 하수관이 놓이고, 흙이 쏟아져 덮이고, 새 포장이 그 위에 깔리는 3단계 타임랩스 ★ 3D 큰자막 「4 TO 14 FEET」 두 붉은 표지 사이 공간에 입체 글자 | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 40–49 | The fill came from the river. Dredging made the Chicago River deeper for the sewage, and the mud from its bottom became the new ground. | 흙은 강에서 왔어요. 준설로 시카고강이 하수를 받을 만큼 깊어졌고, 강바닥 진흙이 새 땅이 됐습니다 | 강 단면: 준설 바지선이 강바닥을 파고, 퍼낸 진흙이 수레로 옮겨져 거리 위에 쌓임. 강은 깊어지고 거리는 높아지는 대비 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 4 | 22–32 | Here's the problem. Sewers need a slope, and Chicago had none. Now here's the maddening part. Dig down, and you hit water. Build up, and the buildings are already there. | 문제는 이거예요. 하수관엔 경사가 필요한데 시카고엔 없었죠. 여기서 환장할 노릇입니다. 땅을 파면 물이 나오고, 위로 쌓으려니 건물이 이미 서 있어요 | **핵심 비주얼 ①(막힌 길).** 거리 단면 속 수평 하수관에 물이 고여 움직이지 않음. 삽이 땅을 파자 구덩이에 물이 차오르고, 반대편에선 흙을 쌓으려는 자리에 건물 기초가 꽉 들어차 있음. 두 길 다 붉은 X 윤곽 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 4b | 32–38 | And this is where the thinking flips. He proposed the opposite: raise the city. | 이때 발상을 전환합니다. 그는 반대를 제안해요. 도시를 높이자 | **핵심 비주얼 ②(뒤집힘).** 거리 전체가 위로 들리며 하수관이 비스듬해지고 고였던 물이 흐르기 시작. 수준표에 두 번째 붉은 표지가 생겨 위로 올라감 | 프레임→영상 (시작+끝) | Quality |
+| 5 | 38–48 | Lay the sewers on top of the existing streets, bury them, and pave a new street above. The grade would rise between four and fourteen feet. | 하수관을 기존 길 위에 놓고, 흙으로 덮고, 그 위에 새 길을 포장한다. 지반은 4피트에서 14피트까지 올라갑니다 | 옛 포장 위에 벽돌 하수관이 놓이고, 흙이 쏟아져 덮이고, 새 포장이 그 위에 깔리는 3단계 타임랩스 ★ 3D 큰자막 「4 TO 14 FEET」 두 붉은 표지 사이 공간에 입체 글자 | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
+| 6 | 48–57 | The fill came from the river. Dredging made the Chicago River deeper for the sewage, and the mud from its bottom became the new ground. | 흙은 강에서 왔어요. 준설로 시카고강이 하수를 받을 만큼 깊어졌고, 강바닥 진흙이 새 땅이 됐습니다 | 강 단면: 준설 바지선이 강바닥을 파고, 퍼낸 진흙이 수레로 옮겨져 거리 위에 쌓임. 강은 깊어지고 거리는 높아지는 대비 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
 
 ### 해법 — 들어올린다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 49–57 | But the buildings still stood at the old level. Here's the clever part. They didn't tear them down. They lifted them. | 하지만 건물들은 여전히 옛 높이에 있었죠. 여기가 영리한 부분이에요. 부수지 않았습니다. 들어올렸어요 | 새 거리가 건물 1층 창문 높이까지 올라와 건물이 땅에 묻힌 듯 보임. 이어서 건물이 붉은 윤곽과 함께 천천히 떠오르기 시작 | 프레임→영상 (시작+끝) | Fast |
-| 8 | 57–66 | Crews slid hundreds of jackscrews under a foundation. On a signal, each worker gave his screws a quarter turn. Then again. And again. | 인부들이 기초 밑에 잭스크루 수백 개를 밀어 넣었어요. 신호에 맞춰 각자 자기 나사를 4분의 1바퀴 돌립니다. 또 돌리고, 또 돌리고 | **핵심 비주얼 ②.** 벽돌 건물 기초 아래 단면. 빽빽한 잭스크루 열, 실루엣 인부들이 손잡이를 동시에 4분의 1바퀴 돌리면 건물이 1인치쯤 오르고, 다시 돌리면 또 오름. 리듬감 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 9 | 66–74 | In 1860, half a block on Lake Street rose as one piece: about an acre of brick, some 35,000 tons, on 6,000 screws, 600 men, four days. | 1860년, 레이크 스트리트 반 블록이 한 덩어리로 올라갔어요. 벽돌 건물 약 1에이커, 약 3만 5천 톤, 나사 6천 개, 인부 6백 명, 나흘 | **핵심 비주얼 ③.** 블록 전체 부감 단면. 건물 여러 채가 한 판처럼 붉은 윤곽으로 묶여 함께 떠오름. 아래로 잭스크루가 숲처럼 보임 ★ 3D 큰자막 「6,000 SCREWS」 블록 옆 공간에 입체 글자 | 프레임→영상 (시작+끝) | Quality |
-| 10 | 74–79 | And the shops stayed open the whole time. Customers kept walking in while the floor rose beneath them. | 그리고 그동안 상점은 계속 영업했어요. 바닥이 올라가는 동안에도 손님들이 드나들었죠 | 상점 정면 클로즈업. 문 앞 보도에 임시 계단이 놓이고 실루엣 손님이 드나듦. 건물이 아주 느리게 오르며 계단 단수가 하나 늘어남 | 프레임→영상 (시작+끝) | Fast |
-| 11 | 79–88 | One of the contractors was a young George Pullman, who lifted a six-story hotel with the guests still inside. He'd later be famous for railroad sleeping cars. | 시공자 중 한 명은 젊은 조지 풀먼이었어요. 6층 호텔을 투숙객이 있는 채로 들어올렸죠. 뒤에 철도 침대차로 유명해지는 사람입니다 | 6층 벽돌 호텔이 잭스크루 위에서 떠오르고, 창문마다 불이 켜져 있음. 마지막 1초에 호텔 실루엣이 길쭉한 침대차 실루엣으로 겹쳐 전환 | 프레임→영상 (시작+끝) + Extend 1초 | Fast |
+| 7 | 57–65 | But the buildings still stood at the old level. They didn't tear them down. They lifted them. | 하지만 건물들은 여전히 옛 높이에 있었죠. 부수지 않았습니다. 들어올렸어요 | 새 거리가 건물 1층 창문 높이까지 올라와 건물이 땅에 묻힌 듯 보임. 이어서 건물이 붉은 윤곽과 함께 천천히 떠오르기 시작 | 프레임→영상 (시작+끝) | Fast |
+| 8 | 65–75 | Here's the clever part. Crews slid hundreds of jackscrews under a foundation. On a signal, each worker gave his screws a quarter turn. Then again. And again. | 여기가 영리한 부분이에요. 인부들이 기초 밑에 잭스크루 수백 개를 밀어 넣었어요. 신호에 맞춰 각자 자기 나사를 4분의 1바퀴 돌립니다. 또 돌리고, 또 돌리고 | **핵심 비주얼 ②.** 벽돌 건물 기초 아래 단면. 빽빽한 잭스크루 열, 실루엣 인부들이 손잡이를 동시에 4분의 1바퀴 돌리면 건물이 1인치쯤 오르고, 다시 돌리면 또 오름. 리듬감 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 9 | 75–83 | In 1860, half a block on Lake Street rose as one piece: about an acre of brick, some 35,000 tons, on 6,000 screws, 600 men, four days. | 1860년, 레이크 스트리트 반 블록이 한 덩어리로 올라갔어요. 벽돌 건물 약 1에이커, 약 3만 5천 톤, 나사 6천 개, 인부 6백 명, 나흘 | **핵심 비주얼 ③.** 블록 전체 부감 단면. 건물 여러 채가 한 판처럼 붉은 윤곽으로 묶여 함께 떠오름. 아래로 잭스크루가 숲처럼 보임 ★ 3D 큰자막 「6,000 SCREWS」 블록 옆 공간에 입체 글자 | 프레임→영상 (시작+끝) | Quality |
+| 10 | 83–88 | And the shops stayed open the whole time. Customers kept walking in while the floor rose beneath them. | 그리고 그동안 상점은 계속 영업했어요. 바닥이 올라가는 동안에도 손님들이 드나들었죠 | 상점 정면 클로즈업. 문 앞 보도에 임시 계단이 놓이고 실루엣 손님이 드나듦. 건물이 아주 느리게 오르며 계단 단수가 하나 늘어남 | 프레임→영상 (시작+끝) | Fast |
+| 11 | 88–97 | One of the contractors was a young George Pullman, who lifted a six-story hotel with the guests still inside. He'd later be famous for railroad sleeping cars. | 시공자 중 한 명은 젊은 조지 풀먼이었어요. 6층 호텔을 투숙객이 있는 채로 들어올렸죠. 뒤에 철도 침대차로 유명해지는 사람입니다 | 6층 벽돌 호텔이 잭스크루 위에서 떠오르고, 창문마다 불이 켜져 있음. 마지막 1초에 호텔 실루엣이 길쭉한 침대차 실루엣으로 겹쳐 전환 | 프레임→영상 (시작+끝) + Extend 1초 | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 12 | 88–93 | But here's the part I'd love you to remember. The old city never left. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 옛 도시는 떠나지 않았습니다 | 현대 루프 거리 와이드. 카메라가 보도 아래로 내려가기 시작. 수준표의 위 표지(현재)에서 아래 표지(옛 거리)로 시선 이동 | 프레임→영상 (시작) | Quality |
-| 13 | 93–102 | Under the Loop, many basements are the old ground floors. Under the sidewalks are hollow vaults where the street used to be. | 루프 밑에서는 많은 지하층이 옛 1층이에요. 보도 밑에는 옛 거리가 있던 자리에 빈 공간이 남아 있습니다 | **핵심 비주얼 ④.** 현대 거리 단면. 보도 아래 아치형 빈 공간(볼트), 그 옆 건물 지하층에 옛 1층 창틀과 문 윤곽이 벽에 남아 있음. 아래 붉은 표지가 그 높이에 그대로 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 14 | 102–107 | And those sewers drained into the river, which flowed into the lake, the city's drinking water. | 그리고 그 하수는 강으로 흘렀고, 강은 호수로 흘렀어요. 시의 식수원이었죠 | 부감 지도 애니메이션. 거리 밑 붉은 하수선들이 시카고강으로 모여 미시간호로 흘러들고, 호숫가 취수구가 붉게 강조됨 | 프레임→영상 (시작+끝) | Quality |
-| 15 | 107–112 | Forty years later, Chicago would have to turn the river around. | 40년 뒤, 시카고는 강의 방향을 뒤집어야 했습니다 | 같은 지도. 강의 흐름 화살표가 멈췄다가 반대 방향으로 돌아서 호수에서 멀어짐. 예고편 느낌으로 짧게 | 프레임→영상 (시작+끝) | Quality |
-| 16 | 112–117 | Chicago didn't escape the mud. It built a second city on top of it. | 시카고는 진흙을 벗어난 게 아니에요. 그 위에 두 번째 도시를 지은 겁니다 | 거리 단면 전체. 아래 옛 거리와 위 현재 거리가 두 층으로 또렷하게 겹치고, 두 붉은 표지 사이가 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
-| 17 | 117–123 | Next time, let's visit a park in New York built on 150 million tons of garbage. | 다음엔 쓰레기 1억 5천만 톤 위에 지은 뉴욕의 공원으로 가 볼게요 | 다음 편 티저: 초원 언덕 단면 실루엣(EP.03 레퍼런스 A 선제작) | 편집 | — |
-| 18 | 123–125 | — | — | 로고 0.5초 | 편집 | — |
+| 12 | 97–102 | But here's the part I'd love you to remember. The old city never left. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 옛 도시는 떠나지 않았습니다 | 현대 루프 거리 와이드. 카메라가 보도 아래로 내려가기 시작. 수준표의 위 표지(현재)에서 아래 표지(옛 거리)로 시선 이동 | 프레임→영상 (시작) | Quality |
+| 13 | 102–111 | Under the Loop, many basements are the old ground floors. Under the sidewalks are hollow vaults where the street used to be. | 루프 밑에서는 많은 지하층이 옛 1층이에요. 보도 밑에는 옛 거리가 있던 자리에 빈 공간이 남아 있습니다 | **핵심 비주얼 ④.** 현대 거리 단면. 보도 아래 아치형 빈 공간(볼트), 그 옆 건물 지하층에 옛 1층 창틀과 문 윤곽이 벽에 남아 있음. 아래 붉은 표지가 그 높이에 그대로 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 14 | 111–116 | And those sewers drained into the river, which flowed into the lake, the city's drinking water. | 그리고 그 하수는 강으로 흘렀고, 강은 호수로 흘렀어요. 시의 식수원이었죠 | 부감 지도 애니메이션. 거리 밑 붉은 하수선들이 시카고강으로 모여 미시간호로 흘러들고, 호숫가 취수구가 붉게 강조됨 | 프레임→영상 (시작+끝) | Quality |
+| 15 | 116–121 | Forty years later, Chicago would have to turn the river around. | 40년 뒤, 시카고는 강의 방향을 뒤집어야 했습니다 | 같은 지도. 강의 흐름 화살표가 멈췄다가 반대 방향으로 돌아서 호수에서 멀어짐. 예고편 느낌으로 짧게 | 프레임→영상 (시작+끝) | Quality |
+| 16 | 121–126 | Chicago didn't escape the mud. It built a second city on top of it. | 시카고는 진흙을 벗어난 게 아니에요. 그 위에 두 번째 도시를 지은 겁니다 | 거리 단면 전체. 아래 옛 거리와 위 현재 거리가 두 층으로 또렷하게 겹치고, 두 붉은 표지 사이가 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
+| 17 | 126–132 | Next time, let's visit a park in New York built on 150 million tons of garbage. | 다음엔 쓰레기 1억 5천만 톤 위에 지은 뉴욕의 공원으로 가 볼게요 | 다음 편 티저: 초원 언덕 단면 실루엣(EP.03 레퍼런스 A 선제작) | 편집 | — |
+| 18 | 132–134 | — | — | 로고 0.5초 | 편집 | — |
 
 ---
 
@@ -85,12 +86,13 @@ Chicago didn't drain its swamp. It picked up the whole downtown and lifted it ou
 In the 1850s, the city sat barely above Lake Michigan. The streets were mud, and cholera came back summer after summer.
 So in 1855, the city brought in an engineer, Ellis Chesbrough, to build the first comprehensive sewer system in the United States.
 
-Here was the problem. Sewers need a slope, and Chicago had none. So he proposed the opposite: raise the city.
+Here's the problem. Sewers need a slope, and Chicago had none. Now here's the maddening part. Dig down, and you hit water. Build up, and the buildings are already there.
+And this is where the thinking flips. He proposed the opposite: raise the city.
 Lay the sewers on top of the existing streets, bury them, and pave a new street above. The grade would rise between four and fourteen feet.
 The fill came from the river. Dredging made the Chicago River deeper for the sewage, and the mud from its bottom became the new ground.
 
-But the buildings still stood at the old level. Here's the clever part. They didn't tear them down. They lifted them.
-Crews slid hundreds of jackscrews under a foundation. On a signal, each worker gave his screws a quarter turn. Then again. And again.
+But the buildings still stood at the old level. They didn't tear them down. They lifted them.
+Here's the clever part. Crews slid hundreds of jackscrews under a foundation. On a signal, each worker gave his screws a quarter turn. Then again. And again.
 In 1860, half a block on Lake Street rose as one piece: about an acre of brick, some 35,000 tons, on 6,000 screws, 600 men, four days.
 And the shops stayed open the whole time. Customers kept walking in while the floor rose beneath them.
 One of the contractors was a young George Pullman, who lifted a six-story hotel with the guests still inside. He'd later be famous for railroad sleeping cars.
@@ -104,16 +106,30 @@ Chicago didn't escape the mud. It built a second city on top of it.
 Next time, let's visit a park in New York built on 150 million tons of garbage.
 ```
 
-약 320단어. 분당 155단어로 읽으면 약 124초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
+약 345단어. 분당 155단어로 읽으면 약 134초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
 
-**어투 체크:** 명령문 없음 · 속어 없음 · 시청자를 낮추는 표현 없음 · 고정 신호 문구 3개 모두 제자리("Here's the clever part" 컷 7, "I'd love you to remember" 컷 12, "Next time, let's visit" 컷 17) · 역사 인물 2명(체스브로, 풀먼)은 업적만 서술.
+**어투 체크:** 명령문 없음 · 속어 없음 · 시청자를 낮추는 표현 없음 · 고정 신호 문구 6개 모두 제자리(비트 체크 표 참조) · 역사 인물 2명(체스브로, 풀먼)은 업적만 서술.
+
+
+**비트 체크 (6비트 시트, 기획안 §4):**
+
+| 비트 | 고정 문구 | 컷 |
+|---|---|---|
+| HOOK | Chicago didn't drain its swamp. It picked up the whole downtown and lifted it out. | 1 |
+| PROBLEM | Here's the problem. | 4 |
+| MADDENING | Now here's the maddening part. | 4 (구덩이에 물 · 기초가 길을 막음, 붉은 X) |
+| FLIP | And this is where the thinking flips. | 4b (거리가 들리고 물이 흐름) |
+| CLEVER | Here's the clever part. | 8 |
+| REMEMBER | But here's the part I'd love you to remember. | 12 |
+| NEXT | Next time, let's visit… | 17 |
 
 ---
 
 ## 5. 연출 포인트
 
 - 이번 편은 시즌에서 **가장 "사람 손"이 많이 보이는 편**이에요. EP.01이 중력·배관의 이야기였다면, EP.02는 600명이 동시에 나사를 돌리는 이야기입니다. 그래서 컷 8의 **리듬**이 생명이에요. 나레이션 "quarter turn / Then again / And again"에 맞춰 건물이 세 번 "툭, 툭, 툭" 오르게. 효과음은 나무 삐걱임 + 쇠 나사 돌아가는 소리를 아주 작게.
-- 컷 4는 이 편의 논리 핵심이에요. 수평 하수관의 물이 **안 움직이는** 걸 2초 보여주고, 거리가 들리면서 물이 **흐르기 시작**하는 순간에 수준표 두 번째 표지가 생겨야 합니다. "raise the city"의 raise에 표지가 올라가게.
+- 컷 4는 이 편의 **막힌 길**이에요. 수평 하수관의 물이 **안 움직이는** 걸 2초 보여준 뒤, "Dig down"에 구덩이에 물이 차고 "Build up"에 건물 기초가 길을 막습니다. 두 번 다 붉은 X. 이게 환장할 노릇의 비주얼이에요.
+- 컷 4b가 **뒤집힘**. "flips"에 거리가 들리기 시작하고, "raise the city"의 raise에 수준표 두 번째 표지가 올라가게. 고였던 물이 흐르기 시작하는 순간이 이 편의 첫 쾌감 포인트.
 - 컷 5 3단계(하수관 놓기 → 흙 덮기 → 포장)는 각 단계 2.5초. 큰자막은 포장이 완성되는 순간에.
 - 컷 9 "6,000 SCREWS"는 블록 밑 잭스크루 숲이 **정렬된 격자**로 보여야 합니다. 어지럽게 흩어지면 탈락. 큰자막은 블록이 완전히 떠오른 뒤에.
 - 컷 10 상점 문 앞 임시 계단은 이 편의 소소한 웃음 포인트. 계단이 한 단 늘어나는 걸 눈치챌 수 있을 만큼만 느리게.
@@ -126,9 +142,10 @@ Next time, let's visit a park in New York built on 150 million tons of garbage.
 
 ## 6. Flow 작업 메모
 
-- **크레딧 배분:** Quality 11컷(1, 4, 5, 6, 8, 9, 12, 13, 14, 15, 16), Fast 5컷(2, 3, 7, 10, 11), 편집 2컷. 먼저 4·8·13번으로 톤 확정
+- **크레딧 배분:** Quality 12컷(1, 4, 4b, 5, 6, 8, 9, 12, 13, 14, 15, 16), Fast 5컷(2, 3, 7, 10, 11), 편집 2컷. 먼저 4b·8·13번으로 톤 확정
 - 컷 1: 시작(건물이 땅에 붙어 있음, 땅 불투명) → 끝(땅 투명, 건물 붉은 윤곽, 1피트쯤 떠 있음). 카메라 고정
-- 컷 4: 시작(수평 하수관, 고인 물, 표지 1개) → 끝(들린 거리, 기울어진 하수관, 흐르는 물, 표지 2개). 건물·카메라 위치 고정, 거리와 하수관만 변화
+- 컷 4: 시작(수평 하수관, 고인 물, 표지 1개) → 끝(왼쪽 구덩이에 물이 찬 모습 + 오른쪽 건물 기초가 꽉 찬 모습, 두 곳에 붉은 X). Extend 1초
+- 컷 4b: 시작(컷 4 시작 프레임 재사용, X 없이) → 끝(들린 거리, 기울어진 하수관, 흐르는 물, 표지 2개). 건물·카메라 위치 고정, 거리와 하수관만 변화
 - 컷 5: 시작(옛 포장 위 빈 공간) → 끝(하수관 + 흙 + 새 포장 + 큰자막). 중간 단계는 Flow가 보간. 8초 생성 후 Extend 2초로 포장 완성과 큰자막 등장을 느리게
 - 컷 6: 시작(얕은 강, 낮은 거리) → 끝(깊은 강, 높은 거리, 진흙이 쌓인 흔적). 강과 거리를 한 프레임 안에 좌우로
 - 컷 8: 시작(건물 바닥이 나사 위에 막 올라앉음) → 끝(건물이 몇 인치 올라 있음, 인부 팔 위치만 변화). 카메라 완전 고정. Extend 1초로 세 번째 "again"
@@ -196,15 +213,23 @@ Vertical 9:16 composition, 2K resolution. A premium 3D cutaway diorama in the st
 컷3 [STYLE] A large drafting table seen from above at an angle, with an 1850s engineering plan of a city street grid unrolled on it, drawn in ink with a network of sewer lines highlighted in thin red. Brass drafting instruments and a brass surveyor's level rest on the paper. No readable text. Warm lamp light.
 ```
 
-#### 컷4 (핵심 비주얼 ①)
+#### 컷4 (핵심 비주얼 ① · 막힌 길)
 
 ```
 컷4 시작 Use reference image A, with a brick-arched sewer pipe shown in cross-section running horizontally just below the street, its interior half full of still, stagnant water with a perfectly flat surface. One red marker on the grade rod.
 
-컷4 끝 [편집] Edit the previous image: the entire street surface and the sewer pipe have been raised several feet, the pipe now tilts gently downhill toward the right and the water inside is flowing with a visible slope; a second red marker has appeared on the brass grade rod above the first, at the new street height. Buildings and camera unchanged.
+컷4 끝 [편집] Edit the previous image: on the left side of the street a freshly dug pit has filled with murky groundwater up to its brim; on the right side, where fill would need to go, the space is already packed with the buildings' stone foundations. Each blocked attempt is marked with a thin red X outline. The sewer water is still stagnant. Same camera.
 ```
 
-#### 컷5 (핵심 비주얼 ②)
+#### 컷4b (핵심 비주얼 · 뒤집힘)
+
+```
+컷4b 시작 Use the image from cut 4's start exactly as it is (level street, stagnant water in the horizontal sewer, one red marker, no X marks).
+
+컷4b 끝 [편집] Edit the previous image: the entire street surface and the sewer pipe have been raised several feet, the pipe now tilts gently downhill toward the right and the water inside is flowing with a visible slope; a second red marker has appeared on the brass grade rod above the first, at the new street height. Buildings and camera unchanged.
+```
+
+#### 컷5 (핵심 비주얼 ③)
 
 ```
 컷5 시작 Use reference image A, focused on the street surface between the buildings: the old plank sidewalks and mud street are visible, and a brick-arched sewer pipe sits directly on top of the old street surface, not yet covered. Two red markers on the grade rod, far apart.
@@ -302,7 +327,8 @@ Vertical 9:16 composition, 2K resolution. A premium 3D cutaway diorama in the st
 
 - 각 프롬프트마다 4장 이상 뽑아서 고르기
 - 잭스크루(컷 8·9·11): **정렬된 격자**로, 손잡이 막대가 수평으로 달려 있어야 함. 현대식 유압잭·크레인이 나오면 탈락. 건물이 공중부양처럼 보이면 탈락(나사 위에 얹혀 있어야 함)
-- 컷 4: 하수관 속 물의 "고임 → 흐름" 차이가 보여야 함. 둘 다 잔잔하면 탈락
+- 컷 4: 구덩이 물·건물 기초 두 개의 막힌 길이 한 프레임에, 붉은 X는 편집에서 얹어도 됨
+- 컷 4b: 하수관 속 물의 "고임 → 흐름" 차이가 보여야 함. 둘 다 잔잔하면 탈락
 - 컷 5: 하수관이 **옛 길 위**에 놓여 있어야 함. 땅속에 묻힌 모습으로 생성되면 메시지가 사라짐
 - 컷 6: 강이 깊어지고 거리가 높아지는 **좌우 대비**가 한 프레임에
 - 컷 10: 임시 계단 단수 변화(2단 → 3단) 확인

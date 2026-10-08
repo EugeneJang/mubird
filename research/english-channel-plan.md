@@ -68,7 +68,7 @@ All visuals AI-rendered. Every number sourced. New short daily.
 | 추산치엔 "about / around / as many as" | 비꼼·과장 ("insane", "mind-blowing") |
 | 끝은 짧은 다음 편 안내 ("Next time, let's visit…") | 구독·좋아요 요청 |
 
-고정 신호 문구(매 편 같은 자리): 전환 "Here's the clever part." · 반전 "But here's the part I'd love you to remember." · 마무리 "Next time, let's visit…"
+고정 신호 문구(매 편 같은 자리, §4 6비트 시트): "Here's the problem." · "Now here's the maddening part." · "And this is where the thinking flips." · "Here's the clever part." · "But here's the part I'd love you to remember." · "Next time, let's visit…"
 
 
 ---
@@ -108,18 +108,49 @@ NYC 2 · 시카고/중서부 1 · LA/서부 1 · 텍사스/남부 1 · 전국 �
 
 ---
 
-## 4. 대본 템플릿 (55초, 125~145단어)
+## 4. 대본 템플릿: 6비트 시트 + 고정 유행어
+
+원본 「신비한 건축사전」이 매 편 반복하는 박자는 여섯 개입니다. **훅 → 문제 제시 → 환장할 노릇(악화) → 발상의 전환 → 해법의 묘 → 반전**. 이 채널은 각 박자에 **고정 영어 문구(유행어)**를 붙여, 대본을 쓸 때 여섯 칸을 먼저 채우고 문구를 그대로 박습니다. 문구가 매 편 같은 자리에 나오면 시청자가 기다리게 되고, 그게 유행어가 됩니다.
+
+### 4-1. 6비트 시트 (대본 쓰기 전에 이 표를 먼저 채운다)
+
+| # | 비트 | 원본 채널의 말 | 고정 영어 문구 (그대로 사용) | 역할 | 위치 |
+|---|---|---|---|---|---|
+| 1 | **HOOK** 부정 훅 | "X는 Y가 아닙니다" | `[Thing] isn't [assumption]. It's [reframe].` + `Let me show you how.` / `Let's take a look.` | 상식 부정, 3초 안에 | 0:00 |
+| 2 | **PROBLEM** 문제 제시 | "문제는 ~였습니다" | **"Here's the problem."** | 풀어야 할 조건 하나를 명확히 | 15~25% |
+| 3 | **MADDENING** 환장할 노릇 | "환장할 노릇이죠" | **"Now here's the maddening part."** | 뻔한 해법이 왜 안 되는지. 막힌 길 2개 | 25~35% |
+| 4 | **FLIP** 발상의 전환 | "이때 발상을 전환합니다" | **"And this is where the thinking flips."** | 문제를 뒤집는 한 문장 | 35~45% |
+| 5 | **CLEVER** 해법의 묘 | "그래서 ~한 겁니다" | **"Here's the clever part."** | 메커니즘 디테일, 숫자 2~3개 | 45~70% |
+| 6 | **REMEMBER** 반전 | "그런데 사실은…" | **"But here's the part I'd love you to remember."** | 스케일 점프 또는 이름·시간의 반전 | 75~90% |
+| + | **NEXT** 다음 편 | — | **"Next time, let's visit…"** | 티저 한 줄 | 마지막 5초 |
+
+규칙:
+- 2·3·4·5·6의 고정 문구는 **단어 하나도 바꾸지 않습니다.** 변형하면 유행어가 안 됩니다.
+- MADDENING은 반드시 **막힌 길을 보여주는 비주얼**과 함께. 압력을 올리면 관이 터지는 장면, 땅을 파면 물이 나오는 장면처럼 "해 봤는데 안 됨"을 그립니다.
+- FLIP은 한 문장. "Instead of A, B."의 꼴이 가장 좋습니다.
+- 어투는 §1 정중한 안내자 규정 유지. "maddening"은 상황을 향한 말이고 사람을 향하지 않습니다.
+
+### 4-2. 타임라인 (120~130초 기준)
 
 ```
-0:00–0:03  HOOK        제목 문장 그대로. 부정문. 도시명 포함
-0:03–0:12  SETUP       시청자가 아는 상식 1문장 + "그게 아니다" 1문장 + 연도 하나
-0:12–0:35  MECHANISM   어떻게 작동하는지. 숫자 2~3개(피트·마일·톤·연도). 단면 공개 샷과 동기화
-0:35–0:50  COST        그래서 생긴 결과·부작용·비용·현재 상태
-0:50–0:55  TURN        "But here's the part I'd love you to remember."로 열고, 훅을 한 번 더 비튼 마지막 한 줄
-0:55–0:58  NEXT        "Next time, let's visit…" 다음 편 한 줄 안내. 구독 요청 없음
+0:00–0:07   HOOK        부정 훅 + "Let me show you how."
+0:07–0:20   SETUP       시대·장소·상식 (숫자 1개)
+0:20–0:30   PROBLEM     "Here's the problem." + 조건 한 문장
+0:30–0:42   MADDENING   "Now here's the maddening part." + 막힌 길 2개 (비주얼 필수)
+0:42–0:48   FLIP        "And this is where the thinking flips." + Instead of A, B.
+0:48–1:25   CLEVER      "Here's the clever part." + 메커니즘·숫자·결과
+1:25–1:50   REMEMBER    "But here's the part I'd love you to remember." + 반전 2단
+1:50–2:00   TURN        훅을 비튼 마지막 한 줄 + 1초 정적
+2:00–2:06   NEXT        "Next time, let's visit…"
 ```
+55초 쇼츠 버전은 SETUP·CLEVER를 줄이고 여섯 문구는 전부 유지합니다.
 
-문장 규칙: 한 문장 14단어 이하, 숫자는 한 문장에 하나, 어투는 §1 "정중한 안내자" 규정 준수(명령문·속어 금지).
+### 4-3. 매 편 빠지지 않게 하는 장치
+1. 제작 시트 §4(녹음 원고) 아래에 **비트 체크 표**를 두고, 여섯 문구가 몇 번 컷에 있는지 적습니다. 빈칸이 있으면 대본 미완성.
+2. 컷 테이블의 화면 설명에 MADDENING 컷은 "막힌 길" 비주얼이 있는지, FLIP 컷은 "뒤집히는 동작"이 있는지 확인합니다.
+3. 유행어는 자막에서도 같은 스타일로 강조합니다(붉은 밑줄 한 줄). 시청자가 글자로도 기억하게.
+
+문장 규칙: 한 문장 14단어 이하, 숫자는 한 문장에 하나, 명령문·속어 금지.
 
 ---
 

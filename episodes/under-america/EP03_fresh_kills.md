@@ -1,6 +1,6 @@
 # Under America EP.03 Fresh Kills — The park built on 150 million tons of garbage
 
-**125초 · 18컷 · 큰자막 2개 (3D 공간 연출) · 영어 나레이션(정중한 안내자 어투)**
+**134초 · 19컷 · 큰자막 2개 (3D 공간 연출) · 영어 나레이션(정중한 안내자 어투)**
 **제목:** New York's biggest new park isn't built on land. It's built on 150 million tons of garbage. | Under America #3
 
 이번 편이 싸우는 상대는 **"치울 수 없다"**는 것입니다. 1억 5천만 톤은 어디로도 옮길 수 없어요. 그래서 나온 답이 **"포장하듯 봉인하고, 그 위에 공원을 짓는다"**였습니다. 가스 배출층, 플라스틱 차수막, 배수층, 흙을 차례로 덮고, 밑에서는 침출수를 모아 처리하고, 쓰레기가 썩으며 내는 메탄은 뽑아내서 팝니다. 원본 채널 2위 영상(난지도 9,200만 톤)의 미국판이에요.
@@ -53,30 +53,31 @@
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 5 | 29–36 | By the 1950s it was already the largest landfill in the world. The smell carried for miles, and rainwater soaking through the pile ran into the creeks. | 1950년대에 이미 세계 최대 매립지였어요. 냄새는 몇 마일을 갔고, 쌓인 더미를 통과한 빗물이 개천으로 흘러들었습니다 | 마운드 단면. 비가 내려 쓰레기층을 통과하며 갈색으로 변해 아래 개천으로 스며드는 흐름(붉은 윤곽). 멀리 갈매기 떼 실루엣 | 프레임→영상 (시작+끝) | Fast |
-| 6 | 36–44 | Here's the clever part. You can't take 150 million tons away. So instead, they sealed it in, like wrapping a package. | 여기가 영리한 부분이에요. 1억 5천만 톤은 치울 수가 없죠. 그래서 대신 봉인했습니다. 소포를 포장하듯이 | 마운드 전체가 부감으로 보이고, 거대한 검은 막이 산을 감싸듯 위에서 덮여 내려옴. 가장자리가 땅에 닿아 봉해짐 | 프레임→영상 (시작+끝) | Quality |
+| 5 | 29–36 | By the 1950s it was already the largest landfill in the world. Here's the problem. You can't take 150 million tons away. | 1950년대에 이미 세계 최대 매립지였어요. 문제는 이거예요. 1억 5천만 톤은 치울 수가 없습니다 | 마운드 네 개 부감. 트럭 한 대가 산 옆에 서 있는데 크기 차이가 압도적. 트럭이 붉은 윤곽으로 강조되고, 산은 그대로 | 프레임→영상 (시작) | Fast |
+| 5b | 36–44 | Now here's the maddening part. Every rain soaked through the pile and ran brown into the creeks, and the rotting trash kept building up gas underneath. | 여기서 환장할 노릇이죠. 비가 올 때마다 더미를 통과한 물이 갈색이 돼 개천으로 흘렀고, 썩는 쓰레기는 밑에서 계속 가스를 만들었어요 | **막힌 길 비주얼.** 마운드 단면. 비가 쓰레기층을 통과하며 갈색으로 변해 개천으로 스며듦(붉은 윤곽). 동시에 더미 속에서 옅은 기포가 올라와 표면이 부풀 듯 압력이 쌓임. 멀리 갈매기 떼 실루엣 | 프레임→영상 (시작+끝) | Quality |
+| 6 | 44–52 | And this is where the thinking flips. If you can't take it away, seal it in, like wrapping a package. | 이때 발상을 전환합니다. 치울 수 없다면 봉인한다, 소포를 포장하듯이 | 마운드 전체가 부감으로 보이고, 거대한 검은 막이 산을 감싸듯 위에서 덮여 내려옴. 가장자리가 땅에 닿아 봉해짐 | 프레임→영상 (시작+끝) | Quality |
 
 ### 해법 — 포장하고, 거두고, 뽑아낸다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 44–53 | On top of the trash: a layer to vent the gas, a plastic liner to keep rain out, drainage, and then feet of soil. Three to twelve feet of cover in all. | 쓰레기 위에 가스를 빼는 층, 비를 막는 플라스틱 라이너, 배수층, 그리고 몇 피트의 흙. 전부 합쳐 3피트에서 12피트의 덮개예요 | **핵심 비주얼 ②.** 복토 단면 매크로. 압축 쓰레기 → 자갈 가스층 → 검은 라이너 → 배수층 → 두꺼운 흙 → 풀. 층이 하나씩 쌓이며 코어 튜브 옆에 치수선이 자람 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 8 | 53–61 | Underneath, trenches and pumps catch the water that still seeps out, and send it to a treatment plant. More than 230 wells keep watch on the groundwater. | 밑에서는 트렌치와 펌프가 그래도 새어 나오는 물을 모아 처리장으로 보냅니다. 230개가 넘는 관측정이 지하수를 지켜보고 있어요 | 마운드 기슭 단면. 가장자리 트렌치로 침출수가 모여 관을 타고 처리장 건물로 흐름. 주변에 가느다란 관측정이 점점이 꽂혀 있음 | 프레임→영상 (시작+끝) | Fast |
-| 9 | 61–69 | And the trash itself is still working. As it breaks down, it makes methane. A network of wells draws the gas out under vacuum. | 그리고 쓰레기 자체가 아직 일하고 있어요. 분해되면서 메탄을 만들죠. 관정들이 진공으로 그 가스를 뽑아냅니다 | **핵심 비주얼 ③.** 마운드 내부 투시. 쓰레기층 곳곳에서 옅은 기포 같은 가스가 올라오고, 수직 관정들이 그걸 빨아들여 지표의 관로로 모음. 관로가 한 방향으로 흐름 | 프레임→영상 (시작+끝) | Quality |
-| 10 | 69–76 | That gas is cleaned and sold to the utility. It's enough to heat around 22,000 homes. | 그 가스는 정제돼서 가스회사에 팔려요. 약 2만 2천 가구를 난방할 수 있는 양입니다 | 관로가 정제 플랜트로 들어가고, 반대편에서 깨끗한 가스관이 멀리 주택가로 뻗어 나감. 집들 창문이 차례로 따뜻하게 켜짐 ★ 3D 큰자막 「22,000 HOMES」 주택가 위 공간에 입체 글자 | 프레임→영상 (시작+끝) | Quality |
-| 11 | 76–84 | Today the mounds are 2,200 acres of grassland, almost three times the size of Central Park. It's opening to the public in phases, a section at a time. | 지금 이 마운드들은 2,200에이커의 초원이에요. 센트럴파크의 거의 세 배죠. 한 구역씩 단계적으로 시민에게 열리고 있습니다 | 현재 공원 부감. 완만한 초록 언덕 네 개, 산책로와 전망 데크. 화면 한쪽에 센트럴파크 직사각형 실루엣이 세 개 나란히 겹쳐 면적 비교 | 프레임→영상 (시작+끝) + Extend 1초 | Fast |
+| 7 | 52–62 | Here's the clever part. On top of the trash: a layer to vent the gas, a plastic liner to keep rain out, drainage, and then feet of soil. Three to twelve feet of cover in all. | 여기가 영리한 부분이에요. 쓰레기 위에 가스를 빼는 층, 비를 막는 플라스틱 라이너, 배수층, 그리고 몇 피트의 흙. 전부 합쳐 3피트에서 12피트의 덮개예요 | **핵심 비주얼 ②.** 복토 단면 매크로. 압축 쓰레기 → 자갈 가스층 → 검은 라이너 → 배수층 → 두꺼운 흙 → 풀. 층이 하나씩 쌓이며 코어 튜브 옆에 치수선이 자람 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 8 | 62–70 | Underneath, trenches and pumps catch the water that still seeps out, and send it to a treatment plant. More than 230 wells keep watch on the groundwater. | 밑에서는 트렌치와 펌프가 그래도 새어 나오는 물을 모아 처리장으로 보냅니다. 230개가 넘는 관측정이 지하수를 지켜보고 있어요 | 마운드 기슭 단면. 가장자리 트렌치로 침출수가 모여 관을 타고 처리장 건물로 흐름. 주변에 가느다란 관측정이 점점이 꽂혀 있음 | 프레임→영상 (시작+끝) | Fast |
+| 9 | 70–78 | And the trash itself is still working. As it breaks down, it makes methane. A network of wells draws the gas out under vacuum. | 그리고 쓰레기 자체가 아직 일하고 있어요. 분해되면서 메탄을 만들죠. 관정들이 진공으로 그 가스를 뽑아냅니다 | **핵심 비주얼 ③.** 마운드 내부 투시. 쓰레기층 곳곳에서 옅은 기포 같은 가스가 올라오고, 수직 관정들이 그걸 빨아들여 지표의 관로로 모음. 관로가 한 방향으로 흐름 | 프레임→영상 (시작+끝) | Quality |
+| 10 | 78–85 | That gas is cleaned and sold to the utility. It's enough to heat around 22,000 homes. | 그 가스는 정제돼서 가스회사에 팔려요. 약 2만 2천 가구를 난방할 수 있는 양입니다 | 관로가 정제 플랜트로 들어가고, 반대편에서 깨끗한 가스관이 멀리 주택가로 뻗어 나감. 집들 창문이 차례로 따뜻하게 켜짐 ★ 3D 큰자막 「22,000 HOMES」 주택가 위 공간에 입체 글자 | 프레임→영상 (시작+끝) | Quality |
+| 11 | 85–93 | Today the mounds are 2,200 acres of grassland, almost three times the size of Central Park. It's opening to the public in phases, a section at a time. | 지금 이 마운드들은 2,200에이커의 초원이에요. 센트럴파크의 거의 세 배죠. 한 구역씩 단계적으로 시민에게 열리고 있습니다 | 현재 공원 부감. 완만한 초록 언덕 네 개, 산책로와 전망 데크. 화면 한쪽에 센트럴파크 직사각형 실루엣이 세 개 나란히 겹쳐 면적 비교 | 프레임→영상 (시작+끝) + Extend 1초 | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 12 | 84–89 | But here's the part I'd love you to remember. This was supposed to last three years. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 이건 3년만 쓰기로 한 곳이었습니다 | 코어 튜브 클로즈업. 맨 위 풀 아래에 아주 짧은 붉은 눈금 하나가 "툭" 나타남(3년 분량). 그 아래는 아직 어둠 | 프레임→영상 (시작+끝) | Quality |
-| 13 | 89–96 | In 1948, the city called it a temporary landfill. Three years turned into fifty-three. The hills kept rising long after anyone planned. | 1948년, 시는 이곳을 임시 매립지라고 불렀어요. 3년이 53년이 됐죠. 언덕은 누구의 계획보다 훨씬 오래 자랐습니다 | **핵심 비주얼 ④.** 짧은 눈금 아래로 긴 붉은 눈금이 튜브 바닥까지 쭉 내려가며 쓰레기층 전체를 비춤. 옆 마운드 단면도 같은 깊이로 함께 밝아짐 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 14 | 96–103 | And they're still moving. As the trash settles, the ground sinks a little every year. The park is designed to move with it. | 그리고 지금도 움직이고 있어요. 쓰레기가 다져지면서 땅이 매년 조금씩 내려앉습니다. 공원은 그 움직임을 전제로 설계됐어요 | 공원 단면. 언덕 윤곽이 아주 느리게 낮아지고, 산책로와 데크가 그 위에서 함께 내려앉음. 옛 윤곽선이 옅은 붉은 선으로 남아 차이를 보여줌 | 프레임→영상 (시작+끝) | Fast |
-| 15 | 103–110 | Even the name remembers. "Kills" is an old Dutch word for a stream. Before this was a mountain, it was water. | 이름조차 기억하고 있어요. "Kills"는 옛 네덜란드어로 물길이라는 뜻이에요. 산이 되기 전, 여기는 물이었습니다 | 현재 초원 언덕 위로 1940년대 습지와 물길의 모습이 반투명하게 겹쳐 떠오르고, 물결이 언덕 윤곽을 따라 일렁임 | 프레임→영상 (시작+끝) | Quality |
-| 16 | 110–116 | So you're not standing on a hill. You're standing on half a century of a city's ordinary days, wrapped and set aside. | 그러니 여러분이 선 곳은 언덕이 아니에요. 한 도시가 보낸 반세기의 평범한 날들이, 포장돼 한쪽에 놓인 자리입니다 | 초원 와이드로 복귀. 코어 튜브의 두 눈금(짧은 것, 긴 것)만 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
-| 17 | 116–122 | Next time, let's head west to Hoover Dam, which is still cooling down. | 다음엔 서쪽으로, 아직도 식고 있는 후버댐으로 가 볼게요 | 다음 편 티저: 후버댐 단면 실루엣(EP.04 레퍼런스 A 선제작) | 편집 | — |
-| 18 | 122–125 | — | — | 로고 0.5초 | 편집 | — |
+| 12 | 93–98 | But here's the part I'd love you to remember. This was supposed to last three years. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 이건 3년만 쓰기로 한 곳이었습니다 | 코어 튜브 클로즈업. 맨 위 풀 아래에 아주 짧은 붉은 눈금 하나가 "툭" 나타남(3년 분량). 그 아래는 아직 어둠 | 프레임→영상 (시작+끝) | Quality |
+| 13 | 98–105 | In 1948, the city called it a temporary landfill. Three years turned into fifty-three. The hills kept rising long after anyone planned. | 1948년, 시는 이곳을 임시 매립지라고 불렀어요. 3년이 53년이 됐죠. 언덕은 누구의 계획보다 훨씬 오래 자랐습니다 | **핵심 비주얼 ④.** 짧은 눈금 아래로 긴 붉은 눈금이 튜브 바닥까지 쭉 내려가며 쓰레기층 전체를 비춤. 옆 마운드 단면도 같은 깊이로 함께 밝아짐 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 14 | 105–112 | And they're still moving. As the trash settles, the ground sinks a little every year. The park is designed to move with it. | 그리고 지금도 움직이고 있어요. 쓰레기가 다져지면서 땅이 매년 조금씩 내려앉습니다. 공원은 그 움직임을 전제로 설계됐어요 | 공원 단면. 언덕 윤곽이 아주 느리게 낮아지고, 산책로와 데크가 그 위에서 함께 내려앉음. 옛 윤곽선이 옅은 붉은 선으로 남아 차이를 보여줌 | 프레임→영상 (시작+끝) | Fast |
+| 15 | 112–119 | Even the name remembers. "Kills" is an old Dutch word for a stream. Before this was a mountain, it was water. | 이름조차 기억하고 있어요. "Kills"는 옛 네덜란드어로 물길이라는 뜻이에요. 산이 되기 전, 여기는 물이었습니다 | 현재 초원 언덕 위로 1940년대 습지와 물길의 모습이 반투명하게 겹쳐 떠오르고, 물결이 언덕 윤곽을 따라 일렁임 | 프레임→영상 (시작+끝) | Quality |
+| 16 | 119–125 | So you're not standing on a hill. You're standing on half a century of a city's ordinary days, wrapped and set aside. | 그러니 여러분이 선 곳은 언덕이 아니에요. 한 도시가 보낸 반세기의 평범한 날들이, 포장돼 한쪽에 놓인 자리입니다 | 초원 와이드로 복귀. 코어 튜브의 두 눈금(짧은 것, 긴 것)만 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
+| 17 | 125–131 | Next time, let's head west to Hoover Dam, which is still cooling down. | 다음엔 서쪽으로, 아직도 식고 있는 후버댐으로 가 볼게요 | 다음 편 티저: 후버댐 단면 실루엣(EP.04 레퍼런스 A 선제작) | 편집 | — |
+| 18 | 131–134 | — | — | 로고 0.5초 | 편집 | — |
 
 ---
 
@@ -88,10 +89,11 @@ This is Fresh Kills, on Staten Island. From 1948 to 2001, nearly everything the 
 At first it was tidal marsh, barely above the water. Trucks and barges filled it in, one layer at a time, for 53 years.
 Four mounds grew. The tallest reached about 225 feet, taller than the Statue of Liberty across the harbor.
 
-By the 1950s it was already the largest landfill in the world. The smell carried for miles, and rainwater soaking through the pile ran into the creeks.
-Here's the clever part. You can't take 150 million tons away. So instead, they sealed it in, like wrapping a package.
+By the 1950s it was already the largest landfill in the world. Here's the problem. You can't take 150 million tons away.
+Now here's the maddening part. Every rain soaked through the pile and ran brown into the creeks, and the rotting trash kept building up gas underneath.
+And this is where the thinking flips. If you can't take it away, seal it in, like wrapping a package.
 
-On top of the trash: a layer to vent the gas, a plastic liner to keep rain out, drainage, and then feet of soil. Three to twelve feet of cover in all.
+Here's the clever part. On top of the trash: a layer to vent the gas, a plastic liner to keep rain out, drainage, and then feet of soil. Three to twelve feet of cover in all.
 Underneath, trenches and pumps catch the water that still seeps out, and send it to a treatment plant. More than 230 wells keep watch on the groundwater.
 And the trash itself is still working. As it breaks down, it makes methane. A network of wells draws the gas out under vacuum.
 That gas is cleaned and sold to the utility. It's enough to heat around 22,000 homes.
@@ -106,9 +108,22 @@ So you're not standing on a hill. You're standing on half a century of a city's 
 Next time, let's head west to Hoover Dam, which is still cooling down.
 ```
 
-약 320단어. 분당 155단어로 읽으면 약 124초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
+약 345단어. 분당 155단어로 읽으면 약 134초. TTS 속도 1.0, 문단 사이 0.4초 쉼.
 
-**어투 체크:** 명령문 없음 · 속어 없음 · 혐오 표현 없음("garbage"는 중립어, "filth/disgusting" 금지) · 고정 신호 문구 제자리("Let's take a look" 컷 1, "Here's the clever part" 컷 6, "I'd love you to remember" 컷 12, "Next time, let's head" 컷 17) · 과장 없음("largest in the world"는 1950년대 기록으로 한정).
+**어투 체크:** 명령문 없음 · 속어 없음 · 혐오 표현 없음("garbage"는 중립어, "filth/disgusting" 금지) · 고정 신호 문구 6개 모두 제자리(비트 체크 표 참조) · 과장 없음("largest in the world"는 1950년대 기록으로 한정).
+
+
+**비트 체크 (6비트 시트, 기획안 §4):**
+
+| 비트 | 고정 문구 | 컷 |
+|---|---|---|
+| HOOK | New York's biggest new park isn't built on land. It's built on 150 million tons of garbage. | 1 |
+| PROBLEM | Here's the problem. | 5 (트럭 vs 산) |
+| MADDENING | Now here's the maddening part. | 5b (갈색 침출수 · 부푸는 가스) |
+| FLIP | And this is where the thinking flips. | 6 (검은 막이 내려옴) |
+| CLEVER | Here's the clever part. | 7 |
+| REMEMBER | But here's the part I'd love you to remember. | 12 |
+| NEXT | Next time, let's head… | 17 |
 
 ---
 
@@ -117,7 +132,8 @@ Next time, let's head west to Hoover Dam, which is still cooling down.
 - 이번 편은 시즌에서 **가장 조용한 편**이에요. EP.02가 600명의 손이었다면 EP.03은 50년의 시간입니다. 템포를 한 단계 늦추고, BGM은 넓고 느린 패드. 컷 3·4의 타임랩스가 이 편의 호흡을 정합니다.
 - 컷 1 단면 진입은 **풀 → 흙 → 검은 막 → 쓰레기**의 4단계가 또렷해야 합니다. 특히 검은 막(라이너)이 "경계선"으로 읽히게. 이 선이 뒤에 컷 6·7에서 다시 주인공이 돼요.
 - 컷 4 자유의 여신상 비교는 이 편의 첫 "아!" 포인트. 여신상은 실루엣으로만, 마운드가 머리 위를 넘는 순간에 큰자막.
-- 컷 6 "포장하듯 봉인"은 비유를 **그대로 그리는** 컷이에요. 검은 막이 산을 감싸 내려오는 모습이 선물 포장지처럼 보여도 괜찮습니다. 가장자리가 땅에 닿아 "봉해지는" 순간에 작은 효과음 하나.
+- 컷 5 트럭과 산의 크기 대비가 "문제"를 말 없이 보여줍니다. 컷 5b가 **막힌 길**: 갈색 침출수와 부푸는 가스가 한 컷에. 이게 환장할 노릇의 비주얼이에요.
+- 컷 6 "And this is where the thinking flips"의 flips에 검은 막이 내려오기 시작. "포장하듯 봉인"은 비유를 **그대로 그리는** 컷이에요. 검은 막이 산을 감싸 내려오는 모습이 선물 포장지처럼 보여도 괜찮습니다. 가장자리가 땅에 닿아 "봉해지는" 순간에 작은 효과음 하나.
 - 컷 7 복토 층은 EP.01의 탱크 벽 단면, EP.02의 하수관 단면과 같은 **"층을 하나씩 쌓는" 리듬**. 나레이션의 쉼표마다 한 층. 치수선은 마지막 층이 올라간 뒤에.
 - 컷 9 메탄은 "옅고 맑은 기포"로. 불꽃·연기·폭발처럼 보이면 탈락(위험 연출 금지). 컷 10에서 집 창문이 켜지는 건 따뜻한 호박색, 이 편에서 가장 따뜻한 색.
 - 컷 12~13 반전은 **길이의 대비**예요. 짧은 눈금이 먼저 "툭" 나오고(3년), 반 박자 쉰 뒤 긴 눈금이 바닥까지 내려갑니다(53년). 나레이션 "fifty-three"에 눈금이 바닥에 닿게. BGM은 여기서 멈추고 바람 소리만.
@@ -128,7 +144,7 @@ Next time, let's head west to Hoover Dam, which is still cooling down.
 
 ## 6. Flow 작업 메모
 
-- **크레딧 배분:** Quality 11컷(1, 3, 4, 6, 7, 9, 10, 12, 13, 15, 16), Fast 5컷(2, 5, 8, 11, 14), 편집 2컷. 먼저 1·7·13번으로 톤 확정
+- **크레딧 배분:** Quality 12컷(1, 3, 4, 5b, 6, 7, 9, 10, 12, 13, 15, 16), Fast 5컷(2, 5, 8, 11, 14), 편집 2컷. 먼저 1·7·13번으로 톤 확정
 - 컷 1: 시작(초원 표면, 튜브 표지 맨 위) → 끝(지하 단면 4층 노출, 표지 쓰레기층 상단). 카메라가 수직으로 내려가는 한 동작
 - 컷 3: 시작(수면선 위 갈대 습지) → 끝(쓰레기·흙 교대층이 여러 겹 쌓여 지면이 몇 배 높아짐, 표지 상승). Extend 1초로 마지막 층
 - 컷 4: 시작(평평한 습지 부감 + 여신상 실루엣) → 끝(마운드 4개 + 가장 높은 것이 여신상 위 + 큰자막). 여신상 위치·크기 고정
@@ -214,15 +230,21 @@ Vertical 9:16 composition, 2K resolution. A premium 3D cutaway diorama in the st
 #### 컷5
 
 ```
-컷5 시작 Use reference image A, but with no liner and no topsoil: the refuse mass is exposed at the surface of the mound, grey rain falling on it. Below the mound, a small tidal creek.
+컷5 [STYLE] A high-angle view of the four bare refuse mounds from reference image B's era, grey-brown and enormous, with a single small dump truck parked at the foot of the largest mound, dwarfed by it. The truck is outlined with a thin red line. Low grey sky.
+```
 
-컷5 끝 [편집] Edit the previous image: rainwater has soaked down through the refuse, turning a murky brown as it descends, and seeps out at the foot of the mound into the creek; the path of the seeping water is outlined with a thin red line. Same camera.
+#### 컷5b (막힌 길)
+
+```
+컷5b 시작 Use reference image A, but with no liner and no topsoil: the refuse mass is exposed at the surface of the mound, grey rain falling on it. Below the mound, a small tidal creek.
+
+컷5b 끝 [편집] Edit the previous image: rainwater has soaked down through the refuse, turning a murky brown as it descends, and seeps out at the foot of the mound into the creek, the path outlined with a thin red line; at the same time, faint pale teal bubbles of gas rise inside the refuse mass and gather under the surface, which bulges slightly. Same camera. No flames.
 ```
 
 #### 컷6
 
 ```
-컷6 시작 Use the image from cut 5's start (exposed mound, no rain), seen from a higher angle so the whole mound is visible.
+컷6 시작 Use the image from cut 5b's start (exposed mound, no rain), seen from a higher angle so the whole mound is visible.
 
 컷6 끝 [편집] Edit the previous image: a single, continuous matte black membrane has been draped over the entire mound, following its shape smoothly, its edges meeting the ground all around and sealed into a shallow trench, like a wrapped package. Same camera.
 ```
@@ -311,7 +333,8 @@ Vertical 9:16 composition, 2K resolution. A premium 3D cutaway diorama in the st
 - 쓰레기층은 **추상적인 질감 덩어리**로. 브랜드 포장지·알아볼 수 있는 물건·동물 사체·음식물이 보이면 탈락(혐오감·상표 노출 둘 다 가드레일 위반)
 - 컷 1·7: 검은 라이너가 **끊기지 않는 한 줄**로 보여야 함. 조각나면 "봉인" 메시지가 사라짐
 - 컷 4: 여신상은 실루엣만. 얼굴·횃불 디테일이 또렷하면 톤 깨짐. 마운드가 머리 위를 넘는지 확인
-- 컷 5: 침출수는 "탁한 갈색"까지만. 검은 기름·독성 느낌의 초록은 탈락
+- 컷 5: 트럭은 작게, 산은 크게. 트럭에 로고 없음
+- 컷 5b: 침출수는 "탁한 갈색"까지만. 가스 기포는 옅은 청록, 불꽃 금지. 검은 기름·독성 느낌의 초록은 탈락
 - 컷 9·10: 메탄은 옅은 청록 기포·글로우. 불꽃·연기·폭발 금지
 - 컷 11: 센트럴파크 직사각형은 윤곽선만, 지도 글자 없음
 - 컷 12·13: 짧은 눈금과 긴 눈금의 **길이 비율**이 1:17 정도로 극단적이어야 메시지가 섬. 둘이 비슷하면 탈락
