@@ -50,58 +50,59 @@ amazing america, american wonders, engineering, architecture, infrastructure, ho
 
 ---
 
-## 3. 프로필 사진 (800×800, 원형 크롭) — "AAB" 이니셜 로고
+## 3. 프로필 사진 (800×800, 원형 크롭) — "AAB" 이니셜, 신비한 건축사전 톤
 
-### 3-1. 메인안: 금박 AAB + 펼친 책
-```
-Square 1:1, 2K. A bold, centered monogram logo reading "AAB" in large classic serif capital letters with crisp engraved edges, rendered in photorealistic worn gold leaf, standing upright as solid 3D letters on the open pages of an antique leather-bound encyclopedia. The book's deep navy cover with faded gold tooling frames the bottom of the composition; aged parchment pages fan slightly. One thin red architectural dimension line (#E53935) with small tick marks at both ends runs horizontally beneath the letters, spanning exactly their width, like an engineer's measurement. Background: smooth deep navy (#0E1A2B) gradient with a soft warm reading-lamp glow behind the letters. Cinematic rim light on the gold, subtle film grain. The three letters "AAB" must be large, sharp, correctly spelled and fill about 60 percent of the width, with generous margin for a circular crop. No other text, no watermark.
-```
+**톤 기준:** 신비한 건축사전처럼 **어둡고 웅장한 실사 3D 건축물 + 그 위를 재는 붉은 치수선**. 아늑한 책상·책 느낌은 빼고, "불가사의한 거대 구조물을 측량하는 장면"으로 갑니다. 주인공은 **AAB 세 글자 자체가 거대한 건축물**인 것.
 
-### 3-2. 대안 A: 가죽 표지에 박힌 AAB (가장 단순)
+### 3-1. 메인안: 안개 속에 서 있는 거대 석조 AAB
 ```
-Square 1:1, 2K. A close, centered view of the front cover of an antique deep navy leather book. Debossed and gilded at the center in worn gold leaf: the three capital letters "AAB" in a classic engraved serif, large and sharp, inside a thin circular gold border. One thin red dimension line (#E53935) with tick marks at both ends runs beneath the letters. Soft raking light showing the leather grain and the depth of the gilding. Generous margin for a circular crop. Photorealistic, premium, no other text, no watermark.
+Square 1:1, 2K. The three capital letters "AAB" built as a colossal ancient stone monument, standing in a dark misty void like a lost wonder of the world: massive weathered granite blocks with visible joints, chiseled serif edges, faint moss and erosion at the base. Thin, glowing red architectural dimension lines (#E53935) with small tick marks annotate the monument like a surveyor's blueprint: one horizontal line spanning the full width beneath the letters, one vertical line measuring the height beside the B. Dramatic low-angle view, a single cold shaft of light from above cutting through volumetric fog, deep navy-black background (#0B1220), faint warm glow at the base. Photorealistic cinematic 3D render, epic scale, mysterious atmosphere, subtle film grain. The letters "AAB" must be large, sharp, correctly spelled, centered and fill about 65 percent of the width, with margin for a circular crop. No other text, no numbers, no watermark.
 ```
 
-### 3-3. 대안 B: AAB 사이로 솟은 옥상 물탱크
+### 3-2. 대안 A: 엑스레이 AAB (반은 돌, 반은 유리)
 ```
-Square 1:1, 2K. Large gold-leaf serif capital letters "AAB" standing as solid 3D objects on a dark navy surface; between the two A's and the B, a small photorealistic New York rooftop wooden water tank rises on short steel legs, the same height as the letters. One thin red dimension line (#E53935) with end ticks runs beside the tank. Deep navy background, warm rim light, subtle grain. Letters correctly spelled, sharp, centered, generous margin for a circular crop. No other text, no watermark.
+Square 1:1, 2K. The capital letters "AAB" as a monumental 3D stone structure, centered, seen slightly from below. The lower half of the letters has turned to clear glass, revealing a hidden interior of copper pipes, steel beams and an old brick tunnel inside them, lit warmly from within; the boundary between stone and glass is traced by one thin glowing red line (#E53935). Red dimension lines with tick marks measure the width and height. Dark navy-black misty background, cold top light, volumetric haze. Photorealistic cinematic, mysterious, epic. Letters correctly spelled, sharp, filling about 65 percent of the width, margin for circular crop. No other text, no numbers, no watermark.
 ```
 
-> 생성 이미지 속 글자가 깨지거나 철자가 틀리면, 글자 없이 책·배경만 생성하고 편집에서 금박 질감 "AAB"를 얹으세요(서체 예: Cormorant Garamond Bold, Playfair Display Black).
+### 3-3. 대안 B: 금속 AAB 위에 솟은 미국 랜드마크 실루엣
+```
+Square 1:1, 2K. Heavy dark bronze 3D capital letters "AAB" with worn gold edges, standing like the base of a monument; rising from the top of the letters, a miniature photorealistic cluster of American landmarks in silhouette against a stormy twilight sky: a suspension bridge tower, a rooftop wooden water tank, a dam wall. Thin glowing red dimension lines (#E53935) with tick marks measure the tallest landmark and the width of the letters. Deep navy-black background, volumetric fog, a cold beam of light from above. Photorealistic, cinematic, mysterious. Letters correctly spelled and sharp, centered, margin for circular crop. No other text, no numbers, no watermark.
+```
 
-**체크:** 원형으로 잘라 32px까지 줄여도 "책 + 탱크(또는 이니셜)"가 읽히는지 · 붉은 선은 하나뿐인지 · 글자가 깨지지 않았는지.
+> **글자가 깨지면:** 같은 프롬프트에서 `"AAB"`를 `three blank monumental stone blocks shaped for letters`로 바꿔 배경과 조명만 생성하고, 편집에서 석재/브론즈 질감 "AAB"를 얹으세요(서체 예: Cinzel Bold, Trajan 계열 — 고대 비문 느낌).
+> **체크:** 원형으로 잘라 32px까지 줄여도 "AAB"가 읽히는지 · 붉은 치수선은 1~2개 · 배경이 너무 밝지 않은지(어둡고 신비하게).
 
 ---
 
 ## 4. 배너 (2560×1440, 안전 영역 가운데 1546×423)
 
-### 4-1. 메인안: 펼친 거대한 책에서 솟아오르는 미국 도시
+**톤 기준:** 프로필과 같은 세계. 안개 낀 어둠 속에 **미국의 거대 구조물들이 불가사의처럼** 서 있고, 붉은 치수선이 그것들을 측량합니다. 가운데에 AAB 석조 모뉴먼트.
+
+### 4-1. 메인안: 안개 속 미국 불가사의들과 AAB 모뉴먼트
 ```
-Ultra-wide 16:9 at 2560x1440. A photorealistic cinematic scene: an enormous antique leather-bound encyclopedia lies open across the full width of the frame on a dark wooden desk, its aged parchment pages fanning out. Out of the open pages rises, like a living pop-up book rendered in full photorealism, a continuous miniature American cityscape at golden hour: on the left page, Manhattan pre-war rooftops with wooden water tanks; across the spine, a Chicago downtown street with brick and stone buildings and a steel elevated railway; on the right page, gentle green hills beside a tidal creek and a distant skyline. Where the city meets the paper, the ground becomes clear glass in places, revealing real copper pipes, an old brick sewer and deep earth layers beneath. Thin red architectural dimension lines (#E53935) with small end ticks are drawn across a few of the buildings, as if an engineer annotated the page. Warm reading-lamp light from the upper left, deep navy (#0E1A2B) darkness around the edges, faint dust in the light beam. Keep the sky area above the center of the city calm and slightly darker so a title can be placed there later. 35mm anamorphic look, shallow depth of field at the far edges, subtle film grain. No text, no letters, no logos, no brand signage, no license plates, no visible human faces.
+Ultra-wide 16:9 at 2560x1440. A photorealistic cinematic panorama at deep blue twilight in thick volumetric fog, like a gallery of lost wonders. In the center, a colossal ancient stone monument of the capital letters "AAB", weathered granite, lit by a single cold shaft of light from above. Flanking it, emerging from the mist at monumental scale: on the left, Manhattan pre-war rooftops crowned with wooden water tanks and the stone tower of a suspension bridge; on the right, the curved concrete wall of a great dam in a canyon and a Chicago steel elevated railway. Parts of the ground have turned to clear glass, revealing glowing copper pipes, an old brick tunnel and deep rock layers beneath. Thin glowing red architectural dimension lines (#E53935) with small tick marks measure the height of the dam, the bridge tower and the AAB monument, like a surveyor's blueprint drawn onto the real world. Deep navy-black sky (#0B1220), faint warm glows at the bases of the structures. Keep the area just above the AAB monument calm for a subtitle. Epic, mysterious, 35mm anamorphic look, subtle film grain. "AAB" correctly spelled and sharp; no other text, no logos, no brand signage, no license plates, no visible human faces.
 ```
 
-### 4-2. 대안: 책장을 넘기는 순간 (더 역동적)
+### 4-2. 대안: 지평선 아래 숨은 도시 (엑스레이 단면)
 ```
-Ultra-wide 16:9 at 2560x1440. A photorealistic close-up of an antique parchment book with a single page caught mid-turn, curling upward in the center of the frame. On the page being turned, a photorealistic miniature Hoover Dam and canyon emerges; on the page beneath, a miniature New York rooftop scene with water tanks. Fine red dimension lines (#E53935) annotate the dam's height and a tank's height. Warm lamp light, deep navy background, floating dust particles catching the light. Calm empty space in the upper center for a title. No text, no logos, no watermark.
+Ultra-wide 16:9 at 2560x1440. A photorealistic cinematic panorama split by the horizon at about 45 percent from the top, in misty blue twilight. Above: a continuous American skyline of rooftops with wooden water tanks, a suspension bridge, a dam in a canyon. Below: the earth across the full width has become clear glass, revealing a vast hidden world of copper pipes, cast-iron water mains, old brick sewers, tunnels and deep rock strata, glowing warmly from within. One thin glowing red line (#E53935) traces the horizon across the full width, and a few red dimension lines with tick marks measure the deepest tunnel and the tallest tower. In the center of the sky, large weathered stone letters "AAB" float above the city like a monument. Epic, mysterious, subtle grain. "AAB" correctly spelled; no other text, no logos, no watermark.
 ```
 
 ### 4-3. 편집에서 얹을 글자 (안전 영역 안)
 ```
-AAB
+AAB  (생성 이미지에 이미 있으면 생략)
 AMAZING AMERICA BOOK
-An encyclopedia of American wonders, brought back to life with AI.
+The hidden wonders of America, brought back to life with AI.
 A new page every day
 ```
-- "AAB": 금박 세리프 대문자로 크게, 그 아래 채널명 전체를 작게. 프로필과 같은 서체·질감
-- 채널명: 클래식 세리프(예: Cormorant Garamond Bold, Playfair Display) **금박 질감** 또는 흰색. 아래에 붉은 치수선 한 줄(양 끝 틱 포함).
-- 한 줄 소개: 산세리프(Inter) Regular, 흰색 80%.
-- 업로드 주기: 작은 글자, 안전 영역 안.
+- "AAB"·채널명: Cinzel Bold 등 고대 비문 세리프, 석재 또는 흰색. 아래에 붉은 치수선 한 줄(양 끝 틱).
+- 소개·주기: Inter Regular, 흰색 80%.
 
 ### 4-4. 배너 체크
 - 유튜브 미리보기에서 데스크톱·모바일·TV 세 가지로 확인. 글자가 안전 영역 밖으로 나가지 않는지
-- 책이 플라스틱·토이처럼 보이지 않고 **진짜 오래된 책**처럼 보이는지(가죽 결, 종이 얼룩, 금박 마모)
-- 도시 미니어처는 장난감이 아니라 **실사 축소판**처럼(창문 반사, 젖은 지붕, 녹)
-- 붉은 치수선은 2~3개 이하. 많으면 도면처럼 산만해짐
+- 전체가 **어둡고 신비한 톤**인지(밝은 낮·아늑한 실내면 다시)
+- 구조물들은 실사 재질, 장난감·모형처럼 보이면 탈락
+- 붉은 치수선은 3개 이하
 
 ---
 
@@ -111,7 +112,7 @@ A new page every day
 |---|---|
 | 영상 인트로/아웃트로 | 0.5초: 책장이 넘어가며 다음 장소가 솟아오름. 아웃트로 로고도 같은 동작 |
 | 편수 표기 | "Page 1 · NYC Water Towers" 식. 영상 제목이 아니라 화면 하단 작은 자막과 재생목록 이름에 |
-| 워터마크(영상 우하단) | 프로필 대안 A의 금박 "AAB" 엠블럼을 150×150 투명 PNG |
+| 워터마크(영상 우하단) | 프로필 메인안의 석조 "AAB"를 150×150 투명 PNG |
 | 썸네일 공통 요소 | 왼쪽 위 작은 금박 책 아이콘 + 엑스레이 리빌 순간 프레임 + 큰 숫자 하나(6 FLOORS, 225 FT) |
 | 색 | 남색 #0E1A2B · 금박 #C9A24A · 붉은 선 #E53935 · 양피지 #EFE6D2 · 흰색 |
 
