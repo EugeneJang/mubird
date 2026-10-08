@@ -1,113 +1,104 @@
-# Under America 채널 브랜딩 키트
+# AmazingAmericaBook 채널 브랜딩 키트
 
-> 작성일: 2026-10-08 · 기준: 기획안 §1 비주얼 규격 v2(실사 기반 시네마틱 3D, 엑스레이 리빌, 붉은 치수선)
-> 핸들 가용성은 이 환경에서 확인할 수 없습니다. 개설 시 유튜브·TikTok·Instagram에서 같은 핸들이 비어 있는지 먼저 확인하세요.
+> 작성일: 2026-10-08 · 채널명 확정: **AmazingAmericaBook** (표기: Amazing America Book)
+> 톤 모델: 「신비한 건축사전」. 채널 설명이 "고대의 불가사의, AI로 다시 태어나다 · 전 영상 AI 제작 · 매일 업로드"이고, 영상은 실사 같은 3D 위에 붉은 치수선이 그려지는 스타일입니다. 그 **"사전/백과사전 + 불가사의 + AI 3D"** 느낌을 미국판으로 가져오되, 로고·배너 디자인 자체를 베끼지는 않습니다(정체성 혼동과 신고 위험).
+> 핸들 가용성은 이 환경에서 확인할 수 없습니다. 개설 시 @AmazingAmericaBook가 비어 있는지 유튜브·TikTok·Instagram에서 먼저 확인하세요.
 
 ---
 
-## 1. 채널명 추천
+## 1. 브랜드 컨셉 한 줄
 
-| 순위 | 채널명 | 핸들 후보 | 왜 |
-|---|---|---|---|
-| **1** | **Under America** | @UnderAmerica · @UnderAmericaTV | 이미 제작 시트 3편에 쓰고 있음. "미국의 밑", "겉모습 아래"라는 두 뜻이 엑스레이 리빌 비주얼과 그대로 맞음. 중립적이라 신고 위험 없음 |
-| 2 | **Hidden Blueprint** | @HiddenBlueprint | 붉은 치수선·도면 감성과 직결. 미국 밖 소재로 넓힐 때도 그대로 쓸 수 있음 |
-| 3 | **Built Beneath** | @BuiltBeneath | 짧고 두운이 맞음. "아래에 지어진 것"이라는 채널 핵심을 한 단어로 |
-| 4 | **The City Underneath** | @TheCityUnderneath | 2편 반전("옛 도시는 떠나지 않았다")과 같은 결. 다소 길어 썸네일 로고엔 불리 |
-| 5 | **Why It's Built That Way** | @WhyItsBuilt | 검색어형. 첫 구독자 유입엔 유리하지만 브랜드 힘은 약함 |
+**"An encyclopedia of American wonders, brought back to life with AI."**
+한국어로는 "미국의 불가사의 사전, AI로 다시 펼치다". 신비한 건축사전의 "사전" 콘셉트를 **책(Book)**으로 옮겨, 매 편이 이 책의 한 페이지라는 설정입니다.
 
-**권장: Under America.** 1~3편 대본, 고정 댓글, 로고 규격이 모두 이 이름 기준이라 바꿀 비용이 없습니다. 핸들이 막혀 있으면 @UnderAmericaTV, @UnderAmericaShorts 순으로.
-
-제외한 이름: "Built Wrong?"(실존 건설사를 비난하는 뉘앙스, 기획안 §10 가드레일), "America's Secrets" 류(음모론 채널로 오해, 광고 제한 위험).
+- **상징물:** 오래된 가죽 장정 백과사전. 펼치면 페이지 위로 미국 건축물이 실사 3D로 솟아오름(팝업북 같은 구도, 질감은 실사).
+- **시그니처 선:** 페이지와 건물 위를 지나는 얇은 **붉은 치수선**. 영상의 엑스레이 리빌 테두리와 같은 색(#E53935).
+- **색:** 남색 #0E1A2B · 앤티크 금박 #C9A24A · 붉은 선 #E53935 · 양피지 #EFE6D2.
+- **영상 연결:** 매 편 첫 0.5초 또는 마지막 로고에서 책장이 넘어가며 "Page 1, Page 2…"로 편수를 붙일 수 있습니다(편집에서 글자).
 
 ---
 
 ## 2. 채널 소개 문구
 
-### 2-1. 한 줄 소개 (채널 이름 아래·검색 결과에 보이는 부분, 130자 이내)
+### 2-1. 한 줄 소개 (130자 이내)
 ```
-The America you walk past every day isn't what you think it is. 60-second x-ray tours of the buildings, streets and rivers around you.
-```
-
-### 2-2. 채널 설명란 (About, 1,000자 이내, 정중한 안내자 어투)
-```
-You've probably walked past it a thousand times: the wooden tank on a New York roof, the grassy hill on Staten Island, the downtown street in Chicago.
-
-Under America takes a closer look. In about a minute, we look through the walls, the pavement and the ground to show you how the places around you actually work, and the clever thinking behind them.
-
-Every episode follows a real problem, the moment it got frustrating, and the idea that flipped it around. Then we save one detail for the end that I'd love you to remember.
-
-New episodes every day.
-
-A note on how it's made: every visual is AI-generated for illustration, based on real places. The research and narration are done by the channel, and every number in an episode is sourced in its description. If you spot something we got wrong, please tell us in the comments. We'll correct it.
-
-Business inquiries: [이메일]
+An encyclopedia of American wonders, brought back to life with AI. One page a day: the clever ideas hidden in the places you walk past.
 ```
 
-**메모**
-- 2문단 마지막 문장 "the clever thinking behind them"과 3문단의 problem / frustrating / flipped / I'd love you to remember가 6비트 유행어를 미리 예고합니다.
-- AI 생성 고지와 정정 약속은 정책 리스크를 줄이고 신뢰를 올립니다(기획안 §10).
-- 이메일은 채널 전용 주소를 새로 만들어 넣으세요. 개인 주소는 넣지 않습니다.
-
-### 2-3. 채널 키워드 (설정 → 채널 → 기본 정보)
+### 2-2. 채널 설명란 (About, 정중한 안내자 어투)
 ```
-engineering, architecture, infrastructure, how it works, cities, urban design, civil engineering, history of america, new york, chicago, explained, shorts
+Welcome to the Amazing America Book.
+
+Every page of this book is one place you've probably walked past a thousand times: the wooden tank on a New York roof, a downtown street in Chicago, a quiet green hill on Staten Island. And behind every one of them is a problem that seemed impossible, and an idea that turned it around.
+
+In about a minute, we open the page, look through the walls and the ground, and show you how it really works. Then we save one detail for the end that I'd love you to remember.
+
+A new page every day.
+
+All visuals are AI-generated for illustration, based on real places. The research and narration are done by the channel, and every number is sourced in the episode description. If you spot a mistake, please let us know in the comments and we'll correct it.
+
+Business inquiries: [채널 전용 이메일]
 ```
 
-### 2-4. 채널 예고편(비구독자용) 추천
-1편 NYC 수탑. 첫 5초 블루아워 드론과 탱크가 투명해지는 장면이 채널 비주얼을 가장 잘 보여줍니다.
+### 2-3. 한국어 참고 번역 (업로드용 아님)
+> 어메이징 아메리카 북에 오신 걸 환영합니다. 이 책의 한 페이지 한 페이지는 여러분이 천 번은 지나쳤을 장소예요. 그 뒤에는 불가능해 보였던 문제와, 그걸 뒤집은 생각이 숨어 있습니다. 1분 안에 페이지를 펼치고, 벽과 땅속을 들여다보며 어떻게 작동하는지 보여 드릴게요. 매일 한 페이지씩.
+
+### 2-4. 채널 키워드
+```
+amazing america, american wonders, engineering, architecture, infrastructure, how it works, history of america, cities, new york, chicago, explained, ai history, shorts
+```
 
 ---
 
-## 3. 프로필 사진 (800×800, 원형으로 잘림)
+## 3. 프로필 사진 (800×800, 원형 크롭)
 
-### 3-1. 디자인 방향
-- **한 개의 사물 + 한 줄의 붉은 선.** 원형 크롭에서 32px로 줄어도 읽혀야 합니다.
-- 주인공은 **뉴욕 옥상 나무 물탱크** 하나. 1편의 상징이자 "미국 도시"를 가장 짧게 말하는 실루엣입니다.
-- 탱크 몸통의 **아래 절반만 유리처럼 투명**해져 물이 보이고, 경계에 얇은 붉은 선. 채널의 엑스레이 리빌을 한 장으로.
-- 배경은 블루아워 하늘 단색에 가까운 그라데이션. 글자 없음(채널명은 유튜브가 옆에 표시).
-
-### 3-2. Nano Banana Pro 프롬프트 (메인안)
+### 3-1. 메인안: 펼친 책 위로 솟은 옥상 물탱크
 ```
-Square 1:1, 2K. A single cylindrical wooden rooftop water tank from New York City, centered and filling about 70 percent of the frame, seen from slightly below at a three-quarter angle: weathered Western red cedar staves, dark rusted steel hoops, a conical wooden roof, short steel legs. The lower half of the tank's body has become perfectly clear glass, revealing calm dark blue water inside with a flat surface; the boundary between wood and glass is traced by one thin, crisp red line (#E53935). Background: a smooth blue-hour sky gradient from deep navy at the top to soft dusk blue at the bottom, no buildings, no clouds. Photorealistic, cinematic, soft rim light from behind outlining the tank, shallow depth of field. Strong, simple silhouette that reads clearly when scaled down to a small circle. No text, no letters, no logo, no watermark.
+Square 1:1, 2K. An antique leather-bound encyclopedia lying open, seen from a low three-quarter angle and centered in the frame, its deep navy cover edged with worn gold tooling and its aged parchment pages fanned slightly. Rising out of the open pages like a pop-up book, but rendered as a fully photorealistic miniature: a single New York rooftop wooden water tank on short steel legs, weathered cedar staves, rusted steel hoops, a conical roof, standing on a small patch of tar rooftop that grows out of the paper. One thin, crisp red dimension line (#E53935) with small end ticks runs vertically beside the tank, from the page to the top of its roof. Background: smooth deep navy (#0E1A2B) gradient with a soft warm glow behind the book, as if lit by a reading lamp. Cinematic, shallow depth of field, gentle rim light, subtle film grain. Strong simple silhouette that still reads when scaled down to a small circle. No text, no letters, no numbers, no logo, no watermark.
 ```
 
-### 3-3. 대안 프롬프트 (로고형, 더 단순)
+### 3-2. 대안 A: 금박 이니셜 엠블럼 (로고형)
 ```
-Square 1:1, 2K. A minimal emblem: a thin red (#E53935) architectural dimension-line bracket in the shape of a right angle, like a blueprint corner mark, wrapping the lower-left of a small photorealistic wooden water tank silhouette. The tank is dark against a deep navy background, lit only by a faint blue rim light. Centered, generous margin for a circular crop. Clean, premium, no text, no letters, no logo, no watermark.
+Square 1:1, 2K. A close, centered view of the front cover of an antique navy leather book. Embossed in worn gold leaf at the center, a classic engraved-style monogram of three capital letters "AAB" inside a thin circular border. Crossing the monogram diagonally, one thin red architectural dimension line (#E53935) with small tick marks at both ends, as if drawn on top by an engineer. Soft raking light that shows the leather grain and the depth of the embossing. Generous margin for a circular crop. Photorealistic, premium, no other text, no watermark.
+```
+> 이니셜 글자는 깨질 수 있으니, 깨지면 글자 없이 생성하고 편집에서 금박 질감 "AAB"를 얹으세요.
+
+### 3-3. 대안 B: 책장 사이로 보이는 성조기 색 하늘의 스카이라인
+```
+Square 1:1, 2K. An antique navy leather book standing slightly open toward the viewer; through the gap between the pages, a tiny photorealistic American skyline at golden hour glows as if the book were a window, with a few rooftop water tanks and a steel bridge silhouette. One thin red dimension line (#E53935) traces the top edge of the skyline. Deep navy background, warm light spilling from inside the book. No text, no logo, no watermark.
 ```
 
-**체크:** 원형으로 잘라 32px로 줄여서 탱크가 읽히는지 · 붉은 선이 하나뿐인지 · 글자 없음 · 탱크 다리가 급수탑처럼 길지 않은지.
+**체크:** 원형으로 잘라 32px까지 줄여도 "책 + 탱크(또는 이니셜)"가 읽히는지 · 붉은 선은 하나뿐인지 · 글자가 깨지지 않았는지.
 
 ---
 
 ## 4. 배너 (2560×1440, 안전 영역 가운데 1546×423)
 
-### 4-1. 디자인 방향
-- 유튜브 배너는 기기마다 잘리는 범위가 달라서, **글자와 핵심은 가운데 1546×423 안**에만 둡니다. 나머지는 TV 화면에서만 보이는 배경입니다.
-- 구성은 **위는 실사 도시, 아래는 투명해진 땅속**. 가로로 긴 화면을 수평선 하나로 나눠, 채널이 하는 일을 한 장면에 담습니다.
-- 왼쪽에서 오른쪽으로 1~3편 소재가 이어지게: 뉴욕 옥상 수탑 → 시카고 거리 → 스태튼아일랜드 초원 언덕. 앞으로 소재가 늘어나도 "미국 도시 전체"로 읽힙니다.
-- 채널명과 한 줄 소개는 **편집에서 얹습니다**(생성 이미지 속 글자는 깨지기 쉬움).
-
-### 4-2. Nano Banana Pro 프롬프트
+### 4-1. 메인안: 펼친 거대한 책에서 솟아오르는 미국 도시
 ```
-Ultra-wide 16:9 at 2560x1440. A photorealistic cinematic panorama at golden hour, split horizontally by the ground line at about 45 percent from the top. Above the ground, from left to right, one continuous American cityscape: Manhattan pre-war rooftops with several wooden water tanks, then a Chicago downtown street with brick and stone buildings and a steel elevated railway, then gentle grass-covered hills by a tidal creek with a distant skyline. Below the ground line, the earth across the whole width has become clear glass, revealing what lies beneath each place, rendered as real, lit, worn material: under New York, copper risers and a cast-iron water main; under Chicago, an old brick-arched sewer and the bricked-up windows of an older street level; under the hills, a black liner and deep compacted layers. The boundary between the city and the glass ground is traced by one thin red line (#E53935) running across the full width. Keep the central area calm and slightly darker in the sky above the skyline so text can be placed there later. 35mm anamorphic look, soft haze, subtle film grain. No text, no letters, no logos, no brand signage, no license plates, no visible human faces.
+Ultra-wide 16:9 at 2560x1440. A photorealistic cinematic scene: an enormous antique leather-bound encyclopedia lies open across the full width of the frame on a dark wooden desk, its aged parchment pages fanning out. Out of the open pages rises, like a living pop-up book rendered in full photorealism, a continuous miniature American cityscape at golden hour: on the left page, Manhattan pre-war rooftops with wooden water tanks; across the spine, a Chicago downtown street with brick and stone buildings and a steel elevated railway; on the right page, gentle green hills beside a tidal creek and a distant skyline. Where the city meets the paper, the ground becomes clear glass in places, revealing real copper pipes, an old brick sewer and deep earth layers beneath. Thin red architectural dimension lines (#E53935) with small end ticks are drawn across a few of the buildings, as if an engineer annotated the page. Warm reading-lamp light from the upper left, deep navy (#0E1A2B) darkness around the edges, faint dust in the light beam. Keep the sky area above the center of the city calm and slightly darker so a title can be placed there later. 35mm anamorphic look, shallow depth of field at the far edges, subtle film grain. No text, no letters, no logos, no brand signage, no license plates, no visible human faces.
 ```
 
-### 4-3. 편집에서 얹을 글자 (안전 영역 안, 하늘 부분 가운데)
+### 4-2. 대안: 책장을 넘기는 순간 (더 역동적)
 ```
-UNDER AMERICA
-The city you walk past every day, seen from underneath.
-New episodes daily
+Ultra-wide 16:9 at 2560x1440. A photorealistic close-up of an antique parchment book with a single page caught mid-turn, curling upward in the center of the frame. On the page being turned, a photorealistic miniature Hoover Dam and canyon emerges; on the page beneath, a miniature New York rooftop scene with water tanks. Fine red dimension lines (#E53935) annotate the dam's height and a tank's height. Warm lamp light, deep navy background, floating dust particles catching the light. Calm empty space in the upper center for a title. No text, no logos, no watermark.
 ```
-- 채널명: Inter Bold 또는 Söhne Breit 계열, 흰색, 자간 넓게. 글자 아래 붉은 밑줄 한 줄(유행어 자막과 같은 스타일).
-- 한 줄 소개: 같은 서체 Regular, 흰색 80% 불투명.
-- 업로드 주기: 작은 글자, 오른쪽 아래가 아니라 안전 영역 안에.
+
+### 4-3. 편집에서 얹을 글자 (안전 영역 안)
+```
+AMAZING AMERICA BOOK
+An encyclopedia of American wonders, brought back to life with AI.
+A new page every day
+```
+- 채널명: 클래식 세리프(예: Cormorant Garamond Bold, Playfair Display) **금박 질감** 또는 흰색. 아래에 붉은 치수선 한 줄(양 끝 틱 포함).
+- 한 줄 소개: 산세리프(Inter) Regular, 흰색 80%.
+- 업로드 주기: 작은 글자, 안전 영역 안.
 
 ### 4-4. 배너 체크
-- 2560×1440으로 내보낸 뒤 유튜브 미리보기에서 **데스크톱·모바일·TV** 세 가지로 확인
-- 안전 영역 밖으로 글자가 나가지 않는지
-- 땅속 세 구간이 실물 재질로 보이는지(다이어그램·홀로그램이면 다시)
-- 붉은 선은 수평선 하나뿐인지
+- 유튜브 미리보기에서 데스크톱·모바일·TV 세 가지로 확인. 글자가 안전 영역 밖으로 나가지 않는지
+- 책이 플라스틱·토이처럼 보이지 않고 **진짜 오래된 책**처럼 보이는지(가죽 결, 종이 얼룩, 금박 마모)
+- 도시 미니어처는 장난감이 아니라 **실사 축소판**처럼(창문 반사, 젖은 지붕, 녹)
+- 붉은 치수선은 2~3개 이하. 많으면 도면처럼 산만해짐
 
 ---
 
@@ -115,7 +106,17 @@ New episodes daily
 
 | 항목 | 규격 |
 |---|---|
-| 워터마크(영상 우하단 브랜딩) | 프로필 3-3 대안안의 붉은 꺾쇠만 150×150 투명 PNG |
-| 썸네일 공통 요소 | 왼쪽 위 붉은 꺾쇠 + 엑스레이 리빌이 일어난 순간의 프레임 + 큰 숫자 하나(예: 6 FLOORS, 225 FT) |
-| 링크 | TikTok·Instagram 같은 핸들, 설명란 맨 아래 |
-| 색 | 남색 #0E1A2B · 붉은 선 #E53935 · 흰색 #FFFFFF. 이 세 색만 |
+| 영상 인트로/아웃트로 | 0.5초: 책장이 넘어가며 다음 장소가 솟아오름. 아웃트로 로고도 같은 동작 |
+| 편수 표기 | "Page 1 · NYC Water Towers" 식. 영상 제목이 아니라 화면 하단 작은 자막과 재생목록 이름에 |
+| 워터마크(영상 우하단) | 대안 A의 금박 이니셜 엠블럼을 150×150 투명 PNG |
+| 썸네일 공통 요소 | 왼쪽 위 작은 금박 책 아이콘 + 엑스레이 리빌 순간 프레임 + 큰 숫자 하나(6 FLOORS, 225 FT) |
+| 색 | 남색 #0E1A2B · 금박 #C9A24A · 붉은 선 #E53935 · 양피지 #EFE6D2 · 흰색 |
+
+---
+
+## 6. 제작 시트에 반영할 것
+
+1~3편 시트는 작업 제목 "Under America"로 되어 있습니다. 업로드 전에 아래만 바꾸면 됩니다.
+- 제목 끝 `| Under America #1` → `| Amazing America Book · Page 1`
+- 컷 18·17의 "로고 0.5초" → "책장이 넘어가는 로고 0.5초"
+- 고정 댓글의 EP 표기 → Page 표기
