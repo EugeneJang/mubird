@@ -67,30 +67,30 @@ v1의 "디오라마 옆 황동 게이지"를 **지하 펌프실에 실제로 달
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–5 | You've probably seen them: the wooden tanks on New York's rooftops. They're not really there to store water. They're there to push it. | 보신 적 있으시죠, 뉴욕 옥상의 나무 탱크. 사실 물을 저장하려고 있는 게 아니에요. 밀어내려고 있는 겁니다 | **L1.** 블루아워 드론 하강. 소호 옥상군 위를 낮게 지나며 나무 탱크들이 차례로 프레임을 스침. 마지막에 탱크 하나 앞에서 멈추고, 그 탱크 몸통만 유리처럼 투명해져 안의 물이 보임(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–5 | You've probably seen them: the wooden tanks on New York's rooftops. They're not really there to store water. They're there to push it. | 보신 적 있으시죠, 뉴욕 옥상의 나무 탱크. 사실 물을 저장하려고 있는 게 아니에요. 밀어내려고 있는 겁니다 | **L1.** 블루아워 드론 하강. 소호 옥상군 위를 낮게 지나며 나무 탱크들이 차례로 프레임을 스침. 마지막에 탱크 하나 앞에서 멈추고, 그 탱크 몸통만 유리처럼 투명해져 안의 물이 보임(붉은 테두리) | 프레임→영상 (시작) | Quality |
 | 2 | 5–9 | There are as many as 17,000 of them, and most of us never stop to ask why. | 최대 1만 7천 개가 있는데, 우리 대부분은 왜인지 멈춰 묻지 않아요 | **L1.** 카메라가 위로 쭉 빠지며 옥상이 끝없이 펼쳐짐. 안개 사이로 탱크 수백 개. 보도의 사람들은 아주 작게, 아무도 위를 안 봄 | 프레임→영상 (시작) | Fast |
-| 3 | 9–16 | The answer begins under the street. Here's the problem. The city's water mains can push water up about six floors. After that, they simply run out. | 답은 거리 밑에서 시작돼요. 문제는 이거예요. 시 본관은 6층 정도까지 물을 올릴 수 있어요. 그 위로는 그냥 힘이 다합니다 | **핵심 비주얼 ① · L2.** 보도에서 건물을 올려다보는 앵글. 아스팔트가 투명해져 지하 주철 본관이 보이고, 건물 벽 한 줄기가 유리가 되며 수직관 속 물이 1층, 2층… 올라가다 **6층에서 멈춤**. 멈춘 수면 높이의 옥상 난간에 ★ 실물 3D 금속 글자 「SIX FLOORS」가 서 있음(아침 빛에 그림자) | 프레임→영상 (시작+끝) | Quality |
+| 3 | 9–16 | The answer begins under the street. Here's the problem. The city's water mains can push water up about six floors. After that, they simply run out. | 답은 거리 밑에서 시작돼요. 문제는 이거예요. 시 본관은 6층 정도까지 물을 올릴 수 있어요. 그 위로는 그냥 힘이 다합니다 | **핵심 비주얼 ① · L2.** 보도에서 건물을 올려다보는 앵글. 아스팔트가 투명해져 지하 주철 본관이 보이고, 건물 벽 한 줄기가 유리가 되며 수직관 속 물이 1층, 2층… 올라가다 **6층에서 멈춤**. 멈춘 수면 높이의 옥상 난간에 ★ 실물 3D 금속 글자 「SIX FLOORS」가 서 있음(아침 빛에 그림자) | 프레임→영상 (시작) | Quality |
 
 ### 난관 — 물은 무게다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 16–21 | Water pressure is really just weight. For every 10 feet you go up, you lose about 4 psi. | 수압은 사실 무게예요. 10피트 올라갈 때마다 약 4psi를 잃습니다 | **L2 + L3 인서트.** 화재탈출계단을 따라 카메라가 한 층씩 수직 상승(FPV). 층을 지날 때마다 화면 구석의 작은 인서트, 지하 펌프실 황동 게이지 바늘이 한 칸씩 떨어짐 | 프레임→영상 (시작+끝) | Quality |
+| 4 | 16–21 | Water pressure is really just weight. For every 10 feet you go up, you lose about 4 psi. | 수압은 사실 무게예요. 10피트 올라갈 때마다 약 4psi를 잃습니다 | **L2 + L3 인서트.** 화재탈출계단을 따라 카메라가 한 층씩 수직 상승(FPV). 층을 지날 때마다 화면 구석의 작은 인서트, 지하 펌프실 황동 게이지 바늘이 한 칸씩 떨어짐 | 프레임→영상 (시작) | Quality |
 | 5 | 21–26 | By the seventh floor, a faucet gives you barely a trickle. And in the 1880s, New York was growing taller every year. | 7층이면 수도꼭지에서 겨우 똑똑 떨어져요. 그리고 1880년대 뉴욕은 해마다 높아지고 있었죠 | **L4.** 7층 욕실. 황동 수전에서 물이 가늘게 끊겨 떨어지는 매크로, 서브웨이 타일에 아침 빛. 창밖 포커스가 바뀌며 옆 건물 위로 더 높은 건물의 철골이 올라가는 모습 | 프레임→영상 (시작) | Fast |
-| 6 | 26–35 | The city could have raised the pressure. Now here's the maddening part. Higher pressure would burst the old iron pipes under every street. So each building had to solve the problem on its own. | 시가 압력을 올릴 수도 있었어요. 여기서 환장할 노릇이죠. 압력을 높이면 모든 거리 밑 낡은 철관이 터집니다. 그래서 건물마다 스스로 풀어야 했어요 | **막힌 길 · L2.** 젖은 거리 로우앵글. 아스팔트가 투명해져 주철 본관이 보이고, 압력이 오르자 이음새 볼트 틈으로 물이 분사되고, 그 위 포장이 부풀며 맨홀 뚜껑이 들썩임. 터진 자리마다 얇은 붉은 X | 프레임→영상 (시작+끝) | Quality |
+| 6 | 26–35 | The city could have raised the pressure. Now here's the maddening part. Higher pressure would burst the old iron pipes under every street. So each building had to solve the problem on its own. | 시가 압력을 올릴 수도 있었어요. 여기서 환장할 노릇이죠. 압력을 높이면 모든 거리 밑 낡은 철관이 터집니다. 그래서 건물마다 스스로 풀어야 했어요 | **막힌 길 · L2.** 젖은 거리 로우앵글. 아스팔트가 투명해져 주철 본관이 보이고, 압력이 오르자 이음새 볼트 틈으로 물이 분사되고, 그 위 포장이 부풀며 맨홀 뚜껑이 들썩임. 터진 자리마다 얇은 붉은 X | 프레임→영상 (시작) | Quality |
 
 ### 해법 — 위에 올려 두고 떨어뜨린다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 35–42 | And this is where the thinking flips. Instead of pushing water up from below, they placed it on the roof and let it fall. | 이때 발상을 전환합니다. 아래에서 밀어 올리는 대신, 옥상에 올려 두고 떨어뜨린 겁니다 | **핵심 비주얼 ② · L2 + L3.** 건물 정면 전체가 유리로 변함. 지하 펌프에서 **가는** 구리 수직관이 옥상 탱크로, 탱크에서 **굵은** 하향관이 각 층으로. 물이 위로는 가늘게, 아래로는 굵게 흐름. 펌프실 게이지 인서트의 바늘이 오른쪽으로 튕겨 오름 | 프레임→영상 (시작+끝) | Quality |
-| 8 | 42–47 | A pump in the basement runs whenever the tank gets low, and a float switch turns it off once the tank is full. | 지하 펌프는 탱크가 비면 돌고, 가득 차면 플로트 스위치가 꺼 줍니다 | **L3 → L5.** 어두운 펌프실, 주철 펌프가 진동하며 돌고 있음(먼지 입자, 전구 하나). 컷 중간에 탱크 내부로 전환: 수면이 오르며 구리 플로트가 떠올라 스위치 암에 닿고, 펌프실의 펌프가 멈춤 | 프레임→영상 (시작+끝) | Fast |
+| 7 | 35–42 | And this is where the thinking flips. Instead of pushing water up from below, they placed it on the roof and let it fall. | 이때 발상을 전환합니다. 아래에서 밀어 올리는 대신, 옥상에 올려 두고 떨어뜨린 겁니다 | **핵심 비주얼 ② · L2 + L3.** 건물 정면 전체가 유리로 변함. 지하 펌프에서 **가는** 구리 수직관이 옥상 탱크로, 탱크에서 **굵은** 하향관이 각 층으로. 물이 위로는 가늘게, 아래로는 굵게 흐름. 펌프실 게이지 인서트의 바늘이 오른쪽으로 튕겨 오름 | 프레임→영상 (시작) | Quality |
+| 8 | 42–47 | A pump in the basement runs whenever the tank gets low, and a float switch turns it off once the tank is full. | 지하 펌프는 탱크가 비면 돌고, 가득 차면 플로트 스위치가 꺼 줍니다 | **L3 → L5.** 어두운 펌프실, 주철 펌프가 진동하며 돌고 있음(먼지 입자, 전구 하나). 컷 중간에 탱크 내부로 전환: 수면이 오르며 구리 플로트가 떠올라 스위치 암에 닿고, 펌프실의 펌프가 멈춤 | 프레임→영상 (시작) | Fast |
 | 9 | 47–53 | From there, gravity does the work. 100 feet of height gives you about 43 psi at the ground-floor sink. No motor, no electricity needed. | 그다음은 중력이 일해요. 100피트 높이면 1층 세면대에서 약 43psi가 나옵니다. 모터도 전기도 필요 없어요 | **L2 + L4.** 옥상 탱크에서 1층까지 건물 벽을 타고 내려오는 얇은 붉은 치수선(실사 벽 위에 레이저처럼). 끝에서 1층 세면대 수전이 힘차게 쏟아지는 매크로 | 프레임→영상 (시작) | Fast |
 | 10 | 53–58 | The bottom of the tank is kept as a fire reserve. Even if the power goes out, the sprinklers still have pressure. | 탱크 바닥은 소방 예비수로 남겨 둡니다. 전기가 끊겨도 스프링클러는 압력을 유지해요 | **L5.** 탱크 몸통이 투명해지고 하부 수위에 붉은 선 하나. 그 아래에서 별도 배관이 나와 건물 천장의 스프링클러 헤드로. 실내 조명이 꺼져도 헤드 끝 물방울은 맺혀 있음 | 프레임→영상 (시작) | Fast |
 
@@ -98,16 +98,16 @@ v1의 "디오라마 옆 황동 게이지"를 **지하 펌프실에 실제로 달
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 11 | 58–65 | Here's the clever part. They're still made of wood. Cedar boards, steel hoops, no nails and no glue. When the wood soaks, it swells and seals itself. | 여기가 영리한 부분이에요. 지금도 나무로 만들어요. 삼나무 널, 강철 테, 못도 접착제도 없습니다. 나무가 물을 먹으면 부풀어서 스스로 틈을 막아요 | **핵심 비주얼 ③ · L5.** 탱크 널 매크로. 널 사이 틈으로 아침 햇살이 가늘게 새어 들다가, 물이 닿자 나무 결이 짙어지며 부풀고 빛줄기가 사라짐. 강철 테의 녹 자국까지 보이는 거리 | 프레임→영상 (시작+끝) | Quality |
-| 12 | 65–70 | A crew of six can take down an old tank and build a new one in a single day. Each one lasts around 35 years. | 6명 작업조가 옛 탱크를 내리고 새 탱크를 하루에 세울 수 있어요. 하나가 35년쯤 갑니다 | **L1.** 옥상 고정 카메라 타임랩스. 회색으로 삭은 탱크가 해체되고, 붉은 새 삼나무 널이 원형으로 서고 테가 둘러짐. 그림자가 아침에서 노을로 돌아감. 작업자는 실루엣·뒷모습 | 프레임→영상 (시작+끝) | Fast |
+| 11 | 58–65 | Here's the clever part. They're still made of wood. Cedar boards, steel hoops, no nails and no glue. When the wood soaks, it swells and seals itself. | 여기가 영리한 부분이에요. 지금도 나무로 만들어요. 삼나무 널, 강철 테, 못도 접착제도 없습니다. 나무가 물을 먹으면 부풀어서 스스로 틈을 막아요 | **핵심 비주얼 ③ · L5.** 탱크 널 매크로. 널 사이 틈으로 아침 햇살이 가늘게 새어 들다가, 물이 닿자 나무 결이 짙어지며 부풀고 빛줄기가 사라짐. 강철 테의 녹 자국까지 보이는 거리 | 프레임→영상 (시작) | Quality |
+| 12 | 65–70 | A crew of six can take down an old tank and build a new one in a single day. Each one lasts around 35 years. | 6명 작업조가 옛 탱크를 내리고 새 탱크를 하루에 세울 수 있어요. 하나가 35년쯤 갑니다 | **L1.** 옥상 고정 카메라 타임랩스. 회색으로 삭은 탱크가 해체되고, 붉은 새 삼나무 널이 원형으로 서고 테가 둘러짐. 그림자가 아침에서 노을로 돌아감. 작업자는 실루엣·뒷모습 | 프레임→영상 (시작) | Fast |
 | 13 | 70–75 | Steel would rust. Plastic would bake in the sun. Wood keeps the water cool in summer and slows the freeze in winter. | 강철은 녹슬고, 플라스틱은 햇빛에 익어요. 나무는 여름엔 물을 차게 하고 겨울엔 얼음을 늦춥니다 | **L1.** 같은 옥상, 탱크 세 개가 나란히: 녹물이 흘러내린 강철, 백화된 플라스틱, 멀쩡한 삼나무. 카메라가 천천히 팬 하며 나무 탱크에서 멈춤 | 프레임→영상 (시작) | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 14 | 75–79 | But here's the part I'd love you to remember. The water in that tank didn't start in the basement. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 그 탱크의 물은 지하에서 시작된 게 아닙니다 | **L2 → L6.** 탱크에서 카메라가 빠져나와 건물 아래로, 거리 아래 본관으로 들어가 북쪽으로 고속 후진. 터널 벽이 흐르다 빛이 열리며 숲 속 저수지 위로 솟아오름 | 프레임→영상 (시작+끝) | Quality |
-| 15 | 79–86 | It came down from mountains up to 125 miles away. About 95 percent of the city's water reaches the street without a single pump. It simply flows downhill. | 최대 125마일 떨어진 산에서 내려온 물이에요. 시 전체 물의 약 95%가 펌프 하나 없이 거리까지 옵니다. 그냥 내리막을 따라 흘러요 | **핵심 비주얼 ④ · L6.** 가을 안개 낀 캐츠킬 저수지 드론 와이드. 석조 취수탑에서 땅속으로 들어간 수도교가 **지면이 투명해지며** 산을 내려와 멀리 도시 스카이라인까지 완만한 내리막으로 이어짐. 취수탑 벽의 낡은 수위 눈금 클로즈업 인서트 ★ 저수지 둑 위에 실물 3D 석재 글자 「125 MILES」 | 프레임→영상 (시작+끝) | Quality |
+| 14 | 75–79 | But here's the part I'd love you to remember. The water in that tank didn't start in the basement. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 그 탱크의 물은 지하에서 시작된 게 아닙니다 | **L2 → L6.** 탱크에서 카메라가 빠져나와 건물 아래로, 거리 아래 본관으로 들어가 북쪽으로 고속 후진. 터널 벽이 흐르다 빛이 열리며 숲 속 저수지 위로 솟아오름 | 프레임→영상 (시작) | Quality |
+| 15 | 79–86 | It came down from mountains up to 125 miles away. About 95 percent of the city's water reaches the street without a single pump. It simply flows downhill. | 최대 125마일 떨어진 산에서 내려온 물이에요. 시 전체 물의 약 95%가 펌프 하나 없이 거리까지 옵니다. 그냥 내리막을 따라 흘러요 | **핵심 비주얼 ④ · L6.** 가을 안개 낀 캐츠킬 저수지 드론 와이드. 석조 취수탑에서 땅속으로 들어간 수도교가 **지면이 투명해지며** 산을 내려와 멀리 도시 스카이라인까지 완만한 내리막으로 이어짐. 취수탑 벽의 낡은 수위 눈금 클로즈업 인서트 ★ 저수지 둑 위에 실물 3D 석재 글자 「125 MILES」 | 프레임→영상 (시작) | Quality |
 | 16 | 86–90 | So the tank on the roof isn't where the pressure begins. | 그러니 옥상 탱크는 압력이 시작되는 곳이 아니에요 | **L1.** 골든아워 소호 옥상. 수도교 선이 도시로 들어와 건물 하나의 벽을 타고 올라 탱크에 닿는 경로가 얇은 붉은 선으로 이어짐 | 프레임→영상 (시작) | Quality |
 | 17 | 90–93 | It's the last 100 feet of a 125-mile fall. | 125마일 낙하의 마지막 100피트인 거죠 | **L1.** 긴 선은 사라지고 탱크에서 1층까지 짧은 붉은 치수선만 남음. 탱크 뒤로 해가 넘어감. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 18 | 93–96 | Next time, let's visit Chicago, the city that lifted itself out of the mud. | 다음엔 진흙에서 스스로를 들어올린 도시, 시카고로 가 볼게요 | 다음 편 티저(시카고 루프 거리 로우앵글, 보도가 투명해지는 실사 컷) + 로고 | 편집 | — |
@@ -176,6 +176,9 @@ Next time, let's visit Chicago, the city that lifted itself out of the mud.
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 10컷(1, 3, 4, 6, 7, 11, 14, 15, 16, 17), Fast 7컷, 편집 1컷. 먼저 **1·3·7번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 모든 Nano Banana 스틸은 로케이션 사진(L1~L6)을 Ingredients로 넣고 생성. 사진은 직접 촬영 또는 CC0만. 생성물에 원본 사진의 간판·얼굴·번호판이 남으면 편집으로 지움
 - 컷 1: 시작(탱크 모두 불투명, 드론 높은 위치) → 끝(탱크 하나 앞 저공, 그 탱크만 투명 + 붉은 테두리). 비행 경로는 한 번의 하강 곡선
@@ -245,7 +248,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A exactly as it is: high over the rooftops, every tank solid, camera at the start of a descent.
 
-컷1 끝 [편집] Edit the previous image: the camera has descended to just above parapet height in front of one particular tank, filling the right half of the frame; that tank's cedar body has become clear glass within a thin red edge line, revealing the dark water inside with a flat surface, while every other tank stays solid wood. Same lighting.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has descended to just above parapet height in front of one particular tank, filling the right half of the frame; that tank's cedar body has become clear glass within a thin red edge line, revealing the dark water inside with a flat surface, while every other tank stays solid wood. Same lighting. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
@@ -257,14 +260,16 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷3 시작 Use reference image B exactly as it is, asphalt and facade solid.
 
-컷3 끝 [편집] Edit the previous image: a bounded strip of the wet asphalt in the foreground has become clear glass, revealing a large old cast-iron water main beneath; a narrow vertical strip of the brick facade has also become glass, showing a copper riser pipe inside with water risen to exactly the sixth-floor window line and stopped, its surface flat; both glass areas edged with a single thin red line. On the roof parapet directly above, real brushed-metal 3D letters reading "SIX FLOORS" stand in the morning light, casting shadows on the brick. Same camera.
+컷3 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded strip of the wet asphalt in the foreground has become clear glass, revealing a large old cast-iron water main beneath; a narrow vertical strip of the brick facade has also become glass, showing a copper riser pipe inside with water risen to exactly the sixth-floor window line and stopped, its surface flat; both glass areas edged with a single thin red line. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷3 큰자막 「SIX FLOORS」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷4
 ```
 컷4 시작 Use reference image B, framed tight on the fire escape at first-floor height, looking up the facade. In the lower-right corner, a small round inset shows the brass gauge from reference image C with its red needle far right.
 
-컷4 끝 [편집] Edit the previous image: the camera has risen to sixth-floor height on the same fire escape, the street far below; the brass gauge inset in the lower-right corner is identical in size and position, but its red needle has swung far left into a small red zone. Same light.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has risen to sixth-floor height on the same fire escape, the street far below; the brass gauge inset in the lower-right corner is identical in size and position, but its red needle has swung far left into a small red zone. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷5
@@ -276,21 +281,21 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷6 시작 Use reference image B, lower and wider: the wet street surface fills the bottom half, a bounded area of asphalt turned to clear glass with a thin red edge revealing the cast-iron water main beneath, water inside it calm. Manhole cover at rest.
 
-컷6 끝 [편집] Edit the previous image: the water main is under visible strain, fine jets of water spraying from the gaps at its bolted joints into the surrounding soil, the asphalt above bulging upward in a low dome, the manhole cover lifted slightly off its seat with water seeping around its rim; each failing joint marked with a thin red X. Same camera, same light.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the water main is under visible strain, fine jets of water spraying from the gaps at its bolted joints into the surrounding soil, the asphalt above bulging upward in a low dome, the manhole cover lifted slightly off its seat with water seeping around its rim; each failing joint marked with a thin red X. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7 (핵심 비주얼 ②)
 ```
 컷7 시작 Use reference image B, facade solid, tank on the roof empty-looking and dark. Lower-right inset: the brass gauge from reference image C, red needle far left.
 
-컷7 끝 [편집] Edit the previous image: the entire front facade has become clear glass within a thin red edge, revealing the building's interior structure; a thin copper riser runs from a basement pump up to the rooftop tank, carrying a narrow stream of water upward, and a much thicker down-feed pipe descends from the tank's base, branching into every floor with a heavy flow of water; the tank is full. The gauge inset's red needle has swung far right. Same camera.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the entire front facade has become clear glass within a thin red edge, revealing the building's interior structure; a thin copper riser runs from a basement pump up to the rooftop tank, carrying a narrow stream of water upward, and a much thicker down-feed pipe descends from the tank's base, branching into every floor with a heavy flow of water; the tank is full. The gauge inset's red needle has swung far right. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8
 ```
 컷8 시작 Use reference image C: the cast-iron pump running, a faint blur on its belt, dust drifting, the gauge needle mid-dial.
 
-컷8 끝 [편집] Edit the previous image into a split reveal: the upper half of the frame now shows the inside of the rooftop tank from reference image E as clear glass, water risen to the top with a copper float ball touching a small switch arm; the lower half shows the same pump room, the pump now still, no motion blur. Same style.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the upper half of the frame now shows the inside of the rooftop tank from reference image E as clear glass, water risen to the top with a copper float ball touching a small switch arm; the lower half shows the same pump room, the pump now still, no motion blur. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9
@@ -307,14 +312,14 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷11 시작 Use reference image E, extreme macro on two adjacent cedar staves: a hairline gap between them with a thin blade of morning sunlight passing through, dry pale wood grain, the rusted steel hoop crossing the frame.
 
-컷11 끝 [편집] Edit the previous image: the wood has darkened with moisture and swelled, the hairline gap has closed completely and no light passes through, tiny beads of water on the surface, the hoop pressing snugly. Same camera, same light angle.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the wood has darkened with moisture and swelled, the hairline gap has closed completely and no light passes through, tiny beads of water on the surface, the hoop pressing snugly. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷12
 ```
 컷12 시작 Use reference image A, framed on one rooftop at morning: an old, grey, weathered tank partly dismantled, several staves removed, two workers seen from behind as silhouettes on the platform.
 
-컷12 끝 [편집] Edit the previous image: in the same position stands a brand-new tank of fresh reddish cedar with bright new steel hoops and a complete conical roof, in warm sunset light, long evening shadows across the roof. Same camera, same surrounding buildings.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: in the same position stands a brand-new tank of fresh reddish cedar with bright new steel hoops and a complete conical roof, in warm sunset light, long evening shadows across the roof. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13
@@ -326,14 +331,16 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷14 시작 Use reference image B, framed on the rooftop tank from the street, about to pull away.
 
-컷14 끝 Use reference image F exactly as it is: low over the misty reservoir at dawn, the stone intake tower ahead.
+컷14 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Aerial drone view of a wide reservoir in the Catskill Mountains in autumn: forested hills in red and gold, low mist over the water, a stone intake tower standing in the reservoir near a long stone dam, the morning sun just clearing the ridge. Calm, vast, cold air. low over the misty reservoir at dawn, the stone intake tower ahead. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷15 (핵심 비주얼 ④)
 ```
 컷15 시작 Use reference image F exactly as it is, the ground solid.
 
-컷15 끝 [편집] Edit the previous image: the camera has pulled back and up to a very wide view; from the stone intake tower, the forested ground has become clear glass along a bounded corridor with a thin red edge, revealing a long aqueduct tunnel descending in a gentle, continuous slope through the hills toward a distant city skyline on the horizon. On the stone dam, real carved-stone 3D letters reading "125 MILES" stand in the low sun. Inset in a corner: a close detail of old painted water-level marks on the intake tower's stone wall.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has pulled back and up to a very wide view; from the stone intake tower, the forested ground has become clear glass along a bounded corridor with a thin red edge, revealing a long aqueduct tunnel descending in a gentle, continuous slope through the hills toward a distant city skyline on the horizon. Inset in a corner: a close detail of old painted water-level marks on the intake tower's stone wall. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷15 큰자막 「125 MILES」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷16

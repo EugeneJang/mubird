@@ -60,41 +60,41 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | The Golden Gate Bridge is never finished being painted. But not for the reason you've probably heard. Let me show you why. | 골든게이트 브리지는 칠이 끝나는 날이 없어요. 그런데 아마 들으신 이유 때문은 아닙니다. 왜 그런지 보여 드릴게요 | **L1.** 새벽, 안개가 해협으로 흘러들고 오렌지 주탑 꼭대기만 안개 위로 솟음. 드론이 주탑을 감싸 돌다 멈추면 주탑 표면 한 구간의 페인트가 유리처럼 투명해지며 그 아래 강철과 회색 프라이머 층이 드러남(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 7–13 | It opened in 1937, and almost every day since, fog has rolled in from the Pacific. | 1937년에 개통했고, 그 뒤로 거의 매일 태평양에서 안개가 밀려들었어요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 샌프란시스코만 입구로 0.5초 줌인. 이어 바다 쪽에서 낮게 깔린 안개 벽이 해협으로 흘러들어 다리를 삼키는 와이드 타임랩스 | 프레임→영상 (시작+끝) | Fast |
-| 3 | 13–19 | That fog isn't just water. It carries salt from the ocean, and it settles on every inch of steel. | 그 안개는 그냥 물이 아니에요. 바다의 소금을 싣고 와서, 강철 구석구석에 내려앉습니다 | **L1 → L2.** 안개 입자 하나를 따라 날아가 주탑 표면에 닿는 추적 숏. 물방울이 마르자 하얀 소금 결정이 남음 | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–7 | The Golden Gate Bridge is never finished being painted. But not for the reason you've probably heard. Let me show you why. | 골든게이트 브리지는 칠이 끝나는 날이 없어요. 그런데 아마 들으신 이유 때문은 아닙니다. 왜 그런지 보여 드릴게요 | **L1.** 새벽, 안개가 해협으로 흘러들고 오렌지 주탑 꼭대기만 안개 위로 솟음. 드론이 주탑을 감싸 돌다 멈추면 주탑 표면 한 구간의 페인트가 유리처럼 투명해지며 그 아래 강철과 회색 프라이머 층이 드러남(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 7–13 | It opened in 1937, and almost every day since, fog has rolled in from the Pacific. | 1937년에 개통했고, 그 뒤로 거의 매일 태평양에서 안개가 밀려들었어요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 샌프란시스코만 입구로 0.5초 줌인. 이어 바다 쪽에서 낮게 깔린 안개 벽이 해협으로 흘러들어 다리를 삼키는 와이드 타임랩스 | 프레임→영상 (시작) | Fast |
+| 3 | 13–19 | That fog isn't just water. It carries salt from the ocean, and it settles on every inch of steel. | 그 안개는 그냥 물이 아니에요. 바다의 소금을 싣고 와서, 강철 구석구석에 내려앉습니다 | **L1 → L2.** 안개 입자 하나를 따라 날아가 주탑 표면에 닿는 추적 숏. 물방울이 마르자 하얀 소금 결정이 남음 | 프레임→영상 (시작) | Quality |
 
 ### 난관 — 소금은 쉬지 않는다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 19–25 | Here's the problem. Salt and steel don't get along. Wherever the paint wears thin, rust begins. | 문제는 이거예요. 소금과 강철은 사이가 나빠요. 페인트가 얇아진 곳마다 녹이 시작됩니다 | **L2 + L4.** 리벳이 줄지은 주탑 표면 매크로. 페인트가 해진 리벳 머리 둘레에 갈색 녹이 번지기 시작. 페인트 층이 투명해지며 강철 표면까지 녹이 파고든 게 보임 | 프레임→영상 (시작+끝) | Quality |
-| 5 | 25–35 | Now here's the maddening part. You can't close the bridge to repaint it. You can't wait for it to rust before you act. And the fog comes back tomorrow, and the day after that. | 여기서 환장할 노릇이죠. 다시 칠하자고 다리를 닫을 수는 없어요. 녹슬 때까지 기다렸다 손쓸 수도 없고요. 그리고 안개는 내일도, 모레도 다시 옵니다 | **막힌 길 · L1 + L2.** 세 장면을 빠르게: ① 출퇴근 차량이 끝없이 다리를 건넘(닫을 수 없음, 붉은 X) ② 녹이 번진 리벳 클로즈업(기다릴 수 없음, 붉은 X) ③ 해가 지고 뜨며 안개가 세 번 밀려드는 타임랩스(붉은 X) | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 35–41 | And this is where the thinking flips. Instead of painting the whole bridge in order, they paint wherever the salt is winning. | 이때 발상을 전환합니다. 다리 전체를 순서대로 칠하는 대신, 소금이 이기고 있는 곳마다 칠해요 | **L2.** 주탑 표면 전체가 아주 잠깐 투명해지며 곳곳에 녹이 번지는 지점들이 붉은 점으로 빛남. 그중 한 점으로 카메라가 곧장 날아감 | 프레임→영상 (시작+끝) | Quality |
+| 4 | 19–25 | Here's the problem. Salt and steel don't get along. Wherever the paint wears thin, rust begins. | 문제는 이거예요. 소금과 강철은 사이가 나빠요. 페인트가 얇아진 곳마다 녹이 시작됩니다 | **L2 + L4.** 리벳이 줄지은 주탑 표면 매크로. 페인트가 해진 리벳 머리 둘레에 갈색 녹이 번지기 시작. 페인트 층이 투명해지며 강철 표면까지 녹이 파고든 게 보임 | 프레임→영상 (시작) | Quality |
+| 5 | 25–35 | Now here's the maddening part. You can't close the bridge to repaint it. You can't wait for it to rust before you act. And the fog comes back tomorrow, and the day after that. | 여기서 환장할 노릇이죠. 다시 칠하자고 다리를 닫을 수는 없어요. 녹슬 때까지 기다렸다 손쓸 수도 없고요. 그리고 안개는 내일도, 모레도 다시 옵니다 | **막힌 길 · L1 + L2.** 세 장면을 빠르게: ① 출퇴근 차량이 끝없이 다리를 건넘(닫을 수 없음, 붉은 X) ② 녹이 번진 리벳 클로즈업(기다릴 수 없음, 붉은 X) ③ 해가 지고 뜨며 안개가 세 번 밀려드는 타임랩스(붉은 X) | 프레임→영상 (시작) + Extend 2초 | Quality |
+| 6 | 35–41 | And this is where the thinking flips. Instead of painting the whole bridge in order, they paint wherever the salt is winning. | 이때 발상을 전환합니다. 다리 전체를 순서대로 칠하는 대신, 소금이 이기고 있는 곳마다 칠해요 | **L2.** 주탑 표면 전체가 아주 잠깐 투명해지며 곳곳에 녹이 번지는 지점들이 붉은 점으로 빛남. 그중 한 점으로 카메라가 곧장 날아감 | 프레임→영상 (시작) | Quality |
 
 ### 해법 — 이기는 곳부터
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 7 | 41–47 | Inspectors track where corrosion is spreading, and the crews go there first. | 점검원들이 부식이 번지는 곳을 추적하고, 작업자들은 그곳부터 갑니다 | **L2.** 주 케이블 옆 점검 통로, 손전등 빛이 리벳 줄을 훑다 녹 번진 자리에서 멈춤(손과 장갑만). 그 자리에 얇은 붉은 원 | 프레임→영상 (시작) | Fast |
-| 8 | 47–55 | The full-time crew includes 28 painters and 16 ironworkers. The ironworkers cut out rusted steel and replace old rivets with high-strength bolts. | 상근 작업자 중엔 칠장이 28명과 철공 16명이 있어요. 철공들은 녹슨 강철을 잘라 내고 낡은 리벳을 고장력 볼트로 바꿉니다 | **핵심 비주얼 ① · L3.** 주탑 옆 작업 발판, 철공(뒷모습)이 녹슨 리벳 머리를 깎아 내고 새 볼트를 끼움. 리벳 자리의 강철이 투명해지며 볼트가 판재를 꽉 조이는 단면 ★ 발판 난간에 걸린 실물 강철 글자 「28 PAINTERS」 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 9 | 55–63 | Here's the clever part. The painters don't just add a coat. They strip the spot back to bare steel, lay down a zinc-rich primer, then the orange on top. | 여기가 영리한 부분이에요. 칠장이들은 그냥 한 겹 덧칠하지 않아요. 그 자리를 맨 강철까지 벗겨 내고, 아연이 든 프라이머를 깔고, 그 위에 오렌지를 칠합니다 | **핵심 비주얼 ② · L2 + L3.** 같은 지점 매크로 3단계: 녹을 벗겨 낸 은빛 맨 강철 → 회색 아연 프라이머 → 두꺼운 인터내셔널 오렌지. 마지막에 빗 모양 막 두께 게이지를 대어 두께를 확인 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 10 | 63–69 | The zinc is the quiet hero. If salt ever reaches it, the zinc corrodes first, protecting the steel underneath. | 아연이 숨은 주인공이에요. 소금이 거기까지 닿더라도 아연이 먼저 부식되면서, 그 아래 강철을 지켜 줍니다 | **L2.** 페인트와 프라이머가 투명해진 단면에서, 소금 입자가 닿은 자리의 아연 층만 하얗게 삭고 그 아래 은빛 강철은 그대로 | 프레임→영상 (시작+끝) | Fast |
-| 11 | 69–76 | The work happens inside sealed platforms about 70 feet on a side, so old paint and grit never fall into the bay. | 작업은 한 변이 약 70피트인 밀폐 작업대 안에서 이뤄져요. 오래된 페인트와 연마재가 만으로 떨어지지 않도록요 | **L3.** 주탑 아래 보에 매달린 큰 사각 작업대가 하얀 방호 시트로 덮여 있음. 작업대 아랫면이 투명해지며 안에서 떨어지는 페인트 가루가 바닥 시트에 모이는 게 보이고, 그 아래 바다는 깨끗함 | 프레임→영상 (시작+끝) | Fast |
-| 12 | 76–83 | From 1965 to 1995, crews went over the entire bridge this way, removing every bit of the original lead-based paint. | 1965년부터 1995년까지, 작업자들은 이 방식으로 다리 전체를 훑으며 원래의 납 성분 페인트를 하나도 남김없이 걷어 냈어요 | **L3.** 작업대 안 강판 위 ★ 실물 강철 글자 「1965 → 1995」 → 카메라가 빠지며 주탑을 따라 30년이 흐르는 타임랩스, 작업대가 위아래로 자리를 옮겨 감 | 프레임→영상 (시작+끝) | Quality |
+| 8 | 47–55 | The full-time crew includes 28 painters and 16 ironworkers. The ironworkers cut out rusted steel and replace old rivets with high-strength bolts. | 상근 작업자 중엔 칠장이 28명과 철공 16명이 있어요. 철공들은 녹슨 강철을 잘라 내고 낡은 리벳을 고장력 볼트로 바꿉니다 | **핵심 비주얼 ① · L3.** 주탑 옆 작업 발판, 철공(뒷모습)이 녹슨 리벳 머리를 깎아 내고 새 볼트를 끼움. 리벳 자리의 강철이 투명해지며 볼트가 판재를 꽉 조이는 단면 ★ 발판 난간에 걸린 실물 강철 글자 「28 PAINTERS」 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 9 | 55–63 | Here's the clever part. The painters don't just add a coat. They strip the spot back to bare steel, lay down a zinc-rich primer, then the orange on top. | 여기가 영리한 부분이에요. 칠장이들은 그냥 한 겹 덧칠하지 않아요. 그 자리를 맨 강철까지 벗겨 내고, 아연이 든 프라이머를 깔고, 그 위에 오렌지를 칠합니다 | **핵심 비주얼 ② · L2 + L3.** 같은 지점 매크로 3단계: 녹을 벗겨 낸 은빛 맨 강철 → 회색 아연 프라이머 → 두꺼운 인터내셔널 오렌지. 마지막에 빗 모양 막 두께 게이지를 대어 두께를 확인 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 10 | 63–69 | The zinc is the quiet hero. If salt ever reaches it, the zinc corrodes first, protecting the steel underneath. | 아연이 숨은 주인공이에요. 소금이 거기까지 닿더라도 아연이 먼저 부식되면서, 그 아래 강철을 지켜 줍니다 | **L2.** 페인트와 프라이머가 투명해진 단면에서, 소금 입자가 닿은 자리의 아연 층만 하얗게 삭고 그 아래 은빛 강철은 그대로 | 프레임→영상 (시작) | Fast |
+| 11 | 69–76 | The work happens inside sealed platforms about 70 feet on a side, so old paint and grit never fall into the bay. | 작업은 한 변이 약 70피트인 밀폐 작업대 안에서 이뤄져요. 오래된 페인트와 연마재가 만으로 떨어지지 않도록요 | **L3.** 주탑 아래 보에 매달린 큰 사각 작업대가 하얀 방호 시트로 덮여 있음. 작업대 아랫면이 투명해지며 안에서 떨어지는 페인트 가루가 바닥 시트에 모이는 게 보이고, 그 아래 바다는 깨끗함 | 프레임→영상 (시작) | Fast |
+| 12 | 76–83 | From 1965 to 1995, crews went over the entire bridge this way, removing every bit of the original lead-based paint. | 1965년부터 1995년까지, 작업자들은 이 방식으로 다리 전체를 훑으며 원래의 납 성분 페인트를 하나도 남김없이 걷어 냈어요 | **L3.** 작업대 안 강판 위 ★ 실물 강철 글자 「1965 → 1995」 → 카메라가 빠지며 주탑을 따라 30년이 흐르는 타임랩스, 작업대가 위아래로 자리를 옮겨 감 | 프레임→영상 (시작) | Quality |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 13 | 83–92 | But here's the part I'd love you to remember. You may have heard that when they finish one end, they start again at the other. That's not how it works. The bridge is painted continuously, wherever it's needed. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 한쪽 끝을 다 칠하면 반대쪽 끝부터 다시 시작한다는 얘기, 들어 보셨을 거예요. 실제로는 그렇지 않아요. 다리는 필요한 곳마다, 계속 칠해집니다 | **L2.** 같은 막 두께 게이지를 주탑 여러 곳에 차례로 대는 손. 게이지가 가리키는 두께가 자리마다 제각각. 이어 다리 전체 와이드에서, 끝에서 끝으로 흐르는 대신 여기저기 흩어진 지점에 작업대가 하나씩 매달려 있음 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 14 | 92–100 | And that famous orange? It started as a primer. The steel arrived from the mill coated in a reddish protective paint, and the bridge's consulting architect liked how it looked against the hills and the fog. | 그리고 그 유명한 오렌지색요? 시작은 프라이머였어요. 강철은 제강소에서 붉은빛 녹 방지 페인트를 바른 채 도착했고, 다리의 자문 건축가가 언덕과 안개를 배경으로 한 그 색이 마음에 들었던 거죠 | **핵심 비주얼 ③ · L5 → L1.** 1930년대 제강소, 붉은 프라이머를 바른 철골 더미가 화차에 실림 → 디졸브, 같은 붉은빛의 철골이 안개 낀 해협 위로 올라가 있는 건설 중 주탑 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 13 | 83–92 | But here's the part I'd love you to remember. You may have heard that when they finish one end, they start again at the other. That's not how it works. The bridge is painted continuously, wherever it's needed. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 한쪽 끝을 다 칠하면 반대쪽 끝부터 다시 시작한다는 얘기, 들어 보셨을 거예요. 실제로는 그렇지 않아요. 다리는 필요한 곳마다, 계속 칠해집니다 | **L2.** 같은 막 두께 게이지를 주탑 여러 곳에 차례로 대는 손. 게이지가 가리키는 두께가 자리마다 제각각. 이어 다리 전체 와이드에서, 끝에서 끝으로 흐르는 대신 여기저기 흩어진 지점에 작업대가 하나씩 매달려 있음 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 14 | 92–100 | And that famous orange? It started as a primer. The steel arrived from the mill coated in a reddish protective paint, and the bridge's consulting architect liked how it looked against the hills and the fog. | 그리고 그 유명한 오렌지색요? 시작은 프라이머였어요. 강철은 제강소에서 붉은빛 녹 방지 페인트를 바른 채 도착했고, 다리의 자문 건축가가 언덕과 안개를 배경으로 한 그 색이 마음에 들었던 거죠 | **핵심 비주얼 ③ · L5 → L1.** 1930년대 제강소, 붉은 프라이머를 바른 철골 더미가 화차에 실림 → 디졸브, 같은 붉은빛의 철골이 안개 낀 해협 위로 올라가 있는 건설 중 주탑 | 프레임→영상 (시작) + Extend 1초 | Quality |
 | 15 | 100–106 | It stayed. Today it's called International Orange, chosen to blend with the landscape and to help ships see the bridge. | 그 색이 그대로 남았어요. 지금은 인터내셔널 오렌지라 부르고, 경관과 어울리고 배들이 다리를 잘 보도록 고른 색입니다 | **L6.** 골든아워, 안개가 걷히는 해협에서 화물선 한 척이 다리 아래로 들어오며 오렌지 주탑이 뚜렷하게 빛남 | 프레임→영상 (시작) | Quality |
 | 16 | 106–112 | So the Golden Gate isn't painted from end to end. It's painted wherever the fog is winning. | 그러니 골든게이트는 끝에서 끝으로 칠하는 게 아니에요. 안개가 이기고 있는 곳마다 칠하는 겁니다 | **L1.** 새벽으로 돌아와, 안개가 다시 밀려드는 가운데 주탑 꼭대기에 작업대 하나가 매달려 있음. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 17 | 112–114 | — | — | **L6.** 안개 속에서 주탑 꼭대기의 붉은 항공 경고등이 한 번 깜빡임 | 프레임→영상 (시작) | Fast |
@@ -164,6 +164,9 @@ Next time, let's visit a church in Boston that stands on wooden logs, and must n
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 12컷(1, 3, 4, 5, 6, 8, 9, 12, 13, 14, 15, 16), Fast 5컷(2, 7, 10, 11, 17), 편집 1컷. 먼저 **1·9·14번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 공공 전망 지점에서 직접 촬영한 사진. 다리 위·작업 구역 촬영 금지. 1930년대 자료는 권리 확인된 퍼블릭 도메인만
 - 컷 1: 시작(안개 위 주탑 꼭대기 오빗, 페인트 불투명) → 끝(주탑 한 구간 투명 + 강철·프라이머 층)
@@ -232,42 +235,44 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A, the drone orbiting the tower top above the fog, paint opaque.
 
-컷1 끝 [편집] Edit the previous image: a bounded section of the tower's painted surface has become clear glass within a thin red edge line, revealing the grey zinc primer layer and the bare silvery steel plate and rivets beneath. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded section of the tower's painted surface has become clear glass within a thin red edge line, revealing the grey zinc primer layer and the bare silvery steel plate and rivets beneath. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the California coast in natural color, a thin red ring around the entrance to San Francisco Bay. No text.
 
-컷2 끝 Use reference image A as a wide view from the ocean side: a low wall of fog rolling in through the strait and swallowing the bridge deck.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Aerial drone view at dawn: a thick bank of fog pours through the Golden Gate strait, the bridge deck hidden, only the tops of the two orange Art Deco towers and the sweeping main cables rising above the fog, the Marin Headlands' dark hills on one side, soft pink-grey sky, the Pacific beyond. as a wide view from the ocean side: a low wall of fog rolling in through the strait and swallowing the bridge deck. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
 ```
 컷3 시작 [STYLE] A single fog droplet hanging in the air over the strait, the orange tower out of focus behind it.
 
-컷3 끝 Use reference image D, but before any rust: the droplet has landed and dried on the painted steel, leaving a tiny cluster of white salt crystals.
+컷3 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Extreme macro of a painted steel rivet head on the bridge: tiny white salt crystals left by dried fog droplets, and at the edge where the paint has worn thin, a thin ring of brown rust beginning to spread into the steel. but before any rust: the droplet has landed and dried on the painted steel, leaving a tiny cluster of white salt crystals. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷4
 ```
 컷4 시작 Use reference image B, close on a row of rivet heads, paint intact.
 
-컷4 끝 [편집] Edit the previous image: at one rivet head the paint has worn thin and a thin ring of brown rust has formed; a bounded patch of paint around it has become clear glass with a thin red edge, showing the rust reaching into the steel surface beneath. Same camera.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: at one rivet head the paint has worn thin and a thin ring of brown rust has formed; a bounded patch of paint around it has become clear glass with a thin red edge, showing the rust reaching into the steel surface beneath. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷5 (막힌 길) — 세 장면
 ```
 컷5-① [STYLE] Morning commute traffic streaming across the Golden Gate Bridge deck in both directions, an endless line of cars, a thin red X in the corner.
 컷5-② Use reference image D with the rust ring slightly larger, a thin red X beside it.
-컷5-③ 시작 Use reference image A at dusk, the strait clear. 끝 [편집] The same view at the next dawn, fog pouring in again; a thin red X in the corner. Same camera.
+컷5-③ 시작 Use reference image A at dusk, the strait clear.
+
+컷5-③ Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: The same view at the next dawn, fog pouring in again; a thin red X in the corner. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6 (뒤집힘)
 ```
 컷6 시작 Use reference image B as a wider view of the tower face, paint opaque.
 
-컷6 끝 [편집] Edit the previous image: the tower's painted surface has briefly become clear glass within a thin red edge, and scattered across the steel beneath, a handful of small spots where rust is beginning glow as small red points; the camera has moved close to one of them.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the tower's painted surface has briefly become clear glass within a thin red edge, and scattered across the steel beneath, a handful of small spots where rust is beginning glow as small red points; the camera has moved close to one of them. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7
@@ -279,21 +284,23 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷8 시작 Use reference image C, an ironworker in a harness, seen from behind, at a rusted rivet on the steel beside the platform.
 
-컷8 끝 [편집] Edit the previous image: the rusted rivet has been replaced by a bright new high-strength bolt and nut; a bounded section of the steel plates around it has become clear glass with a thin red edge, showing the bolt clamping the plates tightly together. Hanging on the platform's safety railing, real weathered-steel 3D letters reading "28 PAINTERS" catch the morning light. Same camera.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the rusted rivet has been replaced by a bright new high-strength bolt and nut; a bounded section of the steel plates around it has become clear glass with a thin red edge, showing the bolt clamping the plates tightly together. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷8 큰자막 「28 PAINTERS」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷9 (핵심 비주얼)
 ```
 컷9 시작 Use reference image B, extreme macro on a patch of steel stripped back to bright bare silvery metal, the surrounding orange paint edges visible.
 
-컷9 끝 [편집] Edit the previous image: the patch has been coated with a grey zinc primer and then thick fresh International Orange paint, flush with the surrounding paint; a small metal comb-shaped wet film thickness gauge is pressed into the fresh paint by a gloved hand. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the patch has been coated with a grey zinc primer and then thick fresh International Orange paint, flush with the surrounding paint; a small metal comb-shaped wet film thickness gauge is pressed into the fresh paint by a gloved hand. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10
 ```
 컷10 시작 [STYLE] A bounded section of painted bridge steel turned to clear glass with a thin red edge, showing three layers in section: bright steel, grey zinc primer, and orange paint, with a few salt crystals at the surface.
 
-컷10 끝 [편집] Edit the previous image: where the salt has reached through, only the grey zinc layer has turned white and powdery, sacrificing itself, while the bright steel beneath remains untouched. Same camera.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: where the salt has reached through, only the grey zinc layer has turned white and powdery, sacrificing itself, while the bright steel beneath remains untouched. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷11
@@ -305,21 +312,21 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷12 시작 Use reference image C, inside the platform: on a steel plate, real weathered-steel 3D letters reading "1965 → 1995" stand in the light from the sheeting.
 
-컷12 끝 Use reference image A without fog, a wide view of a tower over time: several white work platforms hang at different heights along the tower.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Aerial drone view at dawn: a thick bank of fog pours through the Golden Gate strait, the bridge deck hidden, only the tops of the two orange Art Deco towers and the sweeping main cables rising above the fog, the Marin Headlands' dark hills on one side, soft pink-grey sky, the Pacific beyond. without fog, a wide view of a tower over time: several white work platforms hang at different heights along the tower. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13
 ```
 컷13 시작 Use reference image B: a gloved hand presses the comb-shaped gauge against the paint at one spot on the tower.
 
-컷13 끝 Use reference image F as a full wide of the bridge: instead of a single line of work moving from one end to the other, a few small white work platforms hang at scattered points along the towers and span.
+컷13 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: The Golden Gate Bridge at golden hour as the fog lifts: the orange towers glowing in warm low sun, a large cargo ship passing under the span into the bay, the water shimmering, the city faint in the distance. as a full wide of the bridge: instead of a single line of work moving from one end to the other, a few small white work platforms hang at scattered points along the towers and span. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷14 (핵심 비주얼)
 ```
 컷14 시작 Use reference image E exactly as it is.
 
-컷14 끝 [STYLE] The 1930s: a Golden Gate tower under construction rising above the fog-filled strait, its riveted steel still the same reddish-orange primer color as the steel in the mill yard, a construction derrick at the top, workers as distant secured silhouettes.
+컷14 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: The 1930s: a Golden Gate tower under construction rising above the fog-filled strait, its riveted steel still the same reddish-orange primer color as the steel in the mill yard, a construction derrick at the top, workers as distant secured silhouettes. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷15

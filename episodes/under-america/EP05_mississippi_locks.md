@@ -63,34 +63,34 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | The Mississippi above St. Louis isn't really a river anymore. It's 29 lakes in a row. Let me show you how. | 세인트루이스 위쪽 미시시피는 사실 더 이상 강이 아니에요. 호수 29개가 줄지어 있는 겁니다. 어떻게 된 건지 보여 드릴게요 | **L1 + L5.** 가을 아침 안개, 석회암 절벽 사이 강 위를 저공 드론이 바지선 선단을 따라감. 앞쪽에 댐이 나타나고, 댐 위아래 **수면 높이가 다른** 게 보이는 순간 강물 한 구간이 투명해지며 수면 아래 계단 같은 낙차가 드러남(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 7–14 | From Minneapolis to St. Louis, about 670 miles, the river falls around 400 feet. | 미니애폴리스에서 세인트루이스까지 약 670마일, 강은 약 400피트를 내려갑니다 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 미네소타~미주리로 0.5초 줌인. 이어 아주 높은 고도에서 강을 따라 남쪽으로 길게 나는 롱 트래킹, 굽이치는 강과 섬들 | 프레임→영상 (시작+끝) | Fast |
-| 3 | 14–22 | In the 1800s, that water ran shallow. In a dry summer, there could be just 16 to 20 inches over the sandbars. Anything over three feet was called deep. | 1800년대엔 그 물이 얕았어요. 가문 여름엔 모래톱 위 수심이 16~20인치밖에 안 될 때도 있었죠. 3피트만 넘어도 깊다고 불렀습니다 | **L2.** 1880년대 한여름, 외륜 증기선이 모래톱에 걸려 기울어 있음. 선원(뒷모습)이 나무 장대를 물에 꽂자 무릎 높이에서 멈춤. 물 한 구간이 투명해지며 바로 아래 모래톱 ★ 모래톱에 박힌 실물 녹슨 강철 글자 「16 INCHES」 | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–7 | The Mississippi above St. Louis isn't really a river anymore. It's 29 lakes in a row. Let me show you how. | 세인트루이스 위쪽 미시시피는 사실 더 이상 강이 아니에요. 호수 29개가 줄지어 있는 겁니다. 어떻게 된 건지 보여 드릴게요 | **L1 + L5.** 가을 아침 안개, 석회암 절벽 사이 강 위를 저공 드론이 바지선 선단을 따라감. 앞쪽에 댐이 나타나고, 댐 위아래 **수면 높이가 다른** 게 보이는 순간 강물 한 구간이 투명해지며 수면 아래 계단 같은 낙차가 드러남(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 7–14 | From Minneapolis to St. Louis, about 670 miles, the river falls around 400 feet. | 미니애폴리스에서 세인트루이스까지 약 670마일, 강은 약 400피트를 내려갑니다 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 미네소타~미주리로 0.5초 줌인. 이어 아주 높은 고도에서 강을 따라 남쪽으로 길게 나는 롱 트래킹, 굽이치는 강과 섬들 | 프레임→영상 (시작) | Fast |
+| 3 | 14–22 | In the 1800s, that water ran shallow. In a dry summer, there could be just 16 to 20 inches over the sandbars. Anything over three feet was called deep. | 1800년대엔 그 물이 얕았어요. 가문 여름엔 모래톱 위 수심이 16~20인치밖에 안 될 때도 있었죠. 3피트만 넘어도 깊다고 불렀습니다 | **L2.** 1880년대 한여름, 외륜 증기선이 모래톱에 걸려 기울어 있음. 선원(뒷모습)이 나무 장대를 물에 꽂자 무릎 높이에서 멈춤. 물 한 구간이 투명해지며 바로 아래 모래톱 ★ 모래톱에 박힌 실물 녹슨 강철 글자 「16 INCHES」 | 프레임→영상 (시작) | Quality |
 
 ### 난관 — 모래는 돌아온다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 22–29 | Here's the problem. Boats need depth, and the river simply didn't have it. At the rapids, crews had to unload and carry the cargo around. | 문제는 이거예요. 배는 깊이가 필요한데, 강엔 그게 없었습니다. 급류에서는 짐을 내려 옆으로 옮겨야 했어요 | **L2 + L3.** 급류 앞 강가, 증기선에서 짐(나무 상자·곡물 자루)을 내려 작은 배로 옮겨 싣는 모습(인물은 뒷모습·원거리). 앞 급류의 물이 투명해지며 수면 바로 아래 바위 턱들이 줄지어 보임 | 프레임→영상 (시작+끝) | Fast |
-| 5 | 29–39 | Now here's the maddening part. For sixty years, engineers blasted the rapids, built stone wing dams to squeeze the current, and dredged the sand. And every spring, the river moved the sand right back. | 여기서 환장할 노릇이죠. 60년 동안 기술자들은 급류를 폭파하고, 돌둑으로 물살을 좁히고, 모래를 퍼냈어요. 그런데 봄마다 강은 모래를 도로 갖다 놨습니다 | **막힌 길 · L3.** 고정 카메라 타임랩스, 같은 강 구간. 준설선이 모래를 퍼내 수로가 깊어짐 → 봄 큰물이 지나감 → 투명해진 물속에서 모래가 다시 쌓여 수로가 메워짐. 메워진 자리에 붉은 X. 강가의 윙댐 돌둑도 반쯤 묻힘 | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 39–45 | They promised four and a half feet. Then six. The river kept winning. | 4.5피트를 약속했고, 다음엔 6피트를 약속했어요. 이긴 건 매번 강이었죠 | **L2.** 같은 모래톱에 세월이 흐르며 증기선이 바뀌어 가는 디졸브(1878 → 1907). 장대 눈금은 매번 같은 높이에서 멈춤 | 프레임→영상 (시작+끝) | Fast |
+| 4 | 22–29 | Here's the problem. Boats need depth, and the river simply didn't have it. At the rapids, crews had to unload and carry the cargo around. | 문제는 이거예요. 배는 깊이가 필요한데, 강엔 그게 없었습니다. 급류에서는 짐을 내려 옆으로 옮겨야 했어요 | **L2 + L3.** 급류 앞 강가, 증기선에서 짐(나무 상자·곡물 자루)을 내려 작은 배로 옮겨 싣는 모습(인물은 뒷모습·원거리). 앞 급류의 물이 투명해지며 수면 바로 아래 바위 턱들이 줄지어 보임 | 프레임→영상 (시작) | Fast |
+| 5 | 29–39 | Now here's the maddening part. For sixty years, engineers blasted the rapids, built stone wing dams to squeeze the current, and dredged the sand. And every spring, the river moved the sand right back. | 여기서 환장할 노릇이죠. 60년 동안 기술자들은 급류를 폭파하고, 돌둑으로 물살을 좁히고, 모래를 퍼냈어요. 그런데 봄마다 강은 모래를 도로 갖다 놨습니다 | **막힌 길 · L3.** 고정 카메라 타임랩스, 같은 강 구간. 준설선이 모래를 퍼내 수로가 깊어짐 → 봄 큰물이 지나감 → 투명해진 물속에서 모래가 다시 쌓여 수로가 메워짐. 메워진 자리에 붉은 X. 강가의 윙댐 돌둑도 반쯤 묻힘 | 프레임→영상 (시작) + Extend 2초 | Quality |
+| 6 | 39–45 | They promised four and a half feet. Then six. The river kept winning. | 4.5피트를 약속했고, 다음엔 6피트를 약속했어요. 이긴 건 매번 강이었죠 | **L2.** 같은 모래톱에 세월이 흐르며 증기선이 바뀌어 가는 디졸브(1878 → 1907). 장대 눈금은 매번 같은 높이에서 멈춤 | 프레임→영상 (시작) | Fast |
 
 ### 해법 — 강을 파지 말고, 물을 높인다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 45–52 | And this is where the thinking flips. Instead of digging the river deeper, they raised the water itself. | 이때 발상을 전환합니다. 강을 더 깊게 파는 대신, 물 자체를 높였어요 | **L1 → L4.** 같은 얕은 강 위에 카메라가 떠 있고, 화면 아래쪽 하류에 콘크리트 댐이 솟아오르며 강을 가로지름. 그 위쪽 수면이 차오르며 모래톱이 물에 잠기고, 투명해진 물속에서 모래톱 위 수심이 쭉 깊어짐 | 프레임→영상 (시작+끝) | Quality |
-| 8 | 52–60 | Starting in the 1930s, they built a chain of dams. Each one turns the river behind it into a calm, deep pool, at least nine feet for the boats. | 1930년대부터 댐을 줄지어 지었어요. 댐 하나하나가 그 뒤의 강을 잔잔하고 깊은 호수로 바꿉니다. 배가 다닐 수 있게 최소 9피트로요 | **핵심 비주얼 ① · L4.** 1930년대 공사 현장(컬러): 강을 가로지르는 콘크리트 교각과 거대한 롤러 수문이 올라가는 모습. 이어 현재로 디졸브, 같은 댐 뒤의 넓고 잔잔한 호수 | 프레임→영상 (시작+끝) | Quality |
-| 9 | 60–68 | Seen from high above, the river becomes a staircase. Each lake is a step, about 400 feet down from Minneapolis to St. Louis. | 아주 높이서 보면 강은 계단이 돼요. 호수 하나하나가 한 칸이고, 미니애폴리스에서 세인트루이스까지 약 400피트를 내려갑니다 | **L1.** 아주 높은 고도에서 강을 따라 남쪽으로 나는 롱 트래킹. 댐을 지날 때마다 수면이 한 칸씩 낮아지고, 측면이 투명해진 강의 단면 실루엣이 계단처럼 보임. 수면을 따라 얇은 붉은 계단선이 그려짐 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 10 | 68–78 | Here's the clever part. To climb each step, a boat enters a lock. The gates close, valves open, and water from the higher lake flows in by gravity alone. No pumps. The boat simply rises. | 여기가 영리한 부분이에요. 계단 한 칸을 오르려면 배는 갑문에 들어갑니다. 문이 닫히고 밸브가 열리면, 위쪽 호수의 물이 중력만으로 흘러 들어와요. 펌프는 없습니다. 배는 그냥 떠오르죠 | **핵심 비주얼 ② · L4.** 갑문 안 낮은 수위의 예인선과 바지선. 뒤쪽 철문이 닫힘. 콘크리트 벽 일부가 투명해지며 벽 속 대형 통로로 위쪽 호수의 물이 쏟아져 들어오는 게 보임. 수면과 함께 배가 오르고, 벽의 칠해진 수위 눈금 위로 물이 쭉 올라감 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 11 | 78–83 | To go down, the same water simply drains into the lake below. | 내려갈 땐 같은 물이 아래 호수로 빠져나갈 뿐이에요 | **L4.** 같은 갑문, 반대 방향. 앞 철문이 열리며 낮아진 수면 위로 배가 아래 호수로 빠져나감 | 프레임→영상 (시작+끝) | Fast |
-| 12 | 83–90 | Most of these locks are 600 feet long. A full tow of 15 barges is longer than that, so it splits in half and goes through twice. | 이 갑문은 대부분 600피트예요. 바지선 15척짜리 선단은 그보다 길어서, 반으로 나눠 두 번 통과합니다 | **L4 + L5.** 부감, 갑문 앞에 멈춘 15척 선단. 앞쪽 9척이 분리돼 갑문으로 들어가고, 나머지 6척과 예인선이 밖에서 기다림. 갑문 길이와 선단 길이 옆에 얇은 붉은 치수선 두 개 | 프레임→영상 (시작+끝) | Fast |
+| 7 | 45–52 | And this is where the thinking flips. Instead of digging the river deeper, they raised the water itself. | 이때 발상을 전환합니다. 강을 더 깊게 파는 대신, 물 자체를 높였어요 | **L1 → L4.** 같은 얕은 강 위에 카메라가 떠 있고, 화면 아래쪽 하류에 콘크리트 댐이 솟아오르며 강을 가로지름. 그 위쪽 수면이 차오르며 모래톱이 물에 잠기고, 투명해진 물속에서 모래톱 위 수심이 쭉 깊어짐 | 프레임→영상 (시작) | Quality |
+| 8 | 52–60 | Starting in the 1930s, they built a chain of dams. Each one turns the river behind it into a calm, deep pool, at least nine feet for the boats. | 1930년대부터 댐을 줄지어 지었어요. 댐 하나하나가 그 뒤의 강을 잔잔하고 깊은 호수로 바꿉니다. 배가 다닐 수 있게 최소 9피트로요 | **핵심 비주얼 ① · L4.** 1930년대 공사 현장(컬러): 강을 가로지르는 콘크리트 교각과 거대한 롤러 수문이 올라가는 모습. 이어 현재로 디졸브, 같은 댐 뒤의 넓고 잔잔한 호수 | 프레임→영상 (시작) | Quality |
+| 9 | 60–68 | Seen from high above, the river becomes a staircase. Each lake is a step, about 400 feet down from Minneapolis to St. Louis. | 아주 높이서 보면 강은 계단이 돼요. 호수 하나하나가 한 칸이고, 미니애폴리스에서 세인트루이스까지 약 400피트를 내려갑니다 | **L1.** 아주 높은 고도에서 강을 따라 남쪽으로 나는 롱 트래킹. 댐을 지날 때마다 수면이 한 칸씩 낮아지고, 측면이 투명해진 강의 단면 실루엣이 계단처럼 보임. 수면을 따라 얇은 붉은 계단선이 그려짐 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 10 | 68–78 | Here's the clever part. To climb each step, a boat enters a lock. The gates close, valves open, and water from the higher lake flows in by gravity alone. No pumps. The boat simply rises. | 여기가 영리한 부분이에요. 계단 한 칸을 오르려면 배는 갑문에 들어갑니다. 문이 닫히고 밸브가 열리면, 위쪽 호수의 물이 중력만으로 흘러 들어와요. 펌프는 없습니다. 배는 그냥 떠오르죠 | **핵심 비주얼 ② · L4.** 갑문 안 낮은 수위의 예인선과 바지선. 뒤쪽 철문이 닫힘. 콘크리트 벽 일부가 투명해지며 벽 속 대형 통로로 위쪽 호수의 물이 쏟아져 들어오는 게 보임. 수면과 함께 배가 오르고, 벽의 칠해진 수위 눈금 위로 물이 쭉 올라감 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 11 | 78–83 | To go down, the same water simply drains into the lake below. | 내려갈 땐 같은 물이 아래 호수로 빠져나갈 뿐이에요 | **L4.** 같은 갑문, 반대 방향. 앞 철문이 열리며 낮아진 수면 위로 배가 아래 호수로 빠져나감 | 프레임→영상 (시작) | Fast |
+| 12 | 83–90 | Most of these locks are 600 feet long. A full tow of 15 barges is longer than that, so it splits in half and goes through twice. | 이 갑문은 대부분 600피트예요. 바지선 15척짜리 선단은 그보다 길어서, 반으로 나눠 두 번 통과합니다 | **L4 + L5.** 부감, 갑문 앞에 멈춘 15척 선단. 앞쪽 9척이 분리돼 갑문으로 들어가고, 나머지 6척과 예인선이 밖에서 기다림. 갑문 길이와 선단 길이 옆에 얇은 붉은 치수선 두 개 | 프레임→영상 (시작) | Fast |
 | 13 | 90–96 | Twenty-nine locks and dams, from Minneapolis to St. Louis, all finished by 1964. | 미니애폴리스에서 세인트루이스까지 갑문·댐 29개, 1964년까지 모두 완성됐어요 | **L4.** 맑은 낮, 갑문 상단 높이에서 강을 가로지르는 댐 전체 와이드 ★ 갑문 벽 위에 세운 실물 콘크리트 질감 글자 「29 LOCKS」(햇빛과 그림자) | 프레임→영상 (시작) | Quality |
 
 ### 반전
@@ -98,8 +98,8 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 14 | 96–101 | But here's the part I'd love you to remember. These dams were never built to stop floods. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 이 댐들은 애초에 홍수를 막으려고 지은 게 아닙니다 | **L6.** 흐린 하늘, 강물이 갈색으로 불어나 댐 아래 소용돌이. 갑문 벽의 수위 눈금 위로 물이 맨 위 칸까지 차오름 | 프레임→영상 (시작) | Quality |
-| 15 | 101–109 | When high water comes, the gates are lifted right out of the water. The dam steps aside, and boats can pass straight over where it stands. | 큰물이 오면 수문을 물 밖으로 완전히 들어 올려요. 댐이 비켜서는 거죠. 배는 댐이 서 있는 자리를 그대로 지나갈 수 있어요 | **핵심 비주얼 ③ · L6.** 댐 정면 와이드. 거대한 수문들이 하나씩 물 밖으로 들려 교각 사이에 매달리고, 그 아래로 갈색 큰물이 막힘없이 흐름. 물 한 구간이 투명해지며 댐 자리 아래도 비어 있는 게 보임. 바지선 하나가 댐 자리를 그대로 지나감 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 16 | 109–114 | For those days, the 29 lakes become one river again. | 그 며칠 동안, 29개의 호수는 다시 하나의 강이 됩니다 | **L6 → L1.** 아주 높은 고도 롱 트래킹. 9번 컷의 계단 수면이 사라지고 하나의 매끈한 경사 수면이 이어짐. 붉은 계단선이 한 줄의 완만한 사선으로 펴짐 | 프레임→영상 (시작+끝) | Quality |
+| 15 | 101–109 | When high water comes, the gates are lifted right out of the water. The dam steps aside, and boats can pass straight over where it stands. | 큰물이 오면 수문을 물 밖으로 완전히 들어 올려요. 댐이 비켜서는 거죠. 배는 댐이 서 있는 자리를 그대로 지나갈 수 있어요 | **핵심 비주얼 ③ · L6.** 댐 정면 와이드. 거대한 수문들이 하나씩 물 밖으로 들려 교각 사이에 매달리고, 그 아래로 갈색 큰물이 막힘없이 흐름. 물 한 구간이 투명해지며 댐 자리 아래도 비어 있는 게 보임. 바지선 하나가 댐 자리를 그대로 지나감 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 16 | 109–114 | For those days, the 29 lakes become one river again. | 그 며칠 동안, 29개의 호수는 다시 하나의 강이 됩니다 | **L6 → L1.** 아주 높은 고도 롱 트래킹. 9번 컷의 계단 수면이 사라지고 하나의 매끈한 경사 수면이 이어짐. 붉은 계단선이 한 줄의 완만한 사선으로 펴짐 | 프레임→영상 (시작) | Quality |
 | 17 | 114–120 | So the Mississippi is still a river. It just doesn't show it until the water rises. | 그러니 미시시피는 여전히 강이에요. 물이 차오르기 전까진 보여주지 않을 뿐이죠 | **L1.** 노을, 큰물이 빠진 뒤 다시 잔잔해진 호수 위로 수문이 천천히 내려옴. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 18 | 120–126 | Next time, let's look at why most American houses are built from wood. | 다음엔 미국 집들이 왜 대부분 나무로 지어지는지 살펴볼게요 | 다음 편 티저: 교외 주택 골조 공사 실사 컷, 벽 일부가 투명해지는 1초 + AAB 책장 로고 | 편집 | — |
 
@@ -167,6 +167,9 @@ Next time, let's look at why most American houses are built from wood.
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 12컷(1, 3, 5, 7, 8, 9, 10, 13, 14, 15, 16, 17), Fast 5컷(2, 4, 6, 11, 12), 편집 1컷. 먼저 **1·9·15번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 1880년대·1930년대 컷은 퍼블릭 도메인 사진을 구도 입력으로 쓰고 결과는 컬러 시네마틱으로. 현대 컷은 직접 촬영 또는 CC0
 - 컷 1: 시작(안개 강, 바지선 뒤 저공, 물 불투명) → 끝(댐 앞, 수면 높이 차이 + 물 한 구간 투명한 계단 낙차)
@@ -234,84 +237,86 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image E within the landscape of reference image A: the camera low behind the barge tow on the misty autumn river, water opaque.
 
-컷1 끝 [편집] Edit the previous image: ahead, a concrete dam with steel gates spans the river; the water surface upstream of the dam is visibly higher than downstream; a bounded strip of the river beside the dam has become clear glass with a thin red edge line, revealing the step in the water level and the drop of the riverbed beneath, like one stair tread. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: ahead, a concrete dam with steel gates spans the river; the water surface upstream of the dam is visibly higher than downstream; a bounded strip of the river beside the dam has become clear glass with a thin red edge line, revealing the step in the water level and the drop of the riverbed beneath, like one stair tread. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the central United States in natural color, the Mississippi River traced faintly from Minnesota to Missouri, a thin glowing red line along it. No text.
 
-컷2 끝 Use reference image A from very high altitude, the river winding south between bluffs and islands as far as the eye can see.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Aerial drone view low over the Upper Mississippi River on an autumn morning: a wide calm river winding between tall forested limestone bluffs in red, orange and gold, wooded islands and backwater marshes, thin mist lying on the water, the first sun on the bluff tops. from very high altitude, the river winding south between bluffs and islands as far as the eye can see. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
 ```
 컷3 시작 Use reference image B with the deckhand's pole just touching the water.
 
-컷3 끝 [편집] Edit the previous image: the pole stands in the water at knee height; a bounded patch of the water in front of the bow has become clear glass with a thin red edge, showing the sandbar just beneath the surface. Set into the exposed sandbar, real rusted weathered-steel 3D letters reading "16 INCHES" catch the sun and cast shadows. Same camera.
+컷3 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the pole stands in the water at knee height; a bounded patch of the water in front of the bow has become clear glass with a thin red edge, showing the sandbar just beneath the surface. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷3 큰자막 「16 INCHES」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷4
 ```
 컷4 시작 Use reference image C at the landing: crates and grain sacks being moved from a steamboat to a small flat boat, figures seen from behind and far away.
 
-컷4 끝 [편집] Edit the previous image: a bounded strip of the rapids ahead has become clear glass with a thin red edge, revealing rows of limestone ledges lying just beneath the surface across the channel. Same camera.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded strip of the rapids ahead has become clear glass with a thin red edge, revealing rows of limestone ledges lying just beneath the surface across the channel. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷5 (막힌 길)
 ```
 컷5 시작 Use reference image C, fixed wide on the channel: the dredge has just cut a deeper channel through the sand, visible through a bounded clear-glass section of water with a thin red edge.
 
-컷5 끝 [편집] Edit the previous image: after a spring flood, the water is brown and higher, and through the same clear-glass section the dredged channel has been completely refilled with fresh sand; the stone wing dam on the bank is half buried in new sand; a thin red X is drawn over the refilled channel. Same camera.
+컷5 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: after a spring flood, the water is brown and higher, and through the same clear-glass section the dredged channel has been completely refilled with fresh sand; the stone wing dam on the bank is half buried in new sand; a thin red X is drawn over the refilled channel. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6
 ```
 컷6 시작 Use reference image B.
 
-컷6 끝 [편집] Edit the previous image: the same sandbar years later, the steamboat replaced by a slightly newer, larger sternwheeler, the deckhand's sounding pole stopping at exactly the same knee height. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the same sandbar years later, the steamboat replaced by a slightly newer, larger sternwheeler, the deckhand's sounding pole stopping at exactly the same knee height. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7 (뒤집힘)
 ```
 컷7 시작 Use reference image A in summer low water, wide sandbars exposed, the camera hovering over the shallow river.
 
-컷7 끝 [편집] Edit the previous image: downstream at the bottom of the frame, a concrete dam with steel gates now spans the river; behind it the water has risen and covered every sandbar; a bounded section of the water has become clear glass with a thin red edge, showing the much greater depth now above the old sandbars. Same camera.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: downstream at the bottom of the frame, a concrete dam with steel gates now spans the river; behind it the water has risen and covered every sandbar; a bounded section of the water has become clear glass with a thin red edge, showing the much greater depth now above the old sandbars. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8 (핵심 비주얼)
 ```
 컷8 시작 [STYLE] The 1930s, in natural color: a lock and dam under construction across the Upper Mississippi, concrete piers rising from cofferdams, a huge cylindrical steel roller gate being lifted into place by cranes, workers as tiny distant figures.
 
-컷8 끝 Use reference image D exactly as it is, the same dam complete, a calm deep lake behind it.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: An Upper Mississippi lock and dam on a clear day, seen from above the lock wall: a long concrete lock chamber with huge steel miter gates at each end, the concrete walls water-stained with large painted water-level marks, and beside it a row of massive steel roller and tainter gates between concrete piers spanning the river, a calm wide lake upstream and lower churning water downstream. the same dam complete, a calm deep lake behind it. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9 (핵심 비주얼)
 ```
 컷9 시작 Use reference image A from very high altitude looking down the river toward the south, water opaque.
 
-컷9 끝 [편집] Edit the previous image: several dams are now visible spaced along the river into the distance; the side of the river corridor has become clear glass in a long bounded band with a thin red edge, showing the water surface stepping down at each dam like a staircase, and a thin red stepped line tracing the surface from pool to pool. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: several dams are now visible spaced along the river into the distance; the side of the river corridor has become clear glass in a long bounded band with a thin red edge, showing the water surface stepping down at each dam like a staircase, and a thin red stepped line tracing the surface from pool to pool. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10 (핵심 비주얼)
 ```
 컷10 시작 Use reference image D, camera inside the lock chamber at low water level beside a towboat and barges, the downstream gates closed behind them, the painted water-level marks rising high on the wall above.
 
-컷10 끝 [편집] Edit the previous image: the camera has risen with the water; a bounded section of the concrete lock wall has become clear glass with a thin red edge, revealing a large culvert inside the wall through which water from the upper lake surges into the chamber; the water now stands high on the painted marks and the boat sits near the top of the wall. Same style.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has risen with the water; a bounded section of the concrete lock wall has become clear glass with a thin red edge, revealing a large culvert inside the wall through which water from the upper lake surges into the chamber; the water now stands high on the painted marks and the boat sits near the top of the wall. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷11
 ```
 컷11 시작 Use reference image D, inside the lock at high water, the downstream gates closed.
 
-컷11 끝 [편집] Edit the previous image: the water level has dropped back down, the downstream gates have swung open, and the towboat is moving out into the lower river. Same camera.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the water level has dropped back down, the downstream gates have swung open, and the towboat is moving out into the lower river. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷12
 ```
 컷12 시작 Use reference image D from above, a fifteen-barge tow from reference image E waiting in front of the lock.
 
-컷12 끝 [편집] Edit the previous image: the front nine barges have been separated and are inside the lock chamber; the remaining six barges and the towboat wait outside; two thin red dimension lines run beside the lock chamber and beside the full tow length for comparison. No numbers. Same camera.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the front nine barges have been separated and are inside the lock chamber; the remaining six barges and the towboat wait outside; two thin red dimension lines run beside the lock chamber and beside the full tow length for comparison. No numbers. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13
@@ -328,14 +333,14 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷15 시작 Use reference image F as a wide frontal view of the dam, all gates down in the flood.
 
-컷15 끝 [편집] Edit the previous image: every dam gate has been lifted entirely out of the water and hangs high between the concrete piers; brown flood water flows freely beneath them; a bounded strip of water has become clear glass with a thin red edge showing open space where the gates used to sit; a single barge passes straight through the line of the dam. Same camera.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: every dam gate has been lifted entirely out of the water and hangs high between the concrete piers; brown flood water flows freely beneath them; a bounded strip of water has become clear glass with a thin red edge showing open space where the gates used to sit; a single barge passes straight through the line of the dam. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷16
 ```
-컷16 시작 Use the image from cut 9's end.
+컷16 시작 Use the last frame of cut 9's generated video (saved as a still).
 
-컷16 끝 [편집] Edit the previous image: in high water, the steps in the water surface have disappeared; through the same clear-glass band, the surface now runs as one smooth continuous slope, and the thin red stepped line has straightened into a single gentle diagonal. Same camera.
+컷16 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: in high water, the steps in the water surface have disappeared; through the same clear-glass band, the surface now runs as one smooth continuous slope, and the thin red stepped line has straightened into a single gentle diagonal. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷17

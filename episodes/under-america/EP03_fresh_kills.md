@@ -67,43 +67,43 @@ v1의 "코어 튜브 소품"을 **마운드 꼭대기에 실제로 박힌 흰 �
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | New York's biggest new park isn't built on land. It's built on 150 million tons of garbage. Let's take a look. | 뉴욕에서 가장 큰 새 공원은 땅 위에 지은 게 아니에요. 쓰레기 1억 5천만 톤 위에 지었습니다. 한번 보실까요 | **L1.** 바람 부는 아침, 키 큰 풀 위를 저공 드론으로 스치며 멀리 맨해튼 스카이라인. 언덕 꼭대기 측량 말뚝 앞에서 멈추면, 발밑 풀밭 한 구간이 유리처럼 투명해지며 흙 → 검은 막 → 끝없는 쓰레기층이 깊이 드러남(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 7–14 | This is Fresh Kills, on Staten Island. From 1948 to 2001, nearly everything the city threw away came here, mostly by barge. | 스태튼아일랜드의 프레시킬스예요. 1948년부터 2001년까지 시가 버린 거의 모든 것이 여기로 왔습니다. 주로 바지선으로요 | **지도 → L2 + L3.** 실사 위성 느낌의 미국 지도에서 스태튼아일랜드 서안으로 0.5초 줌인. 이어 흐린 날 하구, 쓰레기를 실은 바지선 행렬을 예인선이 끌고 물길을 따라 들어옴. 갈매기 떼 | 프레임→영상 (시작+끝) | Fast |
-| 3 | 14–21 | At first it was tidal marsh, barely above the water. Trucks and barges filled it in, one layer at a time, for 53 years. | 처음엔 물과 거의 같은 높이의 갯벌 습지였어요. 트럭과 바지선이 한 층 한 층 메워 갔죠. 53년 동안 | **L2 → L3.** 같은 자리 고정 카메라 타임랩스. 수면 바로 위 갈대 습지 → 불도저가 쓰레기를 밀고 흙을 덮고, 또 한 층 → 지면이 계속 올라감. 측량 말뚝도 함께 올라감 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 4 | 21–29 | Four mounds grew. The tallest reached about 225 feet, taller than the Statue of Liberty across the harbor. | 마운드 네 개가 자랐어요. 가장 높은 건 약 225피트, 항구 건너 자유의 여신상보다 높았습니다 | **핵심 비주얼 ① · L3.** 높은 드론 와이드 타임랩스. 평평한 하구에서 네 개의 회색 산이 솟아오름. 멀리 항구 건너 자유의 여신상이 작게 보이고, 원근 정렬로 가장 높은 마운드가 여신상보다 높아짐 ★ 마운드 꼭대기에 선 실물 녹슨 강철 글자 「225 FEET」 | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–7 | New York's biggest new park isn't built on land. It's built on 150 million tons of garbage. Let's take a look. | 뉴욕에서 가장 큰 새 공원은 땅 위에 지은 게 아니에요. 쓰레기 1억 5천만 톤 위에 지었습니다. 한번 보실까요 | **L1.** 바람 부는 아침, 키 큰 풀 위를 저공 드론으로 스치며 멀리 맨해튼 스카이라인. 언덕 꼭대기 측량 말뚝 앞에서 멈추면, 발밑 풀밭 한 구간이 유리처럼 투명해지며 흙 → 검은 막 → 끝없는 쓰레기층이 깊이 드러남(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 7–14 | This is Fresh Kills, on Staten Island. From 1948 to 2001, nearly everything the city threw away came here, mostly by barge. | 스태튼아일랜드의 프레시킬스예요. 1948년부터 2001년까지 시가 버린 거의 모든 것이 여기로 왔습니다. 주로 바지선으로요 | **지도 → L2 + L3.** 실사 위성 느낌의 미국 지도에서 스태튼아일랜드 서안으로 0.5초 줌인. 이어 흐린 날 하구, 쓰레기를 실은 바지선 행렬을 예인선이 끌고 물길을 따라 들어옴. 갈매기 떼 | 프레임→영상 (시작) | Fast |
+| 3 | 14–21 | At first it was tidal marsh, barely above the water. Trucks and barges filled it in, one layer at a time, for 53 years. | 처음엔 물과 거의 같은 높이의 갯벌 습지였어요. 트럭과 바지선이 한 층 한 층 메워 갔죠. 53년 동안 | **L2 → L3.** 같은 자리 고정 카메라 타임랩스. 수면 바로 위 갈대 습지 → 불도저가 쓰레기를 밀고 흙을 덮고, 또 한 층 → 지면이 계속 올라감. 측량 말뚝도 함께 올라감 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 4 | 21–29 | Four mounds grew. The tallest reached about 225 feet, taller than the Statue of Liberty across the harbor. | 마운드 네 개가 자랐어요. 가장 높은 건 약 225피트, 항구 건너 자유의 여신상보다 높았습니다 | **핵심 비주얼 ① · L3.** 높은 드론 와이드 타임랩스. 평평한 하구에서 네 개의 회색 산이 솟아오름. 멀리 항구 건너 자유의 여신상이 작게 보이고, 원근 정렬로 가장 높은 마운드가 여신상보다 높아짐 ★ 마운드 꼭대기에 선 실물 녹슨 강철 글자 「225 FEET」 | 프레임→영상 (시작) | Quality |
 
 ### 난관 — 치울 수 없다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 5 | 29–36 | By the 1950s it was already the largest landfill in the world. Here's the problem. You can't take 150 million tons away. | 1950년대에 이미 세계 최대 매립지였어요. 문제는 이거예요. 1억 5천만 톤은 치울 수가 없습니다 | **L3.** 마운드 기슭 로우앵글. 덤프트럭 한 대가 산 앞에 서 있고, 카메라가 천천히 틸트업하며 산이 끝없이 이어짐. 트럭은 얇은 붉은 윤곽 | 프레임→영상 (시작) | Fast |
-| 5b | 36–44 | Now here's the maddening part. Every rain soaked through the pile and ran brown into the creeks, and the rotting trash kept building up gas underneath. | 여기서 환장할 노릇이죠. 비가 올 때마다 더미를 통과한 물이 갈색이 돼 개천으로 흘렀고, 썩는 쓰레기는 밑에서 계속 가스를 만들었어요 | **막힌 길 · L3.** 비 내리는 마운드 사면. 사면 일부가 투명해져 빗물이 쓰레기층을 지나며 갈색으로 변해 기슭의 개천으로 스며드는 게 보임(붉은 선). 동시에 쓰레기층 속에서 옅은 청록 기포가 모여 표면이 살짝 부풂 | 프레임→영상 (시작+끝) | Quality |
-| 6 | 44–52 | And this is where the thinking flips. If you can't take it away, seal it in, like wrapping a package. | 이때 발상을 전환합니다. 치울 수 없다면 봉인한다, 소포를 포장하듯이 | **L4.** 드론 오빗. 마운드 사면에 거대한 검은 지오멤브레인 롤이 펼쳐지며 산을 감싸 내려감. 가장자리가 기슭 트렌치에 묻혀 봉해짐. 바람에 막이 살짝 출렁임 | 프레임→영상 (시작+끝) | Quality |
+| 5b | 36–44 | Now here's the maddening part. Every rain soaked through the pile and ran brown into the creeks, and the rotting trash kept building up gas underneath. | 여기서 환장할 노릇이죠. 비가 올 때마다 더미를 통과한 물이 갈색이 돼 개천으로 흘렀고, 썩는 쓰레기는 밑에서 계속 가스를 만들었어요 | **막힌 길 · L3.** 비 내리는 마운드 사면. 사면 일부가 투명해져 빗물이 쓰레기층을 지나며 갈색으로 변해 기슭의 개천으로 스며드는 게 보임(붉은 선). 동시에 쓰레기층 속에서 옅은 청록 기포가 모여 표면이 살짝 부풂 | 프레임→영상 (시작) | Quality |
+| 6 | 44–52 | And this is where the thinking flips. If you can't take it away, seal it in, like wrapping a package. | 이때 발상을 전환합니다. 치울 수 없다면 봉인한다, 소포를 포장하듯이 | **L4.** 드론 오빗. 마운드 사면에 거대한 검은 지오멤브레인 롤이 펼쳐지며 산을 감싸 내려감. 가장자리가 기슭 트렌치에 묻혀 봉해짐. 바람에 막이 살짝 출렁임 | 프레임→영상 (시작) | Quality |
 
 ### 해법 — 포장하고, 거두고, 뽑아낸다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 52–62 | Here's the clever part. On top of the trash: a layer to vent the gas, a plastic liner to keep rain out, drainage, and then feet of soil. Three to twelve feet of cover in all. | 여기가 영리한 부분이에요. 쓰레기 위에 가스를 빼는 층, 비를 막는 플라스틱 라이너, 배수층, 그리고 몇 피트의 흙. 전부 합쳐 3피트에서 12피트의 덮개예요 | **핵심 비주얼 ② · L4 → L1.** 고정 카메라 매크로, 공사 중인 사면 가장자리. 자갈층이 깔리고, 검은 라이너가 덮이고, 배수층, 흙, 마지막에 풀이 돋음. 풀이 자란 뒤 지면 한 구간이 투명해져 다섯 층이 한눈에, 옆에 붉은 치수선 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 8 | 62–70 | Underneath, trenches and pumps catch the water that still seeps out, and send it to a treatment plant. More than 230 wells keep watch on the groundwater. | 밑에서는 트렌치와 펌프가 그래도 새어 나오는 물을 모아 처리장으로 보냅니다. 230개가 넘는 관측정이 지하수를 지켜보고 있어요 | **L5.** 언덕 기슭, 땅 일부가 투명해져 트렌치에 모인 물이 관을 타고 작은 처리장 건물로 흐름. 드론이 위로 빠지며 풀밭 곳곳에 꽂힌 흰 관측정 머리가 점점이 | 프레임→영상 (시작+끝) | Fast |
-| 9 | 70–78 | And the trash itself is still working. As it breaks down, it makes methane. A network of wells draws the gas out under vacuum. | 그리고 쓰레기 자체가 아직 일하고 있어요. 분해되면서 메탄을 만들죠. 관정들이 진공으로 그 가스를 뽑아냅니다 | **핵심 비주얼 ③ · L5.** 풀밭에 꽂힌 흰 가스 관정 머리 클로즈업에서 땅이 투명해지며 아래로 하강. 쓰레기층 곳곳에서 옅은 청록 기포가 올라와 관정 하단 구멍으로 빨려 들어가고, 지표 가스관에 흐름이 생김 | 프레임→영상 (시작+끝) | Quality |
-| 10 | 78–85 | That gas is cleaned and sold to the utility. It's enough to heat around 22,000 homes. | 그 가스는 정제돼서 가스회사에 팔려요. 약 2만 2천 가구를 난방할 수 있는 양입니다 | **L5 → L6.** 저녁, 작은 정제 플랜트에서 나온 가스관을 따라 카메라가 주택가로 날아감. 2층 목조 주택들의 창이 차례로 따뜻하게 켜짐 ★ 주택가 언덕 위 실물 강철 글자 「22,000 HOMES」(창 불빛을 받음) | 프레임→영상 (시작+끝) | Quality |
-| 11 | 85–93 | Today the mounds are 2,200 acres of grassland, almost three times the size of Central Park. It's opening to the public in phases, a section at a time. | 지금 이 마운드들은 2,200에이커의 초원이에요. 센트럴파크의 거의 세 배죠. 한 구역씩 단계적으로 시민에게 열리고 있습니다 | **L1.** 골든아워 드론 상승. 초록 언덕 네 개, 산책로, 전망 데크, 조류 관찰탑, 하구. 멀리 맨해튼 쪽에서 센트럴파크 모양의 얇은 붉은 직사각형 윤곽이 날아와 언덕 위에 세 번 나란히 겹쳐 앉음 | 프레임→영상 (시작+끝) + Extend 1초 | Fast |
+| 7 | 52–62 | Here's the clever part. On top of the trash: a layer to vent the gas, a plastic liner to keep rain out, drainage, and then feet of soil. Three to twelve feet of cover in all. | 여기가 영리한 부분이에요. 쓰레기 위에 가스를 빼는 층, 비를 막는 플라스틱 라이너, 배수층, 그리고 몇 피트의 흙. 전부 합쳐 3피트에서 12피트의 덮개예요 | **핵심 비주얼 ② · L4 → L1.** 고정 카메라 매크로, 공사 중인 사면 가장자리. 자갈층이 깔리고, 검은 라이너가 덮이고, 배수층, 흙, 마지막에 풀이 돋음. 풀이 자란 뒤 지면 한 구간이 투명해져 다섯 층이 한눈에, 옆에 붉은 치수선 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 8 | 62–70 | Underneath, trenches and pumps catch the water that still seeps out, and send it to a treatment plant. More than 230 wells keep watch on the groundwater. | 밑에서는 트렌치와 펌프가 그래도 새어 나오는 물을 모아 처리장으로 보냅니다. 230개가 넘는 관측정이 지하수를 지켜보고 있어요 | **L5.** 언덕 기슭, 땅 일부가 투명해져 트렌치에 모인 물이 관을 타고 작은 처리장 건물로 흐름. 드론이 위로 빠지며 풀밭 곳곳에 꽂힌 흰 관측정 머리가 점점이 | 프레임→영상 (시작) | Fast |
+| 9 | 70–78 | And the trash itself is still working. As it breaks down, it makes methane. A network of wells draws the gas out under vacuum. | 그리고 쓰레기 자체가 아직 일하고 있어요. 분해되면서 메탄을 만들죠. 관정들이 진공으로 그 가스를 뽑아냅니다 | **핵심 비주얼 ③ · L5.** 풀밭에 꽂힌 흰 가스 관정 머리 클로즈업에서 땅이 투명해지며 아래로 하강. 쓰레기층 곳곳에서 옅은 청록 기포가 올라와 관정 하단 구멍으로 빨려 들어가고, 지표 가스관에 흐름이 생김 | 프레임→영상 (시작) | Quality |
+| 10 | 78–85 | That gas is cleaned and sold to the utility. It's enough to heat around 22,000 homes. | 그 가스는 정제돼서 가스회사에 팔려요. 약 2만 2천 가구를 난방할 수 있는 양입니다 | **L5 → L6.** 저녁, 작은 정제 플랜트에서 나온 가스관을 따라 카메라가 주택가로 날아감. 2층 목조 주택들의 창이 차례로 따뜻하게 켜짐 ★ 주택가 언덕 위 실물 강철 글자 「22,000 HOMES」(창 불빛을 받음) | 프레임→영상 (시작) | Quality |
+| 11 | 85–93 | Today the mounds are 2,200 acres of grassland, almost three times the size of Central Park. It's opening to the public in phases, a section at a time. | 지금 이 마운드들은 2,200에이커의 초원이에요. 센트럴파크의 거의 세 배죠. 한 구역씩 단계적으로 시민에게 열리고 있습니다 | **L1.** 골든아워 드론 상승. 초록 언덕 네 개, 산책로, 전망 데크, 조류 관찰탑, 하구. 멀리 맨해튼 쪽에서 센트럴파크 모양의 얇은 붉은 직사각형 윤곽이 날아와 언덕 위에 세 번 나란히 겹쳐 앉음 | 프레임→영상 (시작) + Extend 1초 | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 12 | 93–98 | But here's the part I'd love you to remember. This was supposed to last three years. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 이건 3년만 쓰기로 한 곳이었습니다 | **L1.** 언덕 꼭대기 측량 말뚝 클로즈업, 골든아워. 말뚝 맨 위 풀 바로 아래에 짧은 붉은 눈금 하나가 "툭" 빛남 | 프레임→영상 (시작+끝) | Quality |
-| 13 | 98–105 | In 1948, the city called it a temporary landfill. Three years turned into fifty-three. The hills kept rising long after anyone planned. | 1948년, 시는 이곳을 임시 매립지라고 불렀어요. 3년이 53년이 됐죠. 언덕은 누구의 계획보다 훨씬 오래 자랐습니다 | **핵심 비주얼 ④ · L1.** 말뚝 옆 땅이 깊게 투명해지며, 짧은 눈금 아래로 긴 붉은 선이 쓰레기층 바닥까지 쭉 내려감. 카메라도 그 선을 따라 하강, 바닥에서 옛 갯벌 진흙이 보임 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 14 | 105–112 | And they're still moving. As the trash settles, the ground sinks a little every year. The park is designed to move with it. | 그리고 지금도 움직이고 있어요. 쓰레기가 다져지면서 땅이 매년 조금씩 내려앉습니다. 공원은 그 움직임을 전제로 설계됐어요 | **L1.** 같은 언덕 고정 카메라 타임랩스, 계절이 바뀌며(풀이 초록→금빛→초록) 언덕 윤곽과 말뚝, 산책로가 함께 아주 조금 내려앉음. 원래 높이가 얇은 붉은 선으로 공중에 남음 | 프레임→영상 (시작+끝) | Fast |
-| 15 | 112–119 | Even the name remembers. "Kills" is an old Dutch word for a stream. Before this was a mountain, it was water. | 이름조차 기억하고 있어요. "Kills"는 옛 네덜란드어로 물길이라는 뜻이에요. 산이 되기 전, 여기는 물이었습니다 | **L1 + L2.** 초원 언덕 위로 1940년대 갯벌 습지와 물길이 반투명하게 겹쳐, 물결이 언덕 윤곽을 따라 일렁임. 언덕 기슭 실제 하구의 물과 이어짐 | 프레임→영상 (시작+끝) | Quality |
+| 12 | 93–98 | But here's the part I'd love you to remember. This was supposed to last three years. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 이건 3년만 쓰기로 한 곳이었습니다 | **L1.** 언덕 꼭대기 측량 말뚝 클로즈업, 골든아워. 말뚝 맨 위 풀 바로 아래에 짧은 붉은 눈금 하나가 "툭" 빛남 | 프레임→영상 (시작) | Quality |
+| 13 | 98–105 | In 1948, the city called it a temporary landfill. Three years turned into fifty-three. The hills kept rising long after anyone planned. | 1948년, 시는 이곳을 임시 매립지라고 불렀어요. 3년이 53년이 됐죠. 언덕은 누구의 계획보다 훨씬 오래 자랐습니다 | **핵심 비주얼 ④ · L1.** 말뚝 옆 땅이 깊게 투명해지며, 짧은 눈금 아래로 긴 붉은 선이 쓰레기층 바닥까지 쭉 내려감. 카메라도 그 선을 따라 하강, 바닥에서 옛 갯벌 진흙이 보임 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 14 | 105–112 | And they're still moving. As the trash settles, the ground sinks a little every year. The park is designed to move with it. | 그리고 지금도 움직이고 있어요. 쓰레기가 다져지면서 땅이 매년 조금씩 내려앉습니다. 공원은 그 움직임을 전제로 설계됐어요 | **L1.** 같은 언덕 고정 카메라 타임랩스, 계절이 바뀌며(풀이 초록→금빛→초록) 언덕 윤곽과 말뚝, 산책로가 함께 아주 조금 내려앉음. 원래 높이가 얇은 붉은 선으로 공중에 남음 | 프레임→영상 (시작) | Fast |
+| 15 | 112–119 | Even the name remembers. "Kills" is an old Dutch word for a stream. Before this was a mountain, it was water. | 이름조차 기억하고 있어요. "Kills"는 옛 네덜란드어로 물길이라는 뜻이에요. 산이 되기 전, 여기는 물이었습니다 | **L1 + L2.** 초원 언덕 위로 1940년대 갯벌 습지와 물길이 반투명하게 겹쳐, 물결이 언덕 윤곽을 따라 일렁임. 언덕 기슭 실제 하구의 물과 이어짐 | 프레임→영상 (시작) | Quality |
 | 16 | 119–125 | So you're not standing on a hill. You're standing on half a century of a city's ordinary days, wrapped and set aside. | 그러니 여러분이 선 곳은 언덕이 아니에요. 한 도시가 보낸 반세기의 평범한 날들이, 포장돼 한쪽에 놓인 자리입니다 | **L1.** 골든아워 초원 와이드, 바람에 풀이 눕고 멀리 맨해튼. 측량 말뚝의 두 눈금(짧은 것, 긴 것)만 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 17 | 125–131 | Next time, let's head west to Hoover Dam, a wall of concrete that should have taken 125 years to cool. | 다음엔 서쪽으로, 식는 데만 125년이 걸렸어야 할 콘크리트 벽, 후버댐으로 가 볼게요 | 다음 편 티저: 블랙캐니언 위 후버댐 실사 드론 컷, 댐 벽 일부가 투명해지는 1초(EP.04 레퍼런스 선제작) | 편집 | — |
 | 18 | 131–134 | — | — | 로고 0.5초 | 편집 | — |
@@ -173,6 +173,9 @@ Next time, let's head west to Hoover Dam, a wall of concrete that should have ta
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 12컷(1, 3, 4, 5b, 6, 7, 9, 10, 12, 13, 15, 16), Fast 5컷(2, 5, 8, 11, 14), 편집 2컷. 먼저 **1·7·13번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 모든 스틸은 로케이션 사진(L1~L6)을 Ingredients로 넣고 생성. 매립기 장면은 퍼블릭 도메인 자료의 구도를 쓰되 결과는 컬러 시네마틱으로
 - 컷 1: 시작(풀 위 저공, 땅 불투명) → 끝(말뚝 앞, 발밑 풀밭 한 구간 투명 + 깊은 쓰레기층). 드론 감속 한 동작
@@ -242,28 +245,30 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A exactly as it is, the ground fully opaque, the camera gliding low over the grass toward the summit stake.
 
-컷1 끝 [편집] Edit the previous image: the camera has slowed beside the white survey stake; a bounded patch of ground in front of it has become clear glass with a thin red edge line, revealing beneath the grass a layer of soil, a thin continuous black liner, and below it a deep column of compacted grey-brown refuse continuing far down out of sight. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has slowed beside the white survey stake; a bounded patch of ground in front of it has become clear glass with a thin red edge line, revealing beneath the grass a layer of soil, a thin continuous black liner, and below it a deep column of compacted grey-brown refuse continuing far down out of sight. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the New York harbor region in natural color, Staten Island at lower left, a thin glowing red ring on its western shore. No text.
 
-컷2 끝 Use reference image C, framed on the creek: a tug pushing a line of refuse barges up the winding channel, gulls overhead.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: The Fresh Kills landfill at its height in the 1970s, filmed in natural color: a rusted steel barge heaped with grey-brown compacted refuse moored at a wharf, a crawler crane unloading it, bulldozers pushing material up the flank of a vast grey mound, clouds of gulls overhead, low grey sky. The refuse is an abstract faded mass with no recognizable objects. Workers only as tiny distant silhouettes. framed on the creek: a tug pushing a line of refuse barges up the winding channel, gulls overhead. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
 ```
 컷3 시작 Use reference image B, fixed camera, the survey stake standing low among the reeds just above the water.
 
-컷3 끝 [편집] Edit the previous image: the same spot has been filled in and built up many times its original height with compacted grey-brown refuse and soil layers, a bulldozer on the new surface, the water line now far below; the survey stake has risen with the ground. Same camera.
+컷3 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the same spot has been filled in and built up many times its original height with compacted grey-brown refuse and soil layers, a bulldozer on the new surface, the water line now far below; the survey stake has risen with the ground. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷4 (핵심 비주얼)
 ```
 컷4 시작 Use reference image B as a very high drone wide: the flat estuary, and far across the harbor the Statue of Liberty small on the horizon, both in one frame.
 
-컷4 끝 [편집] Edit the previous image: four broad grey mounds have risen out of the flat marsh, the tallest one clearly rising above the line of the distant Statue of Liberty in the frame. On its summit stand real weathered-steel 3D letters reading "225 FEET", catching the low light. Same camera.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: four broad grey mounds have risen out of the flat marsh, the tallest one clearly rising above the line of the distant Statue of Liberty in the frame. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷4 큰자막 「225 FEET」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷5
@@ -275,21 +280,21 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷5b 시작 Use reference image C, framed on a bare mound slope in rain, a small creek at its foot.
 
-컷5b 끝 [편집] Edit the previous image: a bounded section of the slope has become clear glass with a thin red edge; inside, rainwater soaks down through the refuse, turning murky brown, and seeps out into the creek, the seep path traced by a thin red line; faint pale teal gas bubbles gather inside the refuse beneath the surface, which bulges slightly. No flames. Same camera.
+컷5b Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded section of the slope has become clear glass with a thin red edge; inside, rainwater soaks down through the refuse, turning murky brown, and seeps out into the creek, the seep path traced by a thin red line; faint pale teal gas bubbles gather inside the refuse beneath the surface, which bulges slightly. No flames. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6
 ```
 컷6 시작 Use reference image D before the liner: a bare grey refuse slope, a rolled geomembrane at the top.
 
-컷6 끝 [편집] Edit the previous image: one continuous sheet of matte black geomembrane now drapes the whole slope like a wrapped package, rippling slightly in the wind, its lower edge buried in the anchor trench. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: one continuous sheet of matte black geomembrane now drapes the whole slope like a wrapped package, rippling slightly in the wind, its lower edge buried in the anchor trench. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7 (핵심 비주얼)
 ```
 컷7 시작 Use reference image D, fixed macro on the edge of the slope: only the compacted refuse surface.
 
-컷7 끝 [편집] Edit the previous image: grey gravel, the black liner, a lighter drainage layer, thick brown soil and young grass now cover the refuse; a bounded area at the front has become clear glass with a thin red edge showing all five layers stacked, with a thin red vertical dimension line beside them. No numbers. Same camera.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: grey gravel, the black liner, a lighter drainage layer, thick brown soil and young grass now cover the refuse; a bounded area at the front has become clear glass with a thin red edge showing all five layers stacked, with a thin red vertical dimension line beside them. No numbers. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8
@@ -301,49 +306,51 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷9 시작 Use reference image E, close on one white PVC gas wellhead in the grass.
 
-컷9 끝 [편집] Edit the previous image: the camera has descended; the ground around the well has become clear glass with a thin red edge, showing the perforated well casing deep in the compacted refuse, faint pale teal gas bubbles rising from many points and drawn into the well, and a soft teal glow of flow in the surface header pipe. No flames, no smoke.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has descended; the ground around the well has become clear glass with a thin red edge, showing the perforated well casing deep in the compacted refuse, faint pale teal gas bubbles rising from many points and drawn into the well, and a soft teal glow of flow in the surface header pipe. No flames, no smoke. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10
 ```
 컷10 시작 Use reference image F, with the small gas plant from reference image E at the edge of frame and a pipe running toward the houses; windows dark.
 
-컷10 끝 [편집] Edit the previous image: the pipe glows faintly teal along its length and the houses' windows are lit warm amber one after another. On a small grassy rise above the houses stand real weathered-steel 3D letters reading "22,000 HOMES", lit by the window glow. Same camera.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the pipe glows faintly teal along its length and the houses' windows are lit warm amber one after another. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷10 큰자막 「22,000 HOMES」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷11
 ```
 컷11 시작 Use reference image A at golden hour, drone rising to show four green hills, paths, the overlook deck, a bird tower and the estuary.
 
-컷11 끝 [편집] Edit the previous image: three thin red outlines of a long narrow rectangle, the shape of Central Park, lie side by side across the hills, together roughly covering them. Same camera.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: three thin red outlines of a long narrow rectangle, the shape of Central Park, lie side by side across the hills, together roughly covering them. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷12
 ```
 컷12 시작 Use reference image A at golden hour, close on the white survey stake on the summit.
 
-컷12 끝 [편집] Edit the previous image: just below the grass line, a short bright red tick mark glows on the stake. Same camera.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: just below the grass line, a short bright red tick mark glows on the stake. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13 (핵심 비주얼)
 ```
-컷13 시작 Use the image from cut 12's end.
+컷13 시작 Use the last frame of cut 12's generated video (saved as a still).
 
-컷13 끝 [편집] Edit the previous image: the camera has descended; the ground beside the stake has become clear glass with a thin red edge, and below the short red tick a long red line runs straight down through the black liner and the entire depth of compacted refuse to dark grey tidal mud at the very bottom. Same style.
+컷13 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has descended; the ground beside the stake has become clear glass with a thin red edge, and below the short red tick a long red line runs straight down through the black liner and the entire depth of compacted refuse to dark grey tidal mud at the very bottom. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷14
 ```
 컷14 시작 Use reference image A, fixed wide on one hill in green summer grass.
 
-컷14 끝 [편집] Edit the previous image: the same hill in a later season with golden grass, its whole outline, the path, the deck and the survey stake settled very slightly lower; the previous outline remains as a thin faint red line in the air just above the new surface. Same camera.
+컷14 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the same hill in a later season with golden grass, its whole outline, the path, the deck and the survey stake settled very slightly lower; the previous outline remains as a thin faint red line in the air just above the new surface. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷15
 ```
 컷15 시작 Use reference image A, calm golden hour.
 
-컷15 끝 [편집] Edit the previous image: a semi-transparent ghost of the 1940s tidal marsh and winding water channels is overlaid across the hill, faint reeds and rippling grey-blue water following the hill's contours and joining the real creek at its foot. Same camera.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a semi-transparent ghost of the 1940s tidal marsh and winding water channels is overlaid across the hill, faint reeds and rippling grey-blue water following the hill's contours and joining the real creek at its foot. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷16

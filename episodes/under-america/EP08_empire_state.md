@@ -60,42 +60,42 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–8 | The Empire State Building wasn't built fast because of more workers. It was built fast because there was nowhere to put anything. Let me show you how. | 엠파이어 스테이트 빌딩이 빨리 지어진 건 인부가 많아서가 아니었어요. 아무것도 둘 곳이 없었기 때문이에요. 어떻게 된 건지 보여 드릴게요 | **L1.** 블루아워 미드타운, 아르데코 첨탑을 감싸는 드론 오빗. 멈추는 순간 빌딩 외벽 한 구간이 유리처럼 투명해지며 속의 철골 격자가 드러남(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 8–14 | 102 floors, from the first steel column to finished building, in about 410 days. | 102층을, 첫 철골 기둥부터 완공까지 약 410일 만에요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 맨해튼으로 0.5초 줌인. 이어 빌딩 꼭대기에서 아래 5번가까지 수직으로 훑어 내려가는 숏 | 프레임→영상 (시작+끝) | Fast |
-| 3 | 14–21 | In 1930, as the Great Depression set in, crews started rising above Fifth Avenue at a speed no one had seen. | 1930년, 대공황이 시작되던 무렵, 인부들은 5번가 위로 누구도 본 적 없는 속도로 올라가기 시작했어요 | **L2.** 맑은 아침, 철골 보 위 고공. 아래로 5번가의 1930년대 자동차들. 보 위에 뚜껑이 열린 놋쇠 회중시계 ★ 보에 리벳으로 박힌 실물 강철 글자 「410 DAYS」 | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–8 | The Empire State Building wasn't built fast because of more workers. It was built fast because there was nowhere to put anything. Let me show you how. | 엠파이어 스테이트 빌딩이 빨리 지어진 건 인부가 많아서가 아니었어요. 아무것도 둘 곳이 없었기 때문이에요. 어떻게 된 건지 보여 드릴게요 | **L1.** 블루아워 미드타운, 아르데코 첨탑을 감싸는 드론 오빗. 멈추는 순간 빌딩 외벽 한 구간이 유리처럼 투명해지며 속의 철골 격자가 드러남(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 8–14 | 102 floors, from the first steel column to finished building, in about 410 days. | 102층을, 첫 철골 기둥부터 완공까지 약 410일 만에요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 맨해튼으로 0.5초 줌인. 이어 빌딩 꼭대기에서 아래 5번가까지 수직으로 훑어 내려가는 숏 | 프레임→영상 (시작) | Fast |
+| 3 | 14–21 | In 1930, as the Great Depression set in, crews started rising above Fifth Avenue at a speed no one had seen. | 1930년, 대공황이 시작되던 무렵, 인부들은 5번가 위로 누구도 본 적 없는 속도로 올라가기 시작했어요 | **L2.** 맑은 아침, 철골 보 위 고공. 아래로 5번가의 1930년대 자동차들. 보 위에 뚜껑이 열린 놋쇠 회중시계 ★ 보에 리벳으로 박힌 실물 강철 글자 「410 DAYS」 | 프레임→영상 (시작) | Quality |
 
 ### 난관 — 둘 곳이 없다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 4 | 21–28 | Here's the problem. A tower that size needs mountains of steel, brick and stone, and the whole site was a single city block. | 문제는 이거예요. 그만한 빌딩엔 철골·벽돌·석재가 산더미처럼 필요한데, 부지는 딱 한 블록이었어요 | **L3.** 높은 곳에서 내려다본 공사 부지. 사방이 건물과 차도로 꽉 막힌 한 블록, 가장자리에 얇은 붉은 테두리. 부지 안은 이미 기초와 철골로 가득 | 프레임→영상 (시작) | Fast |
-| 5 | 28–38 | Now here's the maddening part. If the steel came early, there was nowhere to stack it. If it came late, thousands of workers would stand around waiting. And the streets outside were already jammed. | 여기서 환장할 노릇이죠. 철골이 일찍 오면 쌓아 둘 데가 없었어요. 늦게 오면 수천 명이 손을 놓고 기다려야 했고요. 게다가 바깥 거리는 이미 꽉 막혀 있었습니다 | **막힌 길 · L3.** 상상의 두 장면을 빠르게: ① 철골 더미가 인도와 차도까지 넘쳐 트럭과 차들이 꼼짝 못 함(붉은 X) ② 텅 빈 철골 꼭대기에 인부 실루엣들이 앉아 기다리고, 회중시계 바늘만 돌아감(붉은 X) | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 38–44 | And this is where the thinking flips. Instead of storing materials, they scheduled them. | 이때 발상을 전환합니다. 자재를 쌓아 두는 대신, 시간표를 짰어요 | **L3.** 넘쳐 있던 철골 더미가 거꾸로 감기듯 사라지고, 부지 옆 도로에 트럭 한 대만 정확한 자리에 멈춰 섬. 회중시계 분침이 딱 정각에 | 프레임→영상 (시작+끝) | Quality |
+| 5 | 28–38 | Now here's the maddening part. If the steel came early, there was nowhere to stack it. If it came late, thousands of workers would stand around waiting. And the streets outside were already jammed. | 여기서 환장할 노릇이죠. 철골이 일찍 오면 쌓아 둘 데가 없었어요. 늦게 오면 수천 명이 손을 놓고 기다려야 했고요. 게다가 바깥 거리는 이미 꽉 막혀 있었습니다 | **막힌 길 · L3.** 상상의 두 장면을 빠르게: ① 철골 더미가 인도와 차도까지 넘쳐 트럭과 차들이 꼼짝 못 함(붉은 X) ② 텅 빈 철골 꼭대기에 인부 실루엣들이 앉아 기다리고, 회중시계 바늘만 돌아감(붉은 X) | 프레임→영상 (시작) + Extend 2초 | Quality |
+| 6 | 38–44 | And this is where the thinking flips. Instead of storing materials, they scheduled them. | 이때 발상을 전환합니다. 자재를 쌓아 두는 대신, 시간표를 짰어요 | **L3.** 넘쳐 있던 철골 더미가 거꾸로 감기듯 사라지고, 부지 옆 도로에 트럭 한 대만 정확한 자리에 멈춰 섬. 회중시계 분침이 딱 정각에 | 프레임→영상 (시작) | Quality |
 
 ### 해법 — 필요한 순간에 도착하게
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 44–52 | The steel was made in Pennsylvania. It traveled by train to the New Jersey waterfront, then by barge across the river, then by truck for the last few blocks. | 철골은 펜실베이니아에서 만들어졌어요. 기차로 뉴저지 강변까지, 바지선으로 강을 건너, 마지막 몇 블록은 트럭으로 왔습니다 | **핵심 비주얼 ① · L4.** 철골 한 개를 따라가는 운송 추적: 새벽 안개 낀 뉴저지 강변 야적장의 화차 → 크레인이 바지선에 옮겨 실음 → 바지선이 강을 건너 맨해튼 스카이라인 쪽으로 → 부두에서 트럭에. 철골 위의 분필 번호(무늬로) | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 8 | 52–59 | Here's the clever part. It was ordered just two floors at a time, timed to arrive right when the crews were ready to lift it. | 여기가 영리한 부분이에요. 딱 두 층 분량씩만 주문했고, 인부들이 들어 올릴 준비가 된 바로 그때 도착하도록 맞췄어요 | **L2 + L3.** 트럭이 부지 옆에 서고, 데릭 크레인의 갈고리가 내려와 철골을 바로 들어 올림. 땅에 닿는 시간이 거의 없음. 철골 위 회중시계 분침이 정각 | 프레임→영상 (시작+끝) | Quality |
-| 9 | 59–66 | Up top, the frame climbed as fast as four and a half floors a week. | 위에선 골조가 일주일에 4.5층씩 올라갔어요 | **L2.** 고정 카메라 타임랩스, 옆 건물 옥상에서 바라본 철골이 층층이 솟아오름. 데릭 크레인이 한 층씩 위로 옮겨 가며 따라 올라감 | 프레임→영상 (시작+끝) | Fast |
-| 10 | 66–73 | In July 1930, they set 22 floors of steel in 22 working days. | 1930년 7월에는, 일하는 날 22일 동안 22개 층의 철골을 세웠습니다 | **핵심 비주얼 ② · L2.** 한여름 한낮 고공. 회중시계 바늘이 빠르게 돌고, 철골이 하루 한 층씩 "툭, 툭" 올라감 ★ 비계에 걸린 실물 강철 간판 글자 「22 FLOORS · 22 DAYS」 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 11 | 73–80 | Inside, a little railway ran through the building, carrying bricks and stone from the basement straight to the elevators. | 건물 안엔 작은 철도까지 깔려, 벽돌과 석재를 지하에서 엘리베이터까지 곧장 날랐어요 | **L5.** 빌딩 외벽이 투명해지며 지하층에 깔린 좁은 레일이 보이고, 벽돌을 실은 작은 화차 시점으로 레일을 따라 달려 화물 엘리베이터 앞에 멈춤 | 프레임→영상 (시작+끝) | Fast |
+| 7 | 44–52 | The steel was made in Pennsylvania. It traveled by train to the New Jersey waterfront, then by barge across the river, then by truck for the last few blocks. | 철골은 펜실베이니아에서 만들어졌어요. 기차로 뉴저지 강변까지, 바지선으로 강을 건너, 마지막 몇 블록은 트럭으로 왔습니다 | **핵심 비주얼 ① · L4.** 철골 한 개를 따라가는 운송 추적: 새벽 안개 낀 뉴저지 강변 야적장의 화차 → 크레인이 바지선에 옮겨 실음 → 바지선이 강을 건너 맨해튼 스카이라인 쪽으로 → 부두에서 트럭에. 철골 위의 분필 번호(무늬로) | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 8 | 52–59 | Here's the clever part. It was ordered just two floors at a time, timed to arrive right when the crews were ready to lift it. | 여기가 영리한 부분이에요. 딱 두 층 분량씩만 주문했고, 인부들이 들어 올릴 준비가 된 바로 그때 도착하도록 맞췄어요 | **L2 + L3.** 트럭이 부지 옆에 서고, 데릭 크레인의 갈고리가 내려와 철골을 바로 들어 올림. 땅에 닿는 시간이 거의 없음. 철골 위 회중시계 분침이 정각 | 프레임→영상 (시작) | Quality |
+| 9 | 59–66 | Up top, the frame climbed as fast as four and a half floors a week. | 위에선 골조가 일주일에 4.5층씩 올라갔어요 | **L2.** 고정 카메라 타임랩스, 옆 건물 옥상에서 바라본 철골이 층층이 솟아오름. 데릭 크레인이 한 층씩 위로 옮겨 가며 따라 올라감 | 프레임→영상 (시작) | Fast |
+| 10 | 66–73 | In July 1930, they set 22 floors of steel in 22 working days. | 1930년 7월에는, 일하는 날 22일 동안 22개 층의 철골을 세웠습니다 | **핵심 비주얼 ② · L2.** 한여름 한낮 고공. 회중시계 바늘이 빠르게 돌고, 철골이 하루 한 층씩 "툭, 툭" 올라감 ★ 비계에 걸린 실물 강철 간판 글자 「22 FLOORS · 22 DAYS」 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 11 | 73–80 | Inside, a little railway ran through the building, carrying bricks and stone from the basement straight to the elevators. | 건물 안엔 작은 철도까지 깔려, 벽돌과 석재를 지하에서 엘리베이터까지 곧장 날랐어요 | **L5.** 빌딩 외벽이 투명해지며 지하층에 깔린 좁은 레일이 보이고, 벽돌을 실은 작은 화차 시점으로 레일을 따라 달려 화물 엘리베이터 앞에 멈춤 | 프레임→영상 (시작) | Fast |
 | 12 | 80–86 | By the spring of 1931, the tallest building in the world was finished, months ahead of what many expected. | 1931년 봄, 세계에서 가장 높은 빌딩이 완공됐어요. 많은 이들이 예상한 것보다 몇 달이나 빨리요 | **L2 → L1.** 1931년 봄, 완성된 첨탑 위로 구름이 흐르고, 아래 5번가에서 사람들이 올려다봄(원거리 실루엣) | 프레임→영상 (시작) | Quality |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 13 | 86–91 | But here's the part I'd love you to remember. When it opened, it was mostly empty. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 문을 열었을 때, 이 빌딩은 대부분 비어 있었습니다 | **L1 → L6.** 첨탑 외벽이 투명해지며 수십 개 층이 보이는데, 불 켜진 층은 몇 개뿐이고 나머지는 어두움 | 프레임→영상 (시작+끝) | Quality |
-| 14 | 91–99 | The Depression had arrived. Less than a quarter of the offices were rented, and New Yorkers started calling it the Empty State Building. | 대공황이 닥쳤거든요. 사무실의 4분의 1도 임대되지 않았고, 뉴욕 사람들은 이곳을 "Empty State Building"이라고 부르기 시작했어요 | **핵심 비주얼 ③ · L6.** 1931년 오후 햇살이 들어오는 텅 빈 아르데코 사무실, 바닥의 먼지. 책상 위 회중시계가 아주 천천히 감. 창밖 맨해튼 | 프레임→영상 (시작+끝) | Quality |
-| 15 | 99–106 | For a while, the observation deck brought in about as much money as the rent. The building didn't turn a profit until around 1950. | 한동안은 전망대 입장 수입이 임대료만큼 벌었어요. 빌딩이 이익을 내기 시작한 건 1950년 무렵이었습니다 | **L6 → L1.** 빈 사무실 창문에서 카메라가 빠져나가 위층 전망대로. 1930년대 관광객들(원거리 뒷모습)이 난간에서 맨해튼을 내려다봄. 이어 시간이 흐르며 아래층 창문들에 하나둘 불이 켜짐 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 13 | 86–91 | But here's the part I'd love you to remember. When it opened, it was mostly empty. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 문을 열었을 때, 이 빌딩은 대부분 비어 있었습니다 | **L1 → L6.** 첨탑 외벽이 투명해지며 수십 개 층이 보이는데, 불 켜진 층은 몇 개뿐이고 나머지는 어두움 | 프레임→영상 (시작) | Quality |
+| 14 | 91–99 | The Depression had arrived. Less than a quarter of the offices were rented, and New Yorkers started calling it the Empty State Building. | 대공황이 닥쳤거든요. 사무실의 4분의 1도 임대되지 않았고, 뉴욕 사람들은 이곳을 "Empty State Building"이라고 부르기 시작했어요 | **핵심 비주얼 ③ · L6.** 1931년 오후 햇살이 들어오는 텅 빈 아르데코 사무실, 바닥의 먼지. 책상 위 회중시계가 아주 천천히 감. 창밖 맨해튼 | 프레임→영상 (시작) | Quality |
+| 15 | 99–106 | For a while, the observation deck brought in about as much money as the rent. The building didn't turn a profit until around 1950. | 한동안은 전망대 입장 수입이 임대료만큼 벌었어요. 빌딩이 이익을 내기 시작한 건 1950년 무렵이었습니다 | **L6 → L1.** 빈 사무실 창문에서 카메라가 빠져나가 위층 전망대로. 1930년대 관광객들(원거리 뒷모습)이 난간에서 맨해튼을 내려다봄. 이어 시간이 흐르며 아래층 창문들에 하나둘 불이 켜짐 | 프레임→영상 (시작) + Extend 1초 | Quality |
 | 16 | 106–112 | So the tower built faster than anyone thought possible spent almost twenty years waiting for the city to catch up. | 그러니 누구도 가능하다고 믿지 않은 속도로 지어진 빌딩이, 도시가 따라오길 20년 가까이 기다린 셈이에요 | **L1.** 지금의 노을, 첨탑을 감싸는 드론. 빌딩 모든 창에 불이 켜져 있음. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 17 | 112–118 | — | — | **L1.** 노을에서 블루아워로, 회중시계 뚜껑이 "딸깍" 닫히는 매크로 인서트 후 스카이라인 와이드 | 프레임→영상 (시작) | Fast |
 | 18 | 118–124 | Next time, let's visit the Golden Gate Bridge, a bridge that is never finished being painted. | 다음엔 칠이 끝나는 날이 없는 다리, 골든게이트 브리지로 가 볼게요 | 다음 편 티저: 안개 낀 골든게이트 실사 드론 컷, 탑 일부가 투명해지는 1초 + AAB 책장 로고 | 편집 | — |
@@ -164,6 +164,9 @@ Next time, let's visit the Golden Gate Bridge, a bridge that is never finished b
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 13컷(1, 3, 5, 6, 7, 8, 10, 12, 13, 14, 15, 16 + 3 재생성 예비), Fast 5컷(2, 4, 9, 11, 17), 편집 1컷. 먼저 **1·7·14번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 1930년대 공사 사진은 권리 확인된 퍼블릭 도메인만 입력. 현대 미드타운은 직접 촬영 또는 CC0
 - 컷 1: 시작(첨탑 오빗, 외벽 불투명) → 끝(외벽 한 구간 투명 + 철골 격자)
@@ -231,21 +234,23 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A, the drone orbiting the spire, facade opaque.
 
-컷1 끝 [편집] Edit the previous image: a bounded vertical section of the tower's limestone facade has become clear glass within a thin red edge line, revealing the dense riveted steel grid inside, with no people visible. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded vertical section of the tower's limestone facade has become clear glass within a thin red edge line, revealing the dense riveted steel grid inside, with no people visible. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the northeastern United States in natural color, a thin red ring around Manhattan. No text.
 
-컷2 끝 Use reference image A, the camera looking straight down the tower's facade from the spire toward Fifth Avenue far below.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Aerial drone view of Midtown Manhattan at blue hour: a tall Art Deco skyscraper with a stepped limestone shaft and a slender spire rising above the surrounding towers, warm windows glowing, yellow taxis streaking along the avenue far below, the Hudson River and New Jersey faint in the haze. the camera looking straight down the tower's facade from the spire toward Fifth Avenue far below. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
 ```
 컷3 시작 Use reference image B exactly as it is.
 
-컷3 끝 [편집] Edit the previous image: riveted onto the side of the nearest steel beam, real steel 3D letters reading "410 DAYS", outlined by rows of rivet heads, catching the morning sun and casting shadows. Same camera.
+컷3 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end:  Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷3 큰자막 「410 DAYS」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷4
@@ -256,52 +261,54 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 #### 컷5 (막힌 길) — 두 장면
 ```
 컷5-① 시작 Use reference image C.
-컷5-① 끝 [편집] Piles of red-primed steel beams overflow from the site onto the sidewalks and into the avenue, trucks and cars stuck around them; a thin red X over the piles. Same camera.
+컷5-① Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: Piles of red-primed steel beams overflow from the site onto the sidewalks and into the avenue, trucks and cars stuck around them; a thin red X over the piles. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 
 컷5-② 시작 Use reference image B, the top of the frame bare of new steel, several worker silhouettes seated on a beam, waiting.
-컷5-② 끝 [편집] The same scene later in the day, the light lower, the workers still waiting, the pocket watch's hands moved far around; a thin red X beside them. Same camera.
+컷5-② Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: The same scene later in the day, the light lower, the workers still waiting, the pocket watch's hands moved far around; a thin red X beside them. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6 (뒤집힘)
 ```
-컷6 시작 Use the image from cut 5-①'s end without the red X.
+컷6 시작 Use the last frame of cut 5-①'s generated video (saved as a still) without the red X.
 
-컷6 끝 [편집] Edit the previous image: the overflowing piles are gone; the streets are clear; a single truck carrying a few steel beams has stopped exactly beside the site; an inset of the brass pocket watch shows the minute hand precisely at the top of the hour. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the overflowing piles are gone; the streets are clear; a single truck carrying a few steel beams has stopped exactly beside the site; an inset of the brass pocket watch shows the minute hand precisely at the top of the hour. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7 (핵심 비주얼)
 ```
 컷7 시작 Use reference image D, close on one steel column on a flatcar with a chalked mark pattern on it.
 
-컷7 끝 [STYLE] The same steel column, now on a 1930s truck at a Manhattan East River pier, the rising steel frame visible above the nearby streets, morning light.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: The same steel column, now on a 1930s truck at a Manhattan East River pier, the rising steel frame visible above the nearby streets, morning light. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8
 ```
 컷8 시작 Use reference image C, the truck pulling up beside the site.
 
-컷8 끝 [편집] Edit the previous image: the derrick's hook has already lifted the steel column off the truck into the air, rising toward the frame; an inset of the pocket watch shows the minute hand at the top of the hour. Same camera.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the derrick's hook has already lifted the steel column off the truck into the air, rising toward the frame; an inset of the pocket watch shows the minute hand at the top of the hour. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9
 ```
 컷9 시작 [STYLE] From the roof of a neighboring building in 1930, a fixed view of the skyscraper's steel frame rising, only a dozen floors high, a derrick on top.
 
-컷9 끝 [편집] Edit the previous image: the frame has risen many more floors, the derrick now much higher. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the frame has risen many more floors, the derrick now much higher. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10 (핵심 비주얼)
 ```
 컷10 시작 Use reference image B at midsummer noon, the frame's top a few floors above the camera.
 
-컷10 끝 [편집] Edit the previous image: the frame has climbed many floors higher; hung on the wooden scaffolding beside it, a real riveted steel sign with 3D letters reading "22 FLOORS · 22 DAYS" catches the high sun. Same camera.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the frame has climbed many floors higher; Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷10 큰자막 「22 FLOORS · 22 DAYS」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷11
 ```
 컷11 시작 Use reference image A, but in 1931 with construction just finished, the lower facade opaque.
 
-컷11 끝 Use reference image E, seen from the point of view of a small rail car loaded with bricks rolling along the track toward the open freight elevator.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Inside the basement level of a skyscraper under construction in 1930: a narrow-gauge rail track laid across the concrete floor, small open rail cars stacked with bricks and limestone blocks, steel columns all around, and at the end of the track the open door of a large freight elevator, lit by bare bulbs. seen from the point of view of a small rail car loaded with bricks rolling along the track toward the open freight elevator. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷12
@@ -313,7 +320,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷13 시작 Use reference image A in 1931 at dusk.
 
-컷13 끝 [편집] Edit the previous image: a large bounded section of the facade has become clear glass within a thin red edge, revealing dozens of office floors inside; only a few floors are lit, the rest dark and empty. Same camera.
+컷13 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a large bounded section of the facade has become clear glass within a thin red edge, revealing dozens of office floors inside; only a few floors are lit, the rest dark and empty. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷14 (핵심 비주얼)
@@ -325,7 +332,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷15 시작 Use reference image F, close on the window.
 
-컷15 끝 [STYLE] An open-air observation deck high on the tower in the 1930s, visitors seen from behind at the parapet looking over Manhattan; below, on the tower's own lower floors, a few more windows have lit up.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: An open-air observation deck high on the tower in the 1930s, visitors seen from behind at the parapet looking over Manhattan; below, on the tower's own lower floors, a few more windows have lit up. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷16

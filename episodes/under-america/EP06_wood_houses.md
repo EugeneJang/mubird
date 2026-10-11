@@ -61,43 +61,43 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | Most American houses aren't built from wood because it's cheap. They're built from a trick invented in Chicago in the 1830s. Let me show you how. | 미국 집 대부분이 나무로 지어지는 건 나무가 싸서가 아니에요. 1830년대 시카고에서 나온 요령 때문입니다. 어떻게 된 건지 보여 드릴게요 | **L1.** 골든아워 교외, 완성된 2층 집 앞으로 드론이 다가감. 현관 계단에 노란 접이식 자. 멈추는 순간 집 벽 한 구간이 유리처럼 투명해지며 속의 촘촘한 나무 스터드가 드러남(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 7–13 | Today, about 94 percent of new single-family homes in the U.S. are framed in wood. | 지금 미국 신축 단독주택의 약 94%가 나무 골조예요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 교외 주택가로 0.5초 줌인. 이어 아주 높은 고도에서 끝없이 이어진 교외 지붕들, 그중 몇 채의 지붕이 투명해지며 나무 골조가 비침 | 프레임→영상 (시작+끝) | Fast |
-| 3 | 13–20 | In the 1830s, Chicago was a muddy frontier town, and people were arriving faster than anyone could build for them. | 1830년대 시카고는 진흙투성이 개척지였어요. 사람들이 몰려드는 속도를 집이 따라가지 못했죠 | **L2.** 흐린 날 진흙 거리, 마차와 짐을 진 사람들(원거리·뒷모습)이 계속 들어오고, 길가엔 텐트와 반쯤 지어진 오두막 | 프레임→영상 (시작+끝) | Fast |
+| 1 | 0–7 | Most American houses aren't built from wood because it's cheap. They're built from a trick invented in Chicago in the 1830s. Let me show you how. | 미국 집 대부분이 나무로 지어지는 건 나무가 싸서가 아니에요. 1830년대 시카고에서 나온 요령 때문입니다. 어떻게 된 건지 보여 드릴게요 | **L1.** 골든아워 교외, 완성된 2층 집 앞으로 드론이 다가감. 현관 계단에 노란 접이식 자. 멈추는 순간 집 벽 한 구간이 유리처럼 투명해지며 속의 촘촘한 나무 스터드가 드러남(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 7–13 | Today, about 94 percent of new single-family homes in the U.S. are framed in wood. | 지금 미국 신축 단독주택의 약 94%가 나무 골조예요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 교외 주택가로 0.5초 줌인. 이어 아주 높은 고도에서 끝없이 이어진 교외 지붕들, 그중 몇 채의 지붕이 투명해지며 나무 골조가 비침 | 프레임→영상 (시작) | Fast |
+| 3 | 13–20 | In the 1830s, Chicago was a muddy frontier town, and people were arriving faster than anyone could build for them. | 1830년대 시카고는 진흙투성이 개척지였어요. 사람들이 몰려드는 속도를 집이 따라가지 못했죠 | **L2.** 흐린 날 진흙 거리, 마차와 짐을 진 사람들(원거리·뒷모습)이 계속 들어오고, 길가엔 텐트와 반쯤 지어진 오두막 | 프레임→영상 (시작) | Fast |
 
 ### 난관 — 집은 느리게 지어진다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 4 | 20–26 | Here's the problem. A proper wooden house back then meant a timber frame: huge beams, hewn by hand. | 문제는 이거예요. 그 시절 제대로 된 목조 집은 팀버 프레임이었어요. 손으로 깎은 거대한 각재로요 | **L3.** 들판의 작업장, 굵은 통나무를 손도끼로 각재로 깎는 매크로, 나무 부스러기가 튐 | 프레임→영상 (시작) | Fast |
-| 5 | 26–36 | Now here's the maddening part. Every joint had to be carved to fit, every beam took a crowd to lift, and skilled carpenters were the one thing the frontier didn't have. | 여기서 환장할 노릇이죠. 이음새 하나하나를 깎아 맞춰야 했고, 각재 하나 들어 올리는 데 사람이 떼로 필요했어요. 그리고 개척지에 없는 게 바로 숙련 목수였습니다 | **막힌 길 · L3.** 장부와 장부구멍을 끌로 파는 매크로 → 와이드로 빠지면 수십 명(뒷모습)이 밧줄과 장대로 무거운 벽 골조를 겨우 들어 올림. 그 옆 빈 집터 두 곳에 붉은 X(목수가 없어 시작도 못 한 집) | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 36–42 | And this is where the thinking flips. Instead of a few heavy beams, they used hundreds of light boards, and simply nailed them together. | 이때 발상을 전환합니다. 무거운 각재 몇 개 대신, 가벼운 판재 수백 개를 쓰고, 그냥 못으로 박았어요 | **L3 → L1.** 굵은 각재 골조가 서 있던 자리에서 각재가 가늘게 쪼개지듯 얇은 판재 수십 개로 바뀌며 촘촘한 벽 골조가 됨. 망치가 못을 박는 매크로 소리 | 프레임→영상 (시작+끝) | Quality |
+| 5 | 26–36 | Now here's the maddening part. Every joint had to be carved to fit, every beam took a crowd to lift, and skilled carpenters were the one thing the frontier didn't have. | 여기서 환장할 노릇이죠. 이음새 하나하나를 깎아 맞춰야 했고, 각재 하나 들어 올리는 데 사람이 떼로 필요했어요. 그리고 개척지에 없는 게 바로 숙련 목수였습니다 | **막힌 길 · L3.** 장부와 장부구멍을 끌로 파는 매크로 → 와이드로 빠지면 수십 명(뒷모습)이 밧줄과 장대로 무거운 벽 골조를 겨우 들어 올림. 그 옆 빈 집터 두 곳에 붉은 X(목수가 없어 시작도 못 한 집) | 프레임→영상 (시작) + Extend 2초 | Quality |
+| 6 | 36–42 | And this is where the thinking flips. Instead of a few heavy beams, they used hundreds of light boards, and simply nailed them together. | 이때 발상을 전환합니다. 무거운 각재 몇 개 대신, 가벼운 판재 수백 개를 쓰고, 그냥 못으로 박았어요 | **L3 → L1.** 굵은 각재 골조가 서 있던 자리에서 각재가 가늘게 쪼개지듯 얇은 판재 수십 개로 바뀌며 촘촘한 벽 골조가 됨. 망치가 못을 박는 매크로 소리 | 프레임→영상 (시작) | Quality |
 
 ### 해법 — 얇은 판재와 값싼 못
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 42–50 | It only worked because of two new machines: sawmills that cut boards to the same size, and factories that turned out nails by the barrel. | 이게 가능했던 건 새 기계 두 가지 덕분이었어요. 판재를 같은 크기로 켜는 제재소, 그리고 못을 통째로 쏟아 내는 공장이요 | **L4.** 수차가 도는 제재소, 톱날이 통나무를 같은 두께로 켜고 판재가 쌓임 → 옆 공장에서 기계가 쇠못을 쏟아 내 통에 가득 참. 먼지에 빛줄기 | 프레임→영상 (시작+끝) | Fast |
-| 8 | 50–58 | One of the first was a church in Chicago in 1833. Skeptical carpenters said it was no stronger than a balloon. The name stuck: balloon framing. | 첫 사례 중 하나가 1833년 시카고의 한 교회였어요. 못 믿겠다는 목수들이 풍선보다 튼튼할 게 없다고 했죠. 그 이름이 그대로 굳었습니다. 벌룬 프레임 | **핵심 비주얼 ① · L2.** 진흙 거리 위 작은 판재 교회 골조가 가늘고 촘촘한 스터드로 서 있음. 바람에 마른 풀이 날리는데 골조는 꿈쩍 않음. 길 건너 팔짱 낀 목수들(뒷모습). 마지막 1초, 골조 실루엣 위로 풍선 하나가 떠올랐다 사라짐 | 프레임→영상 (시작+끝) | Quality |
-| 9 | 58–64 | With a bag of nails and a stack of boards, two people could frame a house in days instead of weeks. | 못 한 자루와 판재 한 더미면, 두 사람이 몇 주가 아니라 며칠 만에 집 골조를 세울 수 있었어요 | **L2.** 고정 카메라 타임랩스, 빈 집터에 두 사람(뒷모습)이 판재를 박아 골조가 빠르게 올라감. 해가 두세 번 뜨고 짐 | 프레임→영상 (시작+끝) | Fast |
-| 10 | 64–72 | Here's the clever part. The strength isn't in any one board. It's in all of them together: studs spaced a hand's width apart, sheathing nailed across, every piece holding up its neighbor. | 여기가 영리한 부분이에요. 힘은 판재 하나에 있지 않아요. 전부가 함께 내는 겁니다. 손 한 뼘 간격의 스터드, 그 위를 가로질러 박은 덮개판, 모든 조각이 이웃을 붙들고 있죠 | **핵심 비주얼 ② · L1.** 골든아워 현대 골조 벽 매크로. 접이식 자가 스터드 간격을 잼. 벽에 덮개판이 박히고, 벽 일부가 투명해지며 하중이 스터드마다 고르게 나뉘어 내려가는 은은한 붉은 선들 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 7 | 42–50 | It only worked because of two new machines: sawmills that cut boards to the same size, and factories that turned out nails by the barrel. | 이게 가능했던 건 새 기계 두 가지 덕분이었어요. 판재를 같은 크기로 켜는 제재소, 그리고 못을 통째로 쏟아 내는 공장이요 | **L4.** 수차가 도는 제재소, 톱날이 통나무를 같은 두께로 켜고 판재가 쌓임 → 옆 공장에서 기계가 쇠못을 쏟아 내 통에 가득 참. 먼지에 빛줄기 | 프레임→영상 (시작) | Fast |
+| 8 | 50–58 | One of the first was a church in Chicago in 1833. Skeptical carpenters said it was no stronger than a balloon. The name stuck: balloon framing. | 첫 사례 중 하나가 1833년 시카고의 한 교회였어요. 못 믿겠다는 목수들이 풍선보다 튼튼할 게 없다고 했죠. 그 이름이 그대로 굳었습니다. 벌룬 프레임 | **핵심 비주얼 ① · L2.** 진흙 거리 위 작은 판재 교회 골조가 가늘고 촘촘한 스터드로 서 있음. 바람에 마른 풀이 날리는데 골조는 꿈쩍 않음. 길 건너 팔짱 낀 목수들(뒷모습). 마지막 1초, 골조 실루엣 위로 풍선 하나가 떠올랐다 사라짐 | 프레임→영상 (시작) | Quality |
+| 9 | 58–64 | With a bag of nails and a stack of boards, two people could frame a house in days instead of weeks. | 못 한 자루와 판재 한 더미면, 두 사람이 몇 주가 아니라 며칠 만에 집 골조를 세울 수 있었어요 | **L2.** 고정 카메라 타임랩스, 빈 집터에 두 사람(뒷모습)이 판재를 박아 골조가 빠르게 올라감. 해가 두세 번 뜨고 짐 | 프레임→영상 (시작) | Fast |
+| 10 | 64–72 | Here's the clever part. The strength isn't in any one board. It's in all of them together: studs spaced a hand's width apart, sheathing nailed across, every piece holding up its neighbor. | 여기가 영리한 부분이에요. 힘은 판재 하나에 있지 않아요. 전부가 함께 내는 겁니다. 손 한 뼘 간격의 스터드, 그 위를 가로질러 박은 덮개판, 모든 조각이 이웃을 붙들고 있죠 | **핵심 비주얼 ② · L1.** 골든아워 현대 골조 벽 매크로. 접이식 자가 스터드 간격을 잼. 벽에 덮개판이 박히고, 벽 일부가 투명해지며 하중이 스터드마다 고르게 나뉘어 내려가는 은은한 붉은 선들 | 프레임→영상 (시작) + Extend 1초 | Quality |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 11 | 72–80 | But here's the part I'd love you to remember. The first balloon frames had a hidden flaw. Their wall cavities ran unbroken from the basement all the way to the attic. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 초기 벌룬 프레임엔 숨은 약점이 있었습니다. 벽 속 빈 공간이 지하에서 다락까지 끊김 없이 이어져 있었거든요 | **L5.** 리모델링 중인 오래된 집, 벽판을 뜯자 지하 바닥에서 다락까지 한 번에 뻗은 긴 스터드들. 벽 일부가 투명해지며 그 사이 빈 공간이 수직 통로처럼 끝없이 이어진 게 보임 | 프레임→영상 (시작+끝) | Quality |
-| 12 | 80–87 | A fire in the basement could race up inside the walls like a chimney. So builders changed the method. | 지하에서 난 불이 벽 속을 굴뚝처럼 타고 올라갈 수 있었어요. 그래서 짓는 방식이 바뀝니다 | 같은 벽 속 통로를 따라 **은은한 주황 빛**이 아래에서 위로 빠르게 번져 올라감(불꽃·연기 직접 묘사 없이 빛으로만). 통로 꼭대기에 붉은 X | 프레임→영상 (시작+끝) | Quality |
-| 13 | 87–95 | Today each floor is built as its own platform, and the next floor's walls stand on top. The cavities stop at every floor, and the fire stops with them. | 오늘날엔 층마다 바닥판을 먼저 깔고, 그 위에 다음 층 벽을 세워요. 벽 속 공간이 층마다 끊기고, 불길도 거기서 멈춥니다 | **핵심 비주얼 ③ · L1.** 현대 골조, 1층 벽 위에 합판 바닥이 깔리고 그 위에 2층 벽이 세워짐. 벽 일부가 투명해지며 층마다 가로막힌 벽 속이 보이고, 아래에서 오던 주황 빛이 바닥판에서 막혀 멈춤 | 프레임→영상 (시작+끝) | Quality |
+| 11 | 72–80 | But here's the part I'd love you to remember. The first balloon frames had a hidden flaw. Their wall cavities ran unbroken from the basement all the way to the attic. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 초기 벌룬 프레임엔 숨은 약점이 있었습니다. 벽 속 빈 공간이 지하에서 다락까지 끊김 없이 이어져 있었거든요 | **L5.** 리모델링 중인 오래된 집, 벽판을 뜯자 지하 바닥에서 다락까지 한 번에 뻗은 긴 스터드들. 벽 일부가 투명해지며 그 사이 빈 공간이 수직 통로처럼 끝없이 이어진 게 보임 | 프레임→영상 (시작) | Quality |
+| 12 | 80–87 | A fire in the basement could race up inside the walls like a chimney. So builders changed the method. | 지하에서 난 불이 벽 속을 굴뚝처럼 타고 올라갈 수 있었어요. 그래서 짓는 방식이 바뀝니다 | 같은 벽 속 통로를 따라 **은은한 주황 빛**이 아래에서 위로 빠르게 번져 올라감(불꽃·연기 직접 묘사 없이 빛으로만). 통로 꼭대기에 붉은 X | 프레임→영상 (시작) | Quality |
+| 13 | 87–95 | Today each floor is built as its own platform, and the next floor's walls stand on top. The cavities stop at every floor, and the fire stops with them. | 오늘날엔 층마다 바닥판을 먼저 깔고, 그 위에 다음 층 벽을 세워요. 벽 속 공간이 층마다 끊기고, 불길도 거기서 멈춥니다 | **핵심 비주얼 ③ · L1.** 현대 골조, 1층 벽 위에 합판 바닥이 깔리고 그 위에 2층 벽이 세워짐. 벽 일부가 투명해지며 층마다 가로막힌 벽 속이 보이고, 아래에서 오던 주황 빛이 바닥판에서 막혀 멈춤 | 프레임→영상 (시작) | Quality |
 | 14 | 95–101 | And one more thing. The board that built all of this, the two-by-four… | 그리고 하나 더 있어요. 이 모든 걸 지은 그 판재, 2×4는… | **L6.** 목재 야적장 크레인 숏, 끝없이 쌓인 2×4 더미 ★ 2×4 판재로 짜 맞춘 실물 3D 글자 「94%」가 더미 위에 서 있음(오후 햇빛과 그림자) | 프레임→영상 (시작) | Quality |
-| 15 | 101–109 | …isn't two inches by four. It's an inch and a half by three and a half. It starts at full size, then shrinks as it dries and gets planed smooth. | …2인치×4인치가 아니에요. 1.5인치×3.5인치입니다. 처음엔 그 크기로 켜지만, 마르면서 줄고 대패로 다듬어지며 작아져요 | **핵심 비주얼 ④ · L6.** 2×4 단면 극매크로. 노란 접이식 자를 대면 1.5인치에서 멈춤. 단면 둘레에 원래 2×4 크기의 얇은 붉은 윤곽이 남아 있다가, 생목 → 건조 → 대패 순으로 붉은 윤곽 안쪽으로 줄어드는 모습 ★ 단면에 찍힌 낙인 글자 「1½ × 3½」 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 16 | 109–115 | So the stick that built America isn't even the size its name says. | 그러니 미국을 지은 그 막대는, 이름만큼의 크기도 아닌 셈이에요 | **L6 → L1.** 단면에서 카메라가 빠져나와 야적장, 다시 교외 주택가로. 집집마다 벽 속 2×4 골조가 아주 잠깐 투명하게 비쳤다 사라짐 | 프레임→영상 (시작+끝) | Quality |
+| 15 | 101–109 | …isn't two inches by four. It's an inch and a half by three and a half. It starts at full size, then shrinks as it dries and gets planed smooth. | …2인치×4인치가 아니에요. 1.5인치×3.5인치입니다. 처음엔 그 크기로 켜지만, 마르면서 줄고 대패로 다듬어지며 작아져요 | **핵심 비주얼 ④ · L6.** 2×4 단면 극매크로. 노란 접이식 자를 대면 1.5인치에서 멈춤. 단면 둘레에 원래 2×4 크기의 얇은 붉은 윤곽이 남아 있다가, 생목 → 건조 → 대패 순으로 붉은 윤곽 안쪽으로 줄어드는 모습 ★ 단면에 찍힌 낙인 글자 「1½ × 3½」 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 16 | 109–115 | So the stick that built America isn't even the size its name says. | 그러니 미국을 지은 그 막대는, 이름만큼의 크기도 아닌 셈이에요 | **L6 → L1.** 단면에서 카메라가 빠져나와 야적장, 다시 교외 주택가로. 집집마다 벽 속 2×4 골조가 아주 잠깐 투명하게 비쳤다 사라짐 | 프레임→영상 (시작) | Quality |
 | 17 | 115–120 | And yet it holds up almost every home on the street. | 그런데도 이 거리의 거의 모든 집을 받치고 있죠 | **L1.** 저녁, 불 켜진 집들이 늘어선 교외 거리. 현관 계단의 노란 접이식 자. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 18 | 120–126 | Next time, let's look down at the cover on every manhole, and why it's round. | 다음엔 발밑의 맨홀 뚜껑이 왜 둥근지 살펴볼게요 | 다음 편 티저: 젖은 거리의 주철 맨홀 뚜껑 실사 클로즈업, 뚜껑 일부가 투명해지는 1초 + AAB 책장 로고 | 편집 | — |
 
@@ -164,6 +164,9 @@ Next time, let's look down at the cover on every manhole, and why it's round.
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 12컷(1, 5, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17), Fast 5컷(2, 3, 4, 7, 9), 편집 1컷. 먼저 **1·6·15번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 신축 현장은 공공 도로에서 직접 촬영한 사진, 1800년대 장면은 퍼블릭 도메인 그림·사진 구도. 결과는 컬러 시네마틱으로
 - 컷 1: 시작(집 앞 드론, 벽 불투명, 계단의 자) → 끝(벽 한 구간 투명 + 스터드)
@@ -230,14 +233,14 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A, drone approaching the finished house, walls solid, the yellow folding rule on the porch steps.
 
-컷1 끝 [편집] Edit the previous image: the camera has stopped in front of the house; one bounded section of the front wall has become clear glass within a thin red edge line, revealing a dense, regular row of pale yellow wooden studs inside. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has stopped in front of the house; one bounded section of the front wall has become clear glass within a thin red edge line, revealing a dense, regular row of pale yellow wooden studs inside. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the continental United States in natural color, a thin glowing red ring around a suburban region. No text.
 
-컷2 끝 Use reference image A from very high altitude: suburban rooftops stretching to the horizon; on a few houses, a bounded patch of roof has become clear glass with a thin red edge, revealing wooden framing beneath.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: A quiet American suburban street at golden hour: a finished two-story wood-sided house with a front porch and a yellow folding carpenter's rule lying on the porch steps; next door, a new house under construction showing its pale yellow stud walls, plywood floor deck and roof trusses against a warm sky. Long shadows, sawdust glinting in the light. from very high altitude: suburban rooftops stretching to the horizon; on a few houses, a bounded patch of roof has become clear glass with a thin red edge, revealing wooden framing beneath. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
@@ -254,63 +257,63 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷5 시작 Use reference image C, macro of a chisel carving a deep mortise into an oak beam.
 
-컷5 끝 [편집] Edit the previous image: the camera has pulled back to a wide view of the crowd straining on ropes to raise the heavy timber wall frame; beside them, two empty, staked-out house lots with no frame at all, each marked with a thin red X. Same light.
+컷5 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has pulled back to a wide view of the crowd straining on ropes to raise the heavy timber wall frame; beside them, two empty, staked-out house lots with no frame at all, each marked with a thin red X. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6 (뒤집힘)
 ```
 컷6 시작 Use reference image C, the raised heavy timber frame standing alone.
 
-컷6 끝 [편집] Edit the previous image: in exactly the same place, the heavy beams have been replaced by a dense frame of dozens of slender pale boards nailed together into walls with regular studs; a hammer rests on a sill plate. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: in exactly the same place, the heavy beams have been replaced by a dense frame of dozens of slender pale boards nailed together into walls with regular studs; a hammer rests on a sill plate. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7
 ```
 컷7 시작 Use reference image D, the saw cutting a log.
 
-컷7 끝 [편집] Edit the previous image: a tall stack of identical new boards stands beside the saw, and the barrel at the nail works is now overflowing with bright iron nails. Same camera.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a tall stack of identical new boards stands beside the saw, and the barrel at the nail works is now overflowing with bright iron nails. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8 (핵심 비주얼)
 ```
 컷8 시작 Use reference image B: on the muddy street, the frame of a small church built from slender, closely spaced boards stands open to the sky; across the street, a few carpenters seen from behind stand with arms folded.
 
-컷8 끝 [편집] Edit the previous image: a faint, semi-transparent silhouette of a round balloon floats just above the church frame's roof line. Same camera.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a faint, semi-transparent silhouette of a round balloon floats just above the church frame's roof line. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9
 ```
 컷9 시작 Use reference image B, fixed camera on an empty staked lot with a stack of boards and a sack of nails.
 
-컷9 끝 [편집] Edit the previous image: a complete two-story wooden house frame of slender studs now stands on the lot; two figures seen from behind are nailing the last boards; the light shows a different time of day. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a complete two-story wooden house frame of slender studs now stands on the lot; two figures seen from behind are nailing the last boards; the light shows a different time of day. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10 (핵심 비주얼)
 ```
 컷10 시작 Use reference image A, macro on a new stud wall at golden hour: a hand (no face) holds the yellow folding rule across the gap between two studs.
 
-컷10 끝 [편집] Edit the previous image: plywood sheathing has been nailed across the wall; a bounded section has become clear glass with a thin red edge, revealing the studs behind it, each traced with a thin glowing red vertical line as if carrying an equal share of the load down to the floor. Same camera.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: plywood sheathing has been nailed across the wall; a bounded section has become clear glass with a thin red edge, revealing the studs behind it, each traced with a thin glowing red vertical line as if carrying an equal share of the load down to the floor. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷11
 ```
 컷11 시작 Use reference image E exactly as it is.
 
-컷11 끝 [편집] Edit the previous image: the floor and ceiling around the open wall have become clear glass in a bounded vertical band with a thin red edge, showing the empty cavities between the studs continuing unbroken from the basement up through every floor to the attic, like tall vertical channels. Same camera.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the floor and ceiling around the open wall have become clear glass in a bounded vertical band with a thin red edge, showing the empty cavities between the studs continuing unbroken from the basement up through every floor to the attic, like tall vertical channels. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷12
 ```
-컷12 시작 Use the image from cut 11's end.
+컷12 시작 Use the last frame of cut 11's generated video (saved as a still).
 
-컷12 끝 [편집] Edit the previous image: a soft, subtle orange glow fills the cavities from the basement upward, reaching the attic at the top of the channels, where a thin red X is drawn. No flames, no smoke. Same camera.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a soft, subtle orange glow fills the cavities from the basement upward, reaching the attic at the top of the channels, where a thin red X is drawn. No flames, no smoke. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13 (핵심 비주얼)
 ```
 컷13 시작 Use reference image A, the house under construction with its first-floor stud walls complete.
 
-컷13 끝 [편집] Edit the previous image: a plywood floor platform now caps the first-floor walls, and second-floor stud walls stand on top of it; a bounded section has become clear glass with a thin red edge, showing that the wall cavities are closed off at the floor platform; a soft orange glow rising in the first-floor cavity stops at the platform. No flames, no smoke. Same camera.
+컷13 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a plywood floor platform now caps the first-floor walls, and second-floor stud walls stand on top of it; a bounded section has become clear glass with a thin red edge, showing that the wall cavities are closed off at the floor platform; a soft orange glow rising in the first-floor cavity stops at the platform. No flames, no smoke. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷14
@@ -322,14 +325,16 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷15 시작 Use reference image F, extreme macro on the cut end of a single two-by-four, the yellow folding rule held against it.
 
-컷15 끝 [편집] Edit the previous image: a thin red rectangular outline marks the original full size around the board's end, with a visible gap between the outline and the smaller real board inside; the rule shows the board's thickness stopping short of the outline. Branded into the end grain like a lumber stamp, the characters "1½ × 3½". Same camera.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a thin red rectangular outline marks the original full size around the board's end, with a visible gap between the outline and the smaller real board inside; the rule shows the board's thickness stopping short of the outline. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷15 큰자막 「1½ × 3½」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷16
 ```
-컷16 시작 Use the image from cut 15's end.
+컷16 시작 Use the last frame of cut 15's generated video (saved as a still).
 
-컷16 끝 Use reference image A from high above at dusk: rows of suburban houses, each with a bounded patch of wall briefly turned to clear glass with a thin red edge, showing the two-by-four frames inside.
+컷16 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: A quiet American suburban street at golden hour: a finished two-story wood-sided house with a front porch and a yellow folding carpenter's rule lying on the porch steps; next door, a new house under construction showing its pale yellow stud walls, plywood floor deck and roof trusses against a warm sky. Long shadows, sawdust glinting in the light. from high above at dusk: rows of suburban houses, each with a bounded patch of wall briefly turned to clear glass with a thin red edge, showing the two-by-four frames inside. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷17

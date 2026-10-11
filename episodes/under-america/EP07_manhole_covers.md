@@ -68,43 +68,43 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | You probably already know why manhole covers are round: so they can't fall in. That's true. But it's only the first reason. Let me show you the rest. | 맨홀 뚜껑이 왜 둥근지 아마 이미 아실 거예요. 안 빠지게 하려고요. 맞아요. 그런데 그건 첫 번째 이유일 뿐입니다. 나머지를 보여 드릴게요 | **L1.** 비 온 뒤 밤의 뉴욕 거리, 젖은 아스팔트 위를 로우 트래킹. 택시 불빛이 반사된 둥근 주철 뚜껑 앞에서 멈추면, 뚜껑 둘레의 도로만 유리처럼 투명해지며 뚜껑이 걸쳐 있는 **안쪽 턱**과 그 아래 깊은 원통 통로가 드러남(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 7–12 | There are millions of them under American streets. | 미국 거리 밑엔 이런 게 수백만 개 있어요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 뉴욕으로 0.5초 줌인. 이어 높은 곳에서 내려다본 밤의 교차로, 도로 위 둥근 뚜껑들이 가로등 불빛에 점점이 빛남 | 프레임→영상 (시작+끝) | Fast |
+| 1 | 0–7 | You probably already know why manhole covers are round: so they can't fall in. That's true. But it's only the first reason. Let me show you the rest. | 맨홀 뚜껑이 왜 둥근지 아마 이미 아실 거예요. 안 빠지게 하려고요. 맞아요. 그런데 그건 첫 번째 이유일 뿐입니다. 나머지를 보여 드릴게요 | **L1.** 비 온 뒤 밤의 뉴욕 거리, 젖은 아스팔트 위를 로우 트래킹. 택시 불빛이 반사된 둥근 주철 뚜껑 앞에서 멈추면, 뚜껑 둘레의 도로만 유리처럼 투명해지며 뚜껑이 걸쳐 있는 **안쪽 턱**과 그 아래 깊은 원통 통로가 드러남(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 7–12 | There are millions of them under American streets. | 미국 거리 밑엔 이런 게 수백만 개 있어요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 뉴욕으로 0.5초 줌인. 이어 높은 곳에서 내려다본 밤의 교차로, 도로 위 둥근 뚜껑들이 가로등 불빛에 점점이 빛남 | 프레임→영상 (시작) | Fast |
 | 3 | 12–18 | A cast-iron cover can weigh anywhere from 100 to 300 pounds. | 주철 뚜껑 하나가 100파운드에서 300파운드까지 나가요 | **L1 → L2.** 뚜껑 표면 매크로, 빗물이 고인 주조 무늬 사이로 ★ 주조로 도드라진 실물 쇠 글자 「300 POUNDS」(가로등 빛과 그림자) | 프레임→영상 (시작) | Quality |
 
 ### 난관 — 무거운 쇠, 깊은 구멍, 쉬지 않는 트럭
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 18–24 | Here's the problem. That heavy iron lid sits over a deep hole, in the middle of a road, with trucks pounding it all day. | 문제는 이거예요. 그 무거운 쇠뚜껑이 깊은 구멍 위에, 도로 한가운데, 트럭이 하루 종일 밟고 지나가는 자리에 놓여 있다는 거죠 | **L1.** 초근접 로우앵글, 시내버스 바퀴가 물을 튀기며 뚜껑을 밟고 지나감. 그 순간 도로가 투명해지며 뚜껑 아래 깊은 통로가 보임 | 프레임→영상 (시작+끝) | Quality |
-| 5 | 24–34 | Now here's the maddening part. Make it square, and a worker who tips it on its edge can drop it straight down the diagonal. Every time it goes back, the corners have to line up. And under traffic, the corners rock and rattle. | 여기서 환장할 노릇이죠. 네모로 만들면, 작업자가 뚜껑을 세웠을 때 대각선으로 그대로 빠질 수 있어요. 다시 덮을 때마다 모서리를 맞춰야 하고요. 차가 지나가면 모서리가 들썩이며 덜컹거립니다 | **막힌 길 · L1 + L4.** 같은 거리, 상상의 **네모 뚜껑** 세 장면을 빠르게: ① 세운 네모 뚜껑이 대각선으로 구멍 속으로 미끄러져 떨어짐(아래가 투명) ② 장갑 낀 손이 모서리를 맞추려 이리저리 돌림 ③ 바퀴가 지나가자 모서리 하나가 들렸다 떨어짐. 세 번 다 얇은 붉은 X | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 34–40 | A square's diagonal is longer than its side. That's the whole trouble. | 네모의 대각선은 변보다 길어요. 문제는 그게 전부입니다 | **L1.** 네모 뚜껑과 네모 구멍 위에 강철 캘리퍼스. 변을 재면 구멍에 맞지만, 대각선으로 돌리자 캘리퍼스가 구멍 폭보다 훨씬 넓게 벌어짐. 그 차이에 붉은 치수선 | 프레임→영상 (시작+끝) | Fast |
+| 4 | 18–24 | Here's the problem. That heavy iron lid sits over a deep hole, in the middle of a road, with trucks pounding it all day. | 문제는 이거예요. 그 무거운 쇠뚜껑이 깊은 구멍 위에, 도로 한가운데, 트럭이 하루 종일 밟고 지나가는 자리에 놓여 있다는 거죠 | **L1.** 초근접 로우앵글, 시내버스 바퀴가 물을 튀기며 뚜껑을 밟고 지나감. 그 순간 도로가 투명해지며 뚜껑 아래 깊은 통로가 보임 | 프레임→영상 (시작) | Quality |
+| 5 | 24–34 | Now here's the maddening part. Make it square, and a worker who tips it on its edge can drop it straight down the diagonal. Every time it goes back, the corners have to line up. And under traffic, the corners rock and rattle. | 여기서 환장할 노릇이죠. 네모로 만들면, 작업자가 뚜껑을 세웠을 때 대각선으로 그대로 빠질 수 있어요. 다시 덮을 때마다 모서리를 맞춰야 하고요. 차가 지나가면 모서리가 들썩이며 덜컹거립니다 | **막힌 길 · L1 + L4.** 같은 거리, 상상의 **네모 뚜껑** 세 장면을 빠르게: ① 세운 네모 뚜껑이 대각선으로 구멍 속으로 미끄러져 떨어짐(아래가 투명) ② 장갑 낀 손이 모서리를 맞추려 이리저리 돌림 ③ 바퀴가 지나가자 모서리 하나가 들렸다 떨어짐. 세 번 다 얇은 붉은 X | 프레임→영상 (시작) + Extend 2초 | Quality |
+| 6 | 34–40 | A square's diagonal is longer than its side. That's the whole trouble. | 네모의 대각선은 변보다 길어요. 문제는 그게 전부입니다 | **L1.** 네모 뚜껑과 네모 구멍 위에 강철 캘리퍼스. 변을 재면 구멍에 맞지만, 대각선으로 돌리자 캘리퍼스가 구멍 폭보다 훨씬 넓게 벌어짐. 그 차이에 붉은 치수선 | 프레임→영상 (시작) | Fast |
 
 ### 해법 — 뚜껑이 아니라 구멍부터
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 40–48 | And this is where the thinking flips. Instead of starting with the lid, start with the hole. Underground, a round shaft is the strongest shape against the squeeze of the soil, and it uses the least material. | 이때 발상을 전환합니다. 뚜껑부터 생각하는 대신, 구멍부터 생각하는 거예요. 땅속에선 원통형 통로가 흙이 조이는 힘을 가장 잘 버티고, 재료도 가장 적게 듭니다 | **핵심 비주얼 ① · L3.** 뚜껑에서 도로를 뚫고 수직 하강. 프리캐스트 콘크리트 링을 쌓은 원통 통로, 쇠 사다리 발판. 통로 바깥 흙이 투명해지며 사방에서 고르게 조여 오는 흙의 압력이 은은한 붉은 화살표로, 원통 벽이 그 힘을 고르게 받아 냄 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 8 | 48–54 | A square shaft would bend at the middle of each wall. A round one carries the load evenly, all the way around. | 네모 통로라면 벽 한가운데가 휘었을 거예요. 둥근 통로는 그 힘을 둘레 전체로 고르게 나눠 받습니다 | **L3.** 같은 구도에서 상상의 네모 통로로 잠깐 바뀌어 벽 가운데가 안쪽으로 살짝 휘고 붉은 X → 다시 둥근 통로로 돌아와 고르게 버팀 | 프레임→영상 (시작+끝) | Fast |
-| 9 | 54–62 | Here's the clever part. Once the hole is round, the lid gets every advantage for free. It's the same width in every direction, so no matter how you turn it, it can't fall through. | 여기가 영리한 부분이에요. 구멍이 둥글어지는 순간, 뚜껑은 모든 장점을 공짜로 얻습니다. 어느 방향으로 재도 폭이 같아서, 어떻게 돌려도 빠지지 않아요 | **핵심 비주얼 ② · L1.** 둥근 뚜껑 둘레를 강철 캘리퍼스가 한 바퀴 돌며 잼. 벌어진 폭이 끝까지 똑같고, 뚜껑을 세워 아무리 기울여도 안쪽 턱에 걸려 구멍으로 못 들어감(아래 투명) | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 10 | 62–69 | It drops back in without lining anything up. And you don't have to lift 300 pounds. You can roll it. | 다시 덮을 때 아무것도 맞출 필요가 없고요. 300파운드를 들어 올릴 필요도 없어요. 굴리면 되니까요 | **L4.** 쇠갈고리로 뚜껑을 들어 세운 뒤 젖은 아스팔트 위를 바퀴처럼 굴려 옮기는 손(얼굴 없음). 다시 굴려 와서 "툭" 떨어뜨리면 제자리에 딱 앉음 | 프레임→영상 (시작+끝) | Fast |
-| 11 | 69–76 | A circle also takes less metal than a square of the same width, and it can be spun on a lathe and machined perfectly flat. | 원은 같은 폭의 네모보다 쇠도 덜 들고, 선반에 돌려 완벽하게 평평하게 깎을 수 있어요 | **L2.** 주물 공장, 래들에서 둥근 모래 거푸집으로 주황 쇳물이 쏟아짐 → 식은 뚜껑이 선반 위에서 돌며 테두리가 매끈하게 깎임, 쇳가루가 반짝임 ★ 공장 바닥에 세운 실물 주철 글자 「ANY DIRECTION」 | 프레임→영상 (시작+끝) | Quality |
-| 12 | 76–83 | And if the casting warps a little, it warps in the middle, while the rim still sits evenly. So it doesn't rattle when the trucks roll over. | 그리고 주물이 조금 휘어도 가운데가 휘고, 테두리는 여전히 고르게 놓여요. 그래서 트럭이 지나가도 덜컹거리지 않습니다 | **L2 → L1.** 식어 가는 뚜껑의 측면 매크로, 가운데가 아주 살짝 오목해지고 테두리는 수평 그대로(테두리에 얇은 붉은 수평선). 이어 밤 거리, 버스 바퀴가 지나가도 뚜껑이 미동도 없음 | 프레임→영상 (시작+끝) | Fast |
+| 7 | 40–48 | And this is where the thinking flips. Instead of starting with the lid, start with the hole. Underground, a round shaft is the strongest shape against the squeeze of the soil, and it uses the least material. | 이때 발상을 전환합니다. 뚜껑부터 생각하는 대신, 구멍부터 생각하는 거예요. 땅속에선 원통형 통로가 흙이 조이는 힘을 가장 잘 버티고, 재료도 가장 적게 듭니다 | **핵심 비주얼 ① · L3.** 뚜껑에서 도로를 뚫고 수직 하강. 프리캐스트 콘크리트 링을 쌓은 원통 통로, 쇠 사다리 발판. 통로 바깥 흙이 투명해지며 사방에서 고르게 조여 오는 흙의 압력이 은은한 붉은 화살표로, 원통 벽이 그 힘을 고르게 받아 냄 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 8 | 48–54 | A square shaft would bend at the middle of each wall. A round one carries the load evenly, all the way around. | 네모 통로라면 벽 한가운데가 휘었을 거예요. 둥근 통로는 그 힘을 둘레 전체로 고르게 나눠 받습니다 | **L3.** 같은 구도에서 상상의 네모 통로로 잠깐 바뀌어 벽 가운데가 안쪽으로 살짝 휘고 붉은 X → 다시 둥근 통로로 돌아와 고르게 버팀 | 프레임→영상 (시작) | Fast |
+| 9 | 54–62 | Here's the clever part. Once the hole is round, the lid gets every advantage for free. It's the same width in every direction, so no matter how you turn it, it can't fall through. | 여기가 영리한 부분이에요. 구멍이 둥글어지는 순간, 뚜껑은 모든 장점을 공짜로 얻습니다. 어느 방향으로 재도 폭이 같아서, 어떻게 돌려도 빠지지 않아요 | **핵심 비주얼 ② · L1.** 둥근 뚜껑 둘레를 강철 캘리퍼스가 한 바퀴 돌며 잼. 벌어진 폭이 끝까지 똑같고, 뚜껑을 세워 아무리 기울여도 안쪽 턱에 걸려 구멍으로 못 들어감(아래 투명) | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 10 | 62–69 | It drops back in without lining anything up. And you don't have to lift 300 pounds. You can roll it. | 다시 덮을 때 아무것도 맞출 필요가 없고요. 300파운드를 들어 올릴 필요도 없어요. 굴리면 되니까요 | **L4.** 쇠갈고리로 뚜껑을 들어 세운 뒤 젖은 아스팔트 위를 바퀴처럼 굴려 옮기는 손(얼굴 없음). 다시 굴려 와서 "툭" 떨어뜨리면 제자리에 딱 앉음 | 프레임→영상 (시작) | Fast |
+| 11 | 69–76 | A circle also takes less metal than a square of the same width, and it can be spun on a lathe and machined perfectly flat. | 원은 같은 폭의 네모보다 쇠도 덜 들고, 선반에 돌려 완벽하게 평평하게 깎을 수 있어요 | **L2.** 주물 공장, 래들에서 둥근 모래 거푸집으로 주황 쇳물이 쏟아짐 → 식은 뚜껑이 선반 위에서 돌며 테두리가 매끈하게 깎임, 쇳가루가 반짝임 ★ 공장 바닥에 세운 실물 주철 글자 「ANY DIRECTION」 | 프레임→영상 (시작) | Quality |
+| 12 | 76–83 | And if the casting warps a little, it warps in the middle, while the rim still sits evenly. So it doesn't rattle when the trucks roll over. | 그리고 주물이 조금 휘어도 가운데가 휘고, 테두리는 여전히 고르게 놓여요. 그래서 트럭이 지나가도 덜컹거리지 않습니다 | **L2 → L1.** 식어 가는 뚜껑의 측면 매크로, 가운데가 아주 살짝 오목해지고 테두리는 수평 그대로(테두리에 얇은 붉은 수평선). 이어 밤 거리, 버스 바퀴가 지나가도 뚜껑이 미동도 없음 | 프레임→영상 (시작) | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 13 | 83–88 | But here's the part I'd love you to remember. Round isn't the only answer. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 둥근 게 유일한 답은 아닙니다 | **L1.** 밤 거리 뚜껑 클로즈업에서 카메라가 천천히 위로 빠짐 | 프레임→영상 (시작) | Quality |
-| 14 | 88–98 | In Britain, nearly all manhole covers are square. And in Nashua, New Hampshire, the city once used triangle covers that point the way the water flows. | 영국에선 맨홀 뚜껑이 거의 다 네모예요. 그리고 뉴햄프셔 내슈아에선 한때 물이 흐르는 방향을 가리키는 삼각형 뚜껑을 썼습니다 | **핵심 비주얼 ③ · L5 + L6.** 흐린 런던 석재 보도에 네모 주철 뚜껑들(빨간 우체통은 흐릿하게) → 디졸브, 가을 낙엽 위 뉴잉글랜드 거리의 삼각형 뚜껑. 도로가 투명해지며 아래 하수 흐름이 삼각형 꼭짓점 방향으로 흐름(붉은 화살표 하나) | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 15 | 98–105 | And mathematically, a lid doesn't have to be round to stay put. Any shape that's the same width in every direction would work. A circle is just the easiest to make. | 수학적으로도, 안 빠지기 위해 꼭 둥글 필요는 없어요. 어느 방향으로 재도 폭이 같은 도형이면 다 됩니다. 원이 만들기 가장 쉬울 뿐이에요 | **L2.** 주물 공장 작업대, 모서리가 둥근 삼각형 모양(정폭 도형)의 쇳덩이 둘레를 같은 강철 캘리퍼스가 돌며 잼. 폭이 끝까지 똑같음. 옆에 둥근 뚜껑 | 프레임→영상 (시작+끝) | Quality |
-| 16 | 105–112 | So, after all the geometry, the simplest answer is still the right one. Manhole covers are round because manholes are round. | 그러니 온갖 기하학을 지나고 나면, 가장 단순한 답이 여전히 맞는 답이에요. 맨홀 뚜껑이 둥근 건, 맨홀이 둥글기 때문입니다 | **L1 → L3.** 새벽 푸른 거리, 뚜껑 위에서 다시 도로를 뚫고 하강하면 둥근 뚜껑과 그 아래 둥근 통로가 한 줄로 이어짐. 붉은 원 테두리 하나가 뚜껑에서 통로 바닥까지 겹겹이 이어짐 | 프레임→영상 (시작+끝) | Quality |
+| 14 | 88–98 | In Britain, nearly all manhole covers are square. And in Nashua, New Hampshire, the city once used triangle covers that point the way the water flows. | 영국에선 맨홀 뚜껑이 거의 다 네모예요. 그리고 뉴햄프셔 내슈아에선 한때 물이 흐르는 방향을 가리키는 삼각형 뚜껑을 썼습니다 | **핵심 비주얼 ③ · L5 + L6.** 흐린 런던 석재 보도에 네모 주철 뚜껑들(빨간 우체통은 흐릿하게) → 디졸브, 가을 낙엽 위 뉴잉글랜드 거리의 삼각형 뚜껑. 도로가 투명해지며 아래 하수 흐름이 삼각형 꼭짓점 방향으로 흐름(붉은 화살표 하나) | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 15 | 98–105 | And mathematically, a lid doesn't have to be round to stay put. Any shape that's the same width in every direction would work. A circle is just the easiest to make. | 수학적으로도, 안 빠지기 위해 꼭 둥글 필요는 없어요. 어느 방향으로 재도 폭이 같은 도형이면 다 됩니다. 원이 만들기 가장 쉬울 뿐이에요 | **L2.** 주물 공장 작업대, 모서리가 둥근 삼각형 모양(정폭 도형)의 쇳덩이 둘레를 같은 강철 캘리퍼스가 돌며 잼. 폭이 끝까지 똑같음. 옆에 둥근 뚜껑 | 프레임→영상 (시작) | Quality |
+| 16 | 105–112 | So, after all the geometry, the simplest answer is still the right one. Manhole covers are round because manholes are round. | 그러니 온갖 기하학을 지나고 나면, 가장 단순한 답이 여전히 맞는 답이에요. 맨홀 뚜껑이 둥근 건, 맨홀이 둥글기 때문입니다 | **L1 → L3.** 새벽 푸른 거리, 뚜껑 위에서 다시 도로를 뚫고 하강하면 둥근 뚜껑과 그 아래 둥근 통로가 한 줄로 이어짐. 붉은 원 테두리 하나가 뚜껑에서 통로 바닥까지 겹겹이 이어짐 | 프레임→영상 (시작) | Quality |
 | 17 | 112–116 | — | — | **L1.** 새벽, 빈 거리의 둥근 뚜껑 위로 김이 천천히 오르고 첫 버스가 지나감. 뚜껑 미동 없음. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 18 | 116–122 | Next time, let's visit the Empire State Building, and the trick that let it rise in just 410 days. | 다음엔 엠파이어 스테이트 빌딩으로 가서, 410일 만에 올라간 비결을 볼게요 | 다음 편 티저: 1930년 맨해튼 공중의 철골 실사 컷, 빌딩 벽 일부가 투명해지는 1초 + AAB 책장 로고 | 편집 | — |
 
@@ -173,6 +173,9 @@ Next time, let's visit the Empire State Building, and the trick that let it rise
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 12컷(1, 3, 4, 5, 7, 9, 11, 13, 14, 15, 16, 17), Fast 5컷(2, 6, 8, 10, 12), 편집 1컷. 먼저 **1·9·14번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 맨홀 뚜껑·거리 사진은 공공 도로에서 직접 촬영. 뚜껑 표면의 실제 도시명·제조사명 주조 글자는 생성물에서 무늬로 대체
 - 컷 1: 시작(로우 트래킹, 도로 불투명) → 끝(뚜껑 앞, 둘레 도로 투명 + 안쪽 턱 + 원통 통로)
@@ -240,14 +243,14 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A, the camera gliding low over the wet asphalt toward the manhole cover, the road opaque.
 
-컷1 끝 [편집] Edit the previous image: the camera has stopped just in front of the cover; a bounded ring of asphalt around it has become clear glass with a thin red edge line, revealing the iron frame's inner ledge on which the cover rests, and below it the round concrete shaft from reference image C descending into darkness. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has stopped just in front of the cover; a bounded ring of asphalt around it has become clear glass with a thin red edge line, revealing the iron frame's inner ledge on which the cover rests, and below it the round concrete shaft from reference image C descending into darkness. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the northeastern United States at night in natural color, city lights glowing, a thin red ring around New York City. No text.
 
-컷2 끝 Use reference image A from high above a wet intersection at night: several round manhole covers glinting under the streetlights across the lanes.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: A New York City street at night just after rain: wet black asphalt mirroring yellow taxi headlights and red and green traffic signals, a round cast-iron manhole cover in the center lane with a raised grip pattern and rainwater pooled in it, a soft wisp of steam rising from it, brick and brownstone facades and fire escapes on either side, a city bus approaching in the distance. Very low camera, almost touching the road. from high above a wet intersection at night: several round manhole covers glinting under the streetlights across the lanes. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
@@ -259,68 +262,70 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷4 시작 Use reference image A, extreme low angle beside the cover as a bus wheel approaches.
 
-컷4 끝 [편집] Edit the previous image: the bus wheel is directly on the cover, spraying water; a bounded patch of asphalt beside it has become clear glass with a thin red edge, showing the deep shaft beneath the cover. Same camera.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the bus wheel is directly on the cover, spraying water; a bounded patch of asphalt beside it has become clear glass with a thin red edge, showing the deep shaft beneath the cover. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷5 (막힌 길) — 세 장면
 ```
 컷5-① 시작 Use reference image A, but the cover and opening are square; the square cover is tipped up on its edge over the hole.
-컷5-① 끝 [편집] The square cover has turned diagonally and slipped down into the hole, visible through a bounded clear-glass patch of asphalt with a thin red edge; a thin red X over the opening. Same camera.
+컷5-① Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: The square cover has turned diagonally and slipped down into the hole, visible through a bounded clear-glass patch of asphalt with a thin red edge; a thin red X over the opening. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 
 컷5-② 시작 Use reference image D, but the cover is square and sits rotated, its corners not matching the square frame.
-컷5-② 끝 [편집] The gloved hands have turned it partly but the corners still don't line up; a thin red X beside it. Same camera.
+컷5-② Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: The gloved hands have turned it partly but the corners still don't line up; a thin red X beside it. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 
 컷5-③ 시작 Use reference image A with a square cover seated, a bus wheel approaching.
-컷5-③ 끝 [편집] As the wheel passes, one corner of the square cover has lifted slightly out of its frame; a thin red X beside it. Same camera.
+컷5-③ Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: As the wheel passes, one corner of the square cover has lifted slightly out of its frame; a thin red X beside it. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6
 ```
 컷6 시작 [STYLE] Top-down close view of a square cast-iron cover lying beside its square opening on wet asphalt, a steel machinist's caliper resting across the cover from edge to edge, its jaws matching the opening's width.
 
-컷6 끝 [편집] Edit the previous image: the caliper has been turned to measure the cover corner to corner; its jaws are spread noticeably wider than the opening, and a thin red dimension line marks the difference. No numbers. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the caliper has been turned to measure the cover corner to corner; its jaws are spread noticeably wider than the opening, and a thin red dimension line marks the difference. No numbers. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7 (뒤집힘)
 ```
 컷7 시작 Use reference image A, looking straight down at the round cover.
 
-컷7 끝 Use reference image C, but the soil around the concrete shaft has become clear glass within a bounded band with a thin red edge, showing the earth pressing inward evenly from every side, indicated by several thin glowing red arrows pointing toward the round wall.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Looking straight down inside a round manhole shaft: stacked precast concrete riser rings with visible joints, iron ladder rungs set into the wall, the circular opening of the street far above with a sliver of night sky and streetlight, and far below, a channel of flowing water. Damp, echoing, cool light. but the soil around the concrete shaft has become clear glass within a bounded band with a thin red edge, showing the earth pressing inward evenly from every side, indicated by several thin glowing red arrows pointing toward the round wall. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8
 ```
-컷8 시작 Use the image from cut 7's end, but the shaft is square: the middle of each flat wall bows slightly inward under the red arrows, with a thin red X.
+컷8 시작 Use the last frame of cut 7's generated video (saved as a still), but the shaft is square: the middle of each flat wall bows slightly inward under the red arrows, with a thin red X.
 
-컷8 끝 Use the image from cut 7's end exactly as it is: the round shaft holding evenly.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot settles back into the state of the last frame of cut 7. the round shaft holding evenly. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9 (핵심 비주얼)
 ```
 컷9 시작 [STYLE] Close view of a round cast-iron manhole cover on wet asphalt at night, a steel machinist's caliper spanning it at one angle, its jaws touching both edges.
 
-컷9 끝 [편집] Edit the previous image: the caliper has moved a quarter of the way around the cover and its jaws are spread exactly the same width; beside it, the cover has been tipped up on its edge over the opening and rests on the inner ledge, visible through a bounded clear-glass patch of asphalt with a thin red edge, unable to drop in. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the caliper has moved a quarter of the way around the cover and its jaws are spread exactly the same width; beside it, the cover has been tipped up on its edge over the opening and rests on the inner ledge, visible through a bounded clear-glass patch of asphalt with a thin red edge, unable to drop in. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10
 ```
 컷10 시작 Use reference image D: the gloved hands lifting the edge of the round cover with the hook.
 
-컷10 끝 [편집] Edit the previous image: the cover is standing on its edge and being rolled like a wheel along the wet asphalt by the gloved hands. Same camera.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the cover is standing on its edge and being rolled like a wheel along the wet asphalt by the gloved hands. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷11
 ```
 컷11 시작 Use reference image B, the ladle pouring molten iron into a round mold.
 
-컷11 끝 [편집] Edit the previous image: a finished round cover spins on the lathe as its rim is machined smooth, bright metal shavings flying; standing on the foundry floor in the foreground, real cast-iron 3D letters reading "ANY DIRECTION" catch the orange glow and cast shadows. Same style.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a finished round cover spins on the lathe as its rim is machined smooth, bright metal shavings flying; Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷11 큰자막 「ANY DIRECTION」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷12
 ```
 컷12 시작 [STYLE] Side macro view of a round cast-iron cover cooling on a flat steel table in the foundry, a thin red horizontal line along the table surface under its rim.
 
-컷12 끝 Use reference image A: a bus wheel rolling over the round cover at night, the cover perfectly still in its frame.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: A New York City street at night just after rain: wet black asphalt mirroring yellow taxi headlights and red and green traffic signals, a round cast-iron manhole cover in the center lane with a raised grip pattern and rainwater pooled in it, a soft wisp of steam rising from it, brick and brownstone facades and fire escapes on either side, a city bus approaching in the distance. Very low camera, almost touching the road. a bus wheel rolling over the round cover at night, the cover perfectly still in its frame. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13
@@ -332,21 +337,21 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷14 시작 Use reference image E exactly as it is.
 
-컷14 끝 [편집] Use reference image F; a bounded patch of asphalt around the triangular cover has become clear glass with a thin red edge, revealing a sewer channel beneath whose water flows toward the direction one corner of the triangle points, marked with a single thin red arrow.
+컷14 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: A street in a small New England city in autumn: on the asphalt, a triangular cast-iron utility cover with a raised pattern, fallen maple leaves around it, clapboard houses and a church spire softly out of focus. Warm afternoon light. ; a bounded patch of asphalt around the triangular cover has become clear glass with a thin red edge, revealing a sewer channel beneath whose water flows toward the direction one corner of the triangle points, marked with a single thin red arrow. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷15
 ```
 컷15 시작 Use reference image B, close on a workbench: a flat iron casting shaped like a triangle with rounded, curved sides (a shape of constant width), a steel caliper spanning it at one angle; a round cover beside it.
 
-컷15 끝 [편집] Edit the previous image: the caliper has moved around to a different angle on the rounded-triangle casting, its jaws spread exactly the same width as before. Same camera.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the caliper has moved around to a different angle on the rounded-triangle casting, its jaws spread exactly the same width as before. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷16
 ```
 컷16 시작 Use reference image A at blue dawn, looking down at the round cover.
 
-컷16 끝 [편집] The camera has descended through a bounded clear-glass patch of asphalt into the shaft; a series of thin red circles repeat from the cover down through each concrete ring to the bottom, showing round lid and round hole as one shape.
+컷16 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: The camera has descended through a bounded clear-glass patch of asphalt into the shaft; a series of thin red circles repeat from the cover down through each concrete ring to the bottom, showing round lid and round hole as one shape. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷17

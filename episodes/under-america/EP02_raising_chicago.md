@@ -65,13 +65,13 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | Chicago didn't drain its swamp. It picked up the whole downtown and lifted it out. Let me show you how. | 시카고는 늪을 빼낸 게 아니에요. 다운타운을 통째로 들어서 꺼냈습니다. 어떻게 했는지 보여 드릴게요 | **L1.** 비 온 뒤 1850년대 레이크 스트리트, 진흙 위를 낮게 트래킹. 벽돌 상가 한 채 앞에서 멈추면 그 건물 기초 아래 땅만 유리처럼 투명해지고(붉은 테두리), 건물이 1인치쯤 떠 있는 게 보임 | 프레임→영상 (시작+끝) | Quality |
+| 1 | 0–7 | Chicago didn't drain its swamp. It picked up the whole downtown and lifted it out. Let me show you how. | 시카고는 늪을 빼낸 게 아니에요. 다운타운을 통째로 들어서 꺼냈습니다. 어떻게 했는지 보여 드릴게요 | **L1.** 비 온 뒤 1850년대 레이크 스트리트, 진흙 위를 낮게 트래킹. 벽돌 상가 한 채 앞에서 멈추면 그 건물 기초 아래 땅만 유리처럼 투명해지고(붉은 테두리), 건물이 1인치쯤 떠 있는 게 보임 | 프레임→영상 (시작) | Quality |
 | 2 | 7–15 | In the 1850s, the city sat barely above Lake Michigan. The streets were mud, and cholera came back summer after summer. | 1850년대 이 도시는 미시간호보다 겨우 조금 높았어요. 거리는 진흙이었고, 콜레라가 여름마다 돌아왔습니다 | **L1 → 지도.** 실사 위성 느낌의 미국 지도에서 시카고로 0.5초 줌인 후, 거리 끝에 미시간호 수면이 거리와 거의 같은 높이로 보이는 와이드. 바퀴가 진흙에 빠진 마차, 고인 물웅덩이. 모퉁이의 측량 수준표, 아래 붉은 표지가 거리 높이에 | 프레임→영상 (시작) | Fast |
 | 3 | 15–22 | So in 1855, the city brought in an engineer, Ellis Chesbrough, to build the first comprehensive sewer system in the United States. | 그래서 1855년, 시는 엔지니어 엘리스 체스브로를 불러 미국 최초의 종합 하수 체계를 짓게 했어요 | **L6.** 램프 빛 제도실, 잉크로 그린 거리 격자 도면 위로 붉은 하수선이 펜 끝에서 그려져 나감(글자 없음). 엔지니어는 손과 소매만 | 프레임→영상 (시작) | Fast |
 
@@ -79,29 +79,29 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 22–32 | Here's the problem. Sewers need a slope, and Chicago had none. Now here's the maddening part. Dig down, and you hit water. Build up, and the buildings are already there. | 문제는 이거예요. 하수관엔 경사가 필요한데 시카고엔 없었죠. 여기서 환장할 노릇입니다. 땅을 파면 물이 나오고, 위로 쌓으려니 건물이 이미 서 있어요 | **핵심 비주얼 ①(막힌 길) · L1.** 진흙 거리가 국소적으로 투명해져 수평 벽돌 하수관 속 물이 고여 꿈쩍 않음. "Dig down"에 인부의 삽이 진흙을 파자 구덩이에 지하수가 순식간에 차오름. "Build up"에 카메라가 옆으로 돌면 흙을 쌓을 자리에 벽돌 상가 기초가 꽉 들어차 있음. 두 곳에 얇은 붉은 X | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 4b | 32–38 | And this is where the thinking flips. He proposed the opposite: raise the city. | 이때 발상을 전환합니다. 그는 반대를 제안해요. 도시를 높이자 | **핵심 비주얼 ②(뒤집힘) · L1.** 같은 거리. 투명한 땅속에서 하수관이 비스듬히 기울고, 고였던 물이 흐르기 시작. 동시에 모퉁이 수준표에 두 번째 붉은 표지가 생겨 위로 미끄러져 올라감 | 프레임→영상 (시작+끝) | Quality |
-| 5 | 38–48 | Lay the sewers on top of the existing streets, bury them, and pave a new street above. The grade would rise between four and fourteen feet. | 하수관을 기존 길 위에 놓고, 흙으로 덮고, 그 위에 새 길을 포장한다. 지반은 4피트에서 14피트까지 올라갑니다 | **L1.** 같은 거리 고정 카메라 타임랩스: 옛 진흙 길 위에 벽돌 하수관이 놓이고, 수레로 흙이 쏟아져 덮이고, 새 돌포장이 깔림. 거리가 상가 1층 창문 높이까지 올라옴 ★ 쌓인 흙더미에 박힌 실물 주철 글자 「4 TO 14 FEET」(그림자) | 프레임→영상 (시작+끝) + Extend 2초 | Quality |
-| 6 | 48–57 | The fill came from the river. Dredging made the Chicago River deeper for the sewage, and the mud from its bottom became the new ground. | 흙은 강에서 왔어요. 준설로 시카고강이 하수를 받을 만큼 깊어졌고, 강바닥 진흙이 새 땅이 됐습니다 | **L2.** 시카고강 하구, 증기 준설선의 버킷이 강바닥 진흙을 퍼 올림. 수면이 투명해져 강바닥이 깊게 파이는 게 보이고, 진흙을 실은 수레 행렬이 강둑을 올라 거리 쪽으로 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 4 | 22–32 | Here's the problem. Sewers need a slope, and Chicago had none. Now here's the maddening part. Dig down, and you hit water. Build up, and the buildings are already there. | 문제는 이거예요. 하수관엔 경사가 필요한데 시카고엔 없었죠. 여기서 환장할 노릇입니다. 땅을 파면 물이 나오고, 위로 쌓으려니 건물이 이미 서 있어요 | **핵심 비주얼 ①(막힌 길) · L1.** 진흙 거리가 국소적으로 투명해져 수평 벽돌 하수관 속 물이 고여 꿈쩍 않음. "Dig down"에 인부의 삽이 진흙을 파자 구덩이에 지하수가 순식간에 차오름. "Build up"에 카메라가 옆으로 돌면 흙을 쌓을 자리에 벽돌 상가 기초가 꽉 들어차 있음. 두 곳에 얇은 붉은 X | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 4b | 32–38 | And this is where the thinking flips. He proposed the opposite: raise the city. | 이때 발상을 전환합니다. 그는 반대를 제안해요. 도시를 높이자 | **핵심 비주얼 ②(뒤집힘) · L1.** 같은 거리. 투명한 땅속에서 하수관이 비스듬히 기울고, 고였던 물이 흐르기 시작. 동시에 모퉁이 수준표에 두 번째 붉은 표지가 생겨 위로 미끄러져 올라감 | 프레임→영상 (시작) | Quality |
+| 5 | 38–48 | Lay the sewers on top of the existing streets, bury them, and pave a new street above. The grade would rise between four and fourteen feet. | 하수관을 기존 길 위에 놓고, 흙으로 덮고, 그 위에 새 길을 포장한다. 지반은 4피트에서 14피트까지 올라갑니다 | **L1.** 같은 거리 고정 카메라 타임랩스: 옛 진흙 길 위에 벽돌 하수관이 놓이고, 수레로 흙이 쏟아져 덮이고, 새 돌포장이 깔림. 거리가 상가 1층 창문 높이까지 올라옴 ★ 쌓인 흙더미에 박힌 실물 주철 글자 「4 TO 14 FEET」(그림자) | 프레임→영상 (시작) + Extend 2초 | Quality |
+| 6 | 48–57 | The fill came from the river. Dredging made the Chicago River deeper for the sewage, and the mud from its bottom became the new ground. | 흙은 강에서 왔어요. 준설로 시카고강이 하수를 받을 만큼 깊어졌고, 강바닥 진흙이 새 땅이 됐습니다 | **L2.** 시카고강 하구, 증기 준설선의 버킷이 강바닥 진흙을 퍼 올림. 수면이 투명해져 강바닥이 깊게 파이는 게 보이고, 진흙을 실은 수레 행렬이 강둑을 올라 거리 쪽으로 | 프레임→영상 (시작) + Extend 1초 | Quality |
 
 ### 해법 — 들어올린다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 57–65 | But the buildings still stood at the old level. They didn't tear them down. They lifted them. | 하지만 건물들은 여전히 옛 높이에 있었죠. 부수지 않았습니다. 들어올렸어요 | **L1.** 새로 올라온 돌포장 거리에서 보면 상가 1층 창문이 거리보다 낮아 반쯤 묻힌 모습, 행인이 계단을 내려가 가게로 들어감. 마지막에 건물 윤곽에 얇은 붉은 선이 돌며 아주 살짝 떠오름 | 프레임→영상 (시작+끝) | Fast |
-| 8 | 65–75 | Here's the clever part. Crews slid hundreds of jackscrews under a foundation. On a signal, each worker gave his screws a quarter turn. Then again. And again. | 여기가 영리한 부분이에요. 인부들이 기초 밑에 잭스크루 수백 개를 밀어 넣었어요. 신호에 맞춰 각자 자기 나사를 4분의 1바퀴 돌립니다. 또 돌리고, 또 돌리고 | **핵심 비주얼 ③ · L3.** 건물 아래로 카메라가 미끄러져 들어감. 어둑한 기초 밑, 나무 받침 위 주철 잭스크루가 줄지어 서 있고, 인부들 뒷모습이 쇠막대를 동시에 4분의 1바퀴 돌림. "Then again. And again."에 맞춰 위의 벽돌 바닥이 툭, 툭 오름. 틈으로 오후 햇살 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 9 | 75–83 | In 1860, half a block on Lake Street rose as one piece: about an acre of brick, some 35,000 tons, on 6,000 screws, 600 men, four days. | 1860년, 레이크 스트리트 반 블록이 한 덩어리로 올라갔어요. 벽돌 건물 약 1에이커, 약 3만 5천 톤, 나사 6천 개, 인부 6백 명, 나흘 | **핵심 비주얼 ④ · L3.** 크레인 숏, 블록 건너편 지붕 높이에서. 상가 여러 채가 하나로 이어진 블록 전체가 붉은 윤곽으로 묶여 함께 떠오르고, 아래 땅이 투명해져 잭스크루가 숲처럼 빽빽함 ★ 블록 옆 나무 비계에 걸린 실물 주철 글자 「6,000 SCREWS」 | 프레임→영상 (시작+끝) | Quality |
-| 10 | 83–88 | And the shops stayed open the whole time. Customers kept walking in while the floor rose beneath them. | 그리고 그동안 상점은 계속 영업했어요. 바닥이 올라가는 동안에도 손님들이 드나들었죠 | **L3.** 상점 정면, 유리 진열창에 오후 햇살. 문 앞 임시 나무 계단으로 손님(뒷모습)이 드나들고, 건물이 아주 느리게 오르며 계단이 한 단 늘어남 | 프레임→영상 (시작+끝) | Fast |
-| 11 | 88–97 | One of the contractors was a young George Pullman, who lifted a six-story hotel with the guests still inside. He'd later be famous for railroad sleeping cars. | 시공자 중 한 명은 젊은 조지 풀먼이었어요. 6층 호텔을 투숙객이 있는 채로 들어올렸죠. 뒤에 철도 침대차로 유명해지는 사람입니다 | **L3.** 황혼, 6층 벽돌 호텔의 창마다 가스등이 켜져 있고 건물 전체가 잭스크루 위에서 천천히 떠오름. 마지막 1초, 호텔 창 불빛의 줄이 그대로 이어지며 밤 철로 위 침대차 객차 창 불빛으로 디졸브 | 프레임→영상 (시작+끝) + Extend 1초 | Fast |
+| 7 | 57–65 | But the buildings still stood at the old level. They didn't tear them down. They lifted them. | 하지만 건물들은 여전히 옛 높이에 있었죠. 부수지 않았습니다. 들어올렸어요 | **L1.** 새로 올라온 돌포장 거리에서 보면 상가 1층 창문이 거리보다 낮아 반쯤 묻힌 모습, 행인이 계단을 내려가 가게로 들어감. 마지막에 건물 윤곽에 얇은 붉은 선이 돌며 아주 살짝 떠오름 | 프레임→영상 (시작) | Fast |
+| 8 | 65–75 | Here's the clever part. Crews slid hundreds of jackscrews under a foundation. On a signal, each worker gave his screws a quarter turn. Then again. And again. | 여기가 영리한 부분이에요. 인부들이 기초 밑에 잭스크루 수백 개를 밀어 넣었어요. 신호에 맞춰 각자 자기 나사를 4분의 1바퀴 돌립니다. 또 돌리고, 또 돌리고 | **핵심 비주얼 ③ · L3.** 건물 아래로 카메라가 미끄러져 들어감. 어둑한 기초 밑, 나무 받침 위 주철 잭스크루가 줄지어 서 있고, 인부들 뒷모습이 쇠막대를 동시에 4분의 1바퀴 돌림. "Then again. And again."에 맞춰 위의 벽돌 바닥이 툭, 툭 오름. 틈으로 오후 햇살 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 9 | 75–83 | In 1860, half a block on Lake Street rose as one piece: about an acre of brick, some 35,000 tons, on 6,000 screws, 600 men, four days. | 1860년, 레이크 스트리트 반 블록이 한 덩어리로 올라갔어요. 벽돌 건물 약 1에이커, 약 3만 5천 톤, 나사 6천 개, 인부 6백 명, 나흘 | **핵심 비주얼 ④ · L3.** 크레인 숏, 블록 건너편 지붕 높이에서. 상가 여러 채가 하나로 이어진 블록 전체가 붉은 윤곽으로 묶여 함께 떠오르고, 아래 땅이 투명해져 잭스크루가 숲처럼 빽빽함 ★ 블록 옆 나무 비계에 걸린 실물 주철 글자 「6,000 SCREWS」 | 프레임→영상 (시작) | Quality |
+| 10 | 83–88 | And the shops stayed open the whole time. Customers kept walking in while the floor rose beneath them. | 그리고 그동안 상점은 계속 영업했어요. 바닥이 올라가는 동안에도 손님들이 드나들었죠 | **L3.** 상점 정면, 유리 진열창에 오후 햇살. 문 앞 임시 나무 계단으로 손님(뒷모습)이 드나들고, 건물이 아주 느리게 오르며 계단이 한 단 늘어남 | 프레임→영상 (시작) | Fast |
+| 11 | 88–97 | One of the contractors was a young George Pullman, who lifted a six-story hotel with the guests still inside. He'd later be famous for railroad sleeping cars. | 시공자 중 한 명은 젊은 조지 풀먼이었어요. 6층 호텔을 투숙객이 있는 채로 들어올렸죠. 뒤에 철도 침대차로 유명해지는 사람입니다 | **L3.** 황혼, 6층 벽돌 호텔의 창마다 가스등이 켜져 있고 건물 전체가 잭스크루 위에서 천천히 떠오름. 마지막 1초, 호텔 창 불빛의 줄이 그대로 이어지며 밤 철로 위 침대차 객차 창 불빛으로 디졸브 | 프레임→영상 (시작) + Extend 1초 | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
 | 12 | 97–102 | But here's the part I'd love you to remember. The old city never left. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 옛 도시는 떠나지 않았습니다 | **L4.** 현대 루프, 고가철도 아래 젖은 보도. 열차가 지나가며 빛이 깜빡임. 카메라가 보도의 유리블록 채광창 쪽으로 내려가기 시작 | 프레임→영상 (시작) | Quality |
-| 13 | 102–111 | Under the Loop, many basements are the old ground floors. Under the sidewalks are hollow vaults where the street used to be. | 루프 밑에서는 많은 지하층이 옛 1층이에요. 보도 밑에는 옛 거리가 있던 자리에 빈 공간이 남아 있습니다 | **핵심 비주얼 ⑤ · L4 → L5.** 보도가 국소적으로 투명해지며 카메라가 그 아래로 하강. 아치형 벽돌 볼트 공간, 위의 유리블록에서 빛이 떨어짐. 옆 빌딩 지하 벽에 벽돌로 막힌 옛 1층 창틀과 문 윤곽. 벽에 기대 둔 수준표의 아래 붉은 표지가 정확히 그 높이 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 14 | 111–116 | And those sewers drained into the river, which flowed into the lake, the city's drinking water. | 그리고 그 하수는 강으로 흘렀고, 강은 호수로 흘렀어요. 시의 식수원이었죠 | **L2.** 1860년대 시카고 항공 와이드(실사 느낌). 거리 아래가 투명해져 붉은 하수선들이 강으로 모이고, 강물이 미시간호로 흘러들며 호숫가 취수 크립(목조 취수구) 주변이 붉게 강조 | 프레임→영상 (시작+끝) | Quality |
-| 15 | 116–121 | Forty years later, Chicago would have to turn the river around. | 40년 뒤, 시카고는 강의 방향을 뒤집어야 했습니다 | **L2.** 같은 항공 와이드. 강물의 흐름이 멈췄다가 반대 방향으로 돌아 호수에서 멀어짐(수면의 흐름결과 떠다니는 부유물 방향으로 표현). 예고편 느낌으로 짧게 | 프레임→영상 (시작+끝) | Quality |
+| 13 | 102–111 | Under the Loop, many basements are the old ground floors. Under the sidewalks are hollow vaults where the street used to be. | 루프 밑에서는 많은 지하층이 옛 1층이에요. 보도 밑에는 옛 거리가 있던 자리에 빈 공간이 남아 있습니다 | **핵심 비주얼 ⑤ · L4 → L5.** 보도가 국소적으로 투명해지며 카메라가 그 아래로 하강. 아치형 벽돌 볼트 공간, 위의 유리블록에서 빛이 떨어짐. 옆 빌딩 지하 벽에 벽돌로 막힌 옛 1층 창틀과 문 윤곽. 벽에 기대 둔 수준표의 아래 붉은 표지가 정확히 그 높이 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 14 | 111–116 | And those sewers drained into the river, which flowed into the lake, the city's drinking water. | 그리고 그 하수는 강으로 흘렀고, 강은 호수로 흘렀어요. 시의 식수원이었죠 | **L2.** 1860년대 시카고 항공 와이드(실사 느낌). 거리 아래가 투명해져 붉은 하수선들이 강으로 모이고, 강물이 미시간호로 흘러들며 호숫가 취수 크립(목조 취수구) 주변이 붉게 강조 | 프레임→영상 (시작) | Quality |
+| 15 | 116–121 | Forty years later, Chicago would have to turn the river around. | 40년 뒤, 시카고는 강의 방향을 뒤집어야 했습니다 | **L2.** 같은 항공 와이드. 강물의 흐름이 멈췄다가 반대 방향으로 돌아 호수에서 멀어짐(수면의 흐름결과 떠다니는 부유물 방향으로 표현). 예고편 느낌으로 짧게 | 프레임→영상 (시작) | Quality |
 | 16 | 121–126 | Chicago didn't escape the mud. It built a second city on top of it. | 시카고는 진흙을 벗어난 게 아니에요. 그 위에 두 번째 도시를 지은 겁니다 | **L4 + L5.** 수직 분할 한 장면: 위는 햇빛 받는 현대 루프 거리, 아래는 호박색 지하의 옛 1층 창틀. 두 층 사이 보도 두께만 투명. 수준표의 두 붉은 표지가 조용히 빛남. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 17 | 126–132 | Next time, let's visit a park in New York built on 150 million tons of garbage. | 다음엔 쓰레기 1억 5천만 톤 위에 지은 뉴욕의 공원으로 가 볼게요 | 다음 편 티저: 바람에 흔들리는 스태튼아일랜드 초원 언덕 실사 컷, 풀밭 일부가 투명해지는 1초(EP.03 레퍼런스 A 재사용) | 편집 | — |
 | 18 | 132–134 | — | — | 로고 0.5초 | 편집 | — |
@@ -172,6 +172,9 @@ Next time, let's visit a park in New York built on 150 million tons of garbage.
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 12컷(1, 4, 4b, 5, 6, 8, 9, 12, 13, 14, 15, 16), Fast 5컷(2, 3, 7, 10, 11), 편집 2컷. 먼저 **1·8·13번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 모든 스틸은 로케이션 사진(L1~L6)을 Ingredients로 넣고 생성. 1850~60년대 퍼블릭 도메인 사진은 흑백이어도 구도 입력으로 쓰고, 생성 결과는 컬러 시네마틱으로
 - 컷 1: 시작(진흙 거리 로우 트래킹, 땅 불투명) → 끝(상가 한 채 앞, 기초 아래 땅만 투명 + 붉은 테두리, 건물 1인치 떠 있음)
@@ -240,7 +243,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A, camera low over the mud near the left edge, moving down the street; ground fully opaque.
 
-컷1 끝 [편집] Edit the previous image: the camera has stopped in front of one brick commercial building; the mud and soil directly beneath that building's foundation have become clear glass within a thin red edge line, showing the building resting about an inch above its old stone footing, a dark gap beneath. Everything else unchanged. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has stopped in front of one brick commercial building; the mud and soil directly beneath that building's foundation have become clear glass within a thin red edge line, showing the building resting about an inch above its old stone footing, a dark gap beneath. Everything else unchanged. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
@@ -257,63 +260,67 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷4 시작 Use reference image A, framed on the street surface: a bounded strip of mud in the foreground has become clear glass with a thin red edge, revealing a horizontal brick-arched sewer pipe beneath, half full of perfectly still, stagnant water. One red marker on the grade rod.
 
-컷4 끝 [편집] Edit the previous image: on the left, a worker seen from behind has dug a shallow pit in the mud with a shovel and murky groundwater has already filled it to the brim; on the right, where earth would be piled, the space is already occupied by the stone foundations of a brick building. Each blocked attempt is marked with a thin red X outline. The sewer water is still stagnant. Same camera.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: on the left, a worker seen from behind has dug a shallow pit in the mud with a shovel and murky groundwater has already filled it to the brim; on the right, where earth would be piled, the space is already occupied by the stone foundations of a brick building. Each blocked attempt is marked with a thin red X outline. The sewer water is still stagnant. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷4b (뒤집힘)
 ```
 컷4b 시작 Use the image from cut 4's start exactly as it is (no pit, no X marks).
 
-컷4b 끝 [편집] Edit the previous image: beneath the clear glass strip, the sewer pipe now tilts gently downhill toward the river and the water inside is visibly flowing; on the corner grade rod a second red marker has appeared well above the first. Buildings and camera unchanged.
+컷4b Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: beneath the clear glass strip, the sewer pipe now tilts gently downhill toward the river and the water inside is visibly flowing; on the corner grade rod a second red marker has appeared well above the first. Buildings and camera unchanged. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷5
 ```
 컷5 시작 Use reference image A, fixed camera on a stretch of the old mud street with a brick shop front behind.
 
-컷5 끝 [편집] Edit the previous image: a brick-arched sewer pipe has been laid along the old street, buried under a deep mound of packed earth, and a new surface of granite paving blocks has been laid on top, now level with the middle of the shop's ground-floor windows. Set into the face of the fresh earth bank, real cast-iron 3D letters reading "4 TO 14 FEET" catch the afternoon light and cast shadows. Same camera.
+컷5 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a brick-arched sewer pipe has been laid along the old street, buried under a deep mound of packed earth, and a new surface of granite paving blocks has been laid on top, now level with the middle of the shop's ground-floor windows. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷5 큰자막 「4 TO 14 FEET」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷6
 ```
 컷6 시작 Use reference image B: the steam dredge working, the river shallow and brown.
 
-컷6 끝 [편집] Edit the previous image: a bounded area of the river surface has become clear glass with a thin red edge, showing a deep freshly dredged channel in the riverbed below; on the bank, a line of horse carts heaped with wet black river mud climbs toward the streets. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded area of the river surface has become clear glass with a thin red edge, showing a deep freshly dredged channel in the riverbed below; on the bank, a line of horse carts heaped with wet black river mud climbs toward the streets. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷7
 ```
 컷7 시작 [STYLE] View from the newly raised granite-paved street level: the ground-floor shop windows of a brick building now sit below the street, half sunk; a pedestrian seen from behind steps down a short wooden stair to reach the shop door.
 
-컷7 끝 [편집] Edit the previous image: a thin glowing red line traces the outline of the whole building, and it has risen very slightly, a dark gap opening at its base. Same camera.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a thin glowing red line traces the outline of the whole building, and it has risen very slightly, a dark gap opening at its base. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8 (핵심 비주얼)
 ```
 컷8 시작 Use reference image C exactly as it is: the building resting just above the jackscrews, the gap small.
 
-컷8 끝 [편집] Edit the previous image: the building has risen a few inches, the gap and the blades of sunlight are visibly taller, and every turning bar has rotated a quarter turn to a new angle. Everything else identical.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the building has risen a few inches, the gap and the blades of sunlight are visibly taller, and every turning bar has rotated a quarter turn to a new angle. Everything else identical. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9 (핵심 비주얼)
 ```
 컷9 시작 [STYLE] Crane shot from rooftop height across the street: half a city block of connected four-story brick commercial buildings resting on the ground; the street in front has become clear glass within a thin red edge, revealing beneath the block a vast orderly forest of thousands of cast-iron jackscrews on timber cribbing, workers seen from behind between the rows. Timber scaffolding along one end of the block.
 
-컷9 끝 [편집] Edit the previous image: the entire block has risen as one piece several feet higher, outlined in a thin glowing red line, the jackscrew forest fully extended beneath it. Hanging on the timber scaffolding, real cast-iron 3D letters reading "6,000 SCREWS" catch the warm light and cast shadows. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the entire block has risen as one piece several feet higher, outlined in a thin glowing red line, the jackscrew forest fully extended beneath it. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷9 큰자막 「6,000 SCREWS」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷10
 ```
 컷10 시작 [STYLE] A brick shop front with a tall glass display window in warm afternoon sun; a short temporary wooden stair of two steps leads from the raised sidewalk down to the shop door; a customer seen from behind steps through.
 
-컷10 끝 [편집] Edit the previous image: the shop has risen so the doorway is higher, and the temporary stair now has three steps; another customer is mid-step. Same camera.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shop has risen so the doorway is higher, and the temporary stair now has three steps; another customer is mid-step. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷11
 ```
 컷11 시작 Use reference image C, but the building is a grand six-story brick hotel at dusk, gaslight glowing in every window, resting on the jackscrew grid.
 
-컷11 끝 [편집] Edit the previous image: the hotel has risen a few feet, and a faint semi-transparent overlay of a long 19th-century railroad sleeping car at night, its row of lit windows aligned with the hotel's rows of lit windows, dissolves across the scene. Same camera.
+컷11 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the hotel has risen a few feet, and a faint semi-transparent overlay of a long 19th-century railroad sleeping car at night, its row of lit windows aligned with the hotel's rows of lit windows, dissolves across the scene. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷12
@@ -325,21 +332,21 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷13 시작 Use the image from cut 12.
 
-컷13 끝 Use reference image E exactly as it is: the camera now beneath the sidewalk, the brick vault, the bricked-up old ground-floor windows, the grade rod's lower red marker at the old sill height, light falling through the glass blocks.
+컷13 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: A basement space beneath a Loop sidewalk: an arched brick vault ceiling with daylight falling through round glass blocks above, and beside it the old brick wall of a neighboring building where the outlines of bricked-up 19th-century ground-floor windows and a doorway are clearly visible. A surveyor's brass-banded grade rod leans against the wall, its lower red marker exactly at the old window-sill height. Warm amber light from a single bulb mixed with cool daylight from above. Dust in the air. the camera now beneath the sidewalk, the brick vault, the bricked-up old ground-floor windows, the grade rod's lower red marker at the old sill height, light falling through the glass blocks. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷14
 ```
 컷14 시작 [STYLE] High aerial view of 1860s Chicago in natural color: the street grid of brick and timber buildings, the Chicago River winding through to Lake Michigan, a small timber water-intake crib offshore in the lake.
 
-컷14 끝 [편집] Edit the previous image: the ground beneath several streets has become clear glass in bounded strips with thin red edges, showing red-tinted sewer flows converging into the river; the river carries a faint brown plume into the lake toward the intake crib, which is circled with a thin red line. Same camera.
+컷14 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the ground beneath several streets has become clear glass in bounded strips with thin red edges, showing red-tinted sewer flows converging into the river; the river carries a faint brown plume into the lake toward the intake crib, which is circled with a thin red line. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷15
 ```
-컷15 시작 Use the image from cut 14's end.
+컷15 시작 Use the last frame of cut 14's generated video (saved as a still).
 
-컷15 끝 [편집] Edit the previous image: the river's surface flow lines and floating debris now point away from the lake, inland, and the brown plume near the intake crib has faded. Same camera.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the river's surface flow lines and floating debris now point away from the lake, inland, and the brown plume near the intake crib has faded. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷16

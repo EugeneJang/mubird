@@ -62,42 +62,42 @@ Nano Banana Pro **Ingredients**에 넣는 사진은 **직접 촬영 또는 CC0/�
 
 ## 3. 대본 · 컷 구성
 
-모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조)을 시작 프레임으로 Flow에서 생성. 시작+끝 표시 컷은 끝 프레임을 Nano Banana Pro **편집**으로 만드세요. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
+모든 컷은 Nano Banana Pro 스틸(로케이션 사진 Ingredients 참조) **한 장**을 시작 프레임으로 Flow에서 생성합니다(Flow "프레임→영상"은 **시작 프레임만** 사용). 변화가 있는 컷은 §7의 **"Flow 영상 프롬프트"**를 그대로 붙여 넣어 시작 프레임에서 그 상태까지 변해 가게 합니다. 앞 컷의 끝 상태가 필요한 컷은 앞 컷 영상의 **마지막 프레임을 캡처**해 시작 프레임으로 씁니다. 8초를 넘는 컷은 Flow **Extend**로 이어 붙입니다.
 
 ### 미션 제시
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 1 | 0–7 | Hoover Dam isn't one solid block of concrete. It's 215 columns, standing side by side. Let me show you why. | 후버댐은 하나의 콘크리트 덩어리가 아니에요. 기둥 215개가 나란히 서 있는 겁니다. 왜 그런지 보여 드릴게요 | **L1.** 새벽 블루아워, 블랙캐니언 안으로 드론이 하강하며 거대한 아치형 댐 벽이 프레임을 채움. 멈추는 순간 벽 한 구간이 유리처럼 투명해지며 속에 **세로로 나뉜 기둥 블록들의 이음선**이 보임(붉은 테두리) | 프레임→영상 (시작+끝) | Quality |
-| 2 | 7–14 | It's about 726 feet tall and some 660 feet thick at the base, holding back the largest reservoir in the country. | 높이 약 726피트, 바닥 두께 약 660피트, 미국에서 가장 큰 저수지를 막고 있어요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 네바다·애리조나 경계로 0.5초 줌인. 이어 댐 뒤 레이크미드의 넓은 수면과 흰 수위 띠, 댐 앞 깊은 협곡을 한 번에 보여주는 와이드 | 프레임→영상 (시작+끝) | Fast |
-| 3 | 14–21 | To build it, they first had to move a river. Four tunnels, each as wide as a four-story building is tall, carried the Colorado around the site. | 짓기 위해선 먼저 강을 옮겨야 했어요. 4층 건물 높이만큼 넓은 터널 네 개가 콜로라도강을 공사장 옆으로 돌렸습니다 | **L2.** 1932년 협곡, 암벽이 투명해지며 거대한 터널 속으로 강물이 쏟아져 들어가고, 원래 강바닥이 마르며 드러남. 터널 입구 옆 인부들은 점처럼 작게 | 프레임→영상 (시작+끝) | Fast |
+| 1 | 0–7 | Hoover Dam isn't one solid block of concrete. It's 215 columns, standing side by side. Let me show you why. | 후버댐은 하나의 콘크리트 덩어리가 아니에요. 기둥 215개가 나란히 서 있는 겁니다. 왜 그런지 보여 드릴게요 | **L1.** 새벽 블루아워, 블랙캐니언 안으로 드론이 하강하며 거대한 아치형 댐 벽이 프레임을 채움. 멈추는 순간 벽 한 구간이 유리처럼 투명해지며 속에 **세로로 나뉜 기둥 블록들의 이음선**이 보임(붉은 테두리) | 프레임→영상 (시작) | Quality |
+| 2 | 7–14 | It's about 726 feet tall and some 660 feet thick at the base, holding back the largest reservoir in the country. | 높이 약 726피트, 바닥 두께 약 660피트, 미국에서 가장 큰 저수지를 막고 있어요 | **지도 → L1.** 실사 위성 느낌 미국 지도에서 네바다·애리조나 경계로 0.5초 줌인. 이어 댐 뒤 레이크미드의 넓은 수면과 흰 수위 띠, 댐 앞 깊은 협곡을 한 번에 보여주는 와이드 | 프레임→영상 (시작) | Fast |
+| 3 | 14–21 | To build it, they first had to move a river. Four tunnels, each as wide as a four-story building is tall, carried the Colorado around the site. | 짓기 위해선 먼저 강을 옮겨야 했어요. 4층 건물 높이만큼 넓은 터널 네 개가 콜로라도강을 공사장 옆으로 돌렸습니다 | **L2.** 1932년 협곡, 암벽이 투명해지며 거대한 터널 속으로 강물이 쏟아져 들어가고, 원래 강바닥이 마르며 드러남. 터널 입구 옆 인부들은 점처럼 작게 | 프레임→영상 (시작) | Fast |
 
 ### 난관 — 콘크리트는 뜨거워진다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 4 | 21–29 | Here's the problem. Concrete gets hot as it sets. The cement reacts with water and gives off heat, and a thick pour traps that heat inside. | 문제는 이거예요. 콘크리트는 굳으면서 뜨거워집니다. 시멘트가 물과 반응하며 열을 내고, 두꺼운 콘크리트는 그 열을 속에 가둬요 | **L3.** 케이블웨이 버킷이 막 부은 콘크리트 블록 위. 블록 표면 일부가 투명해져 속에서 은은한 주황 열기가 번지는 게 보임. 표면에 꽂힌 황동 온도계 바늘이 천천히 오름 | 프레임→영상 (시작+끝) | Quality |
-| 5 | 29–36 | The outside cools and shrinks. The core stays hot and swollen. That pull between them is what cracks a dam. | 바깥은 식으며 줄어들고, 속은 뜨거운 채로 부풀어 있어요. 그 둘이 서로 당기는 힘이 댐을 갈라지게 합니다 | 투명한 블록 단면에서 바깥은 차가운 회색, 속은 주황. 경계를 따라 가느다란 균열이 거미줄처럼 번지고 붉은 선으로 강조 | 프레임→영상 (시작+끝) | Quality |
-| 6 | 36–45 | Now here's the maddening part. Pour the whole dam at once, and it would have taken about 125 years to cool. Pour it slowly, and you're waiting just as long. | 여기서 환장할 노릇이죠. 댐 전체를 한 번에 부으면 식는 데 약 125년이 걸렸을 거예요. 천천히 부어도 기다리는 시간은 마찬가지고요 | **막힌 길 · L3.** 협곡을 가득 채운 거대한 한 덩어리 콘크리트 상상 컷. 벽이 투명해져 속 전체가 주황으로 달아올라 있고, 온도계 바늘은 붉은 영역에 박혀 꿈쩍 않음. 붉은 X ★ 콘크리트 표면에 박힌 실물 강철 글자 「125 YEARS」 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 4 | 21–29 | Here's the problem. Concrete gets hot as it sets. The cement reacts with water and gives off heat, and a thick pour traps that heat inside. | 문제는 이거예요. 콘크리트는 굳으면서 뜨거워집니다. 시멘트가 물과 반응하며 열을 내고, 두꺼운 콘크리트는 그 열을 속에 가둬요 | **L3.** 케이블웨이 버킷이 막 부은 콘크리트 블록 위. 블록 표면 일부가 투명해져 속에서 은은한 주황 열기가 번지는 게 보임. 표면에 꽂힌 황동 온도계 바늘이 천천히 오름 | 프레임→영상 (시작) | Quality |
+| 5 | 29–36 | The outside cools and shrinks. The core stays hot and swollen. That pull between them is what cracks a dam. | 바깥은 식으며 줄어들고, 속은 뜨거운 채로 부풀어 있어요. 그 둘이 서로 당기는 힘이 댐을 갈라지게 합니다 | 투명한 블록 단면에서 바깥은 차가운 회색, 속은 주황. 경계를 따라 가느다란 균열이 거미줄처럼 번지고 붉은 선으로 강조 | 프레임→영상 (시작) | Quality |
+| 6 | 36–45 | Now here's the maddening part. Pour the whole dam at once, and it would have taken about 125 years to cool. Pour it slowly, and you're waiting just as long. | 여기서 환장할 노릇이죠. 댐 전체를 한 번에 부으면 식는 데 약 125년이 걸렸을 거예요. 천천히 부어도 기다리는 시간은 마찬가지고요 | **막힌 길 · L3.** 협곡을 가득 채운 거대한 한 덩어리 콘크리트 상상 컷. 벽이 투명해져 속 전체가 주황으로 달아올라 있고, 온도계 바늘은 붉은 영역에 박혀 꿈쩍 않음. 붉은 X ★ 콘크리트 표면에 박힌 실물 강철 글자 「125 YEARS」 | 프레임→영상 (시작) + Extend 1초 | Quality |
 
 ### 해법 — 식기를 기다리지 말고, 속에서 식힌다
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 7 | 45–52 | And this is where the thinking flips. Instead of waiting for the dam to cool, they cooled it from the inside. | 이때 발상을 전환합니다. 댐이 식기를 기다리는 대신, 속에서부터 식혔어요 | **L3.** 한 덩어리 상상 컷이 세로로 쪼개지며 수많은 사각 기둥 블록으로 나뉘고, 각 블록 속에 가는 파이프 망이 나타나 차가운 물이 흐르기 시작. 주황 열기가 파란빛으로 바뀌어 감 | 프레임→영상 (시작+끝) | Quality |
-| 8 | 52–59 | First, they built it in pieces: about 215 separate columns, some only 25 feet across, each one rising on its own. | 먼저 조각으로 나눠 지었어요. 약 215개의 기둥으로, 어떤 건 폭이 25피트밖에 안 됐고, 각자 따로 올라갔습니다 | **핵심 비주얼 ① · L3.** 1934년 협곡 드론 와이드. 목재 거푸집에 둘러싸인 사각 기둥들이 높이가 제각각인 채 계단처럼 솟아 있고, 케이블웨이 버킷이 그 위를 오감 | 프레임→영상 (시작+끝) | Quality |
-| 9 | 59–66 | Each column grew just five feet at a time, and no faster than every 72 hours, so the heat had time to escape. | 기둥 하나는 한 번에 5피트씩만, 72시간보다 빨리는 올리지 않았어요. 열이 빠져나갈 시간을 준 거죠 | **L3.** 한 기둥 위 고정 카메라 타임랩스. 5피트 층이 부어지고, 해가 세 번 지고, 다음 층이 부어짐. 기둥 옆에 얇은 붉은 치수선이 한 층씩 자람 | 프레임→영상 (시작+끝) | Fast |
-| 10 | 66–76 | Here's the clever part. In every layer, they laid one-inch steel pipe, and pumped water through it, first from the river, then ice-cold. In all, more than 582 miles of pipe. | 여기가 영리한 부분이에요. 층마다 1인치 강철 파이프를 깔고 물을 흘렸어요. 처음엔 강물을, 나중엔 얼음처럼 찬물을. 다 합치면 582마일이 넘는 파이프입니다 | **핵심 비주얼 ② · L3 + L5.** 막 부은 층 표면이 투명해지며, 촘촘한 지그재그 파이프 망 속으로 차가운 물이 흐르고 주변 주황 열기가 서서히 파랗게 식음. 온도계 바늘이 내려옴 ★ 기둥 옆에 쌓인 강철 파이프 코일 더미 앞, 실물 녹슨 강철 글자 「582 MILES」 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
-| 11 | 76–82 | The cold came from a refrigeration plant on site that could make the equivalent of 1,000 tons of ice a day. | 그 찬 기운은 공사장 안 냉각 플랜트에서 왔어요. 하루에 얼음 1,000톤에 해당하는 냉기를 만들 수 있었죠 | **L4.** 사막 한낮과 대비되는 차가운 플랜트 내부. 강철 압축기가 돌고, 굵은 배관에 성에가 하얗게 낌. 배관을 따라 카메라가 밖으로 나가면 협곡의 기둥들로 이어짐 | 프레임→영상 (시작+끝) | Fast |
-| 12 | 82–89 | Once a column cooled and stopped shrinking, the pipes were filled with grout, and the gaps between columns were sealed, locking 215 pieces into one dam. | 기둥이 식어 더 줄어들지 않으면, 파이프를 시멘트 반죽으로 채우고, 기둥 사이 틈도 메웠어요. 215개 조각이 하나의 댐으로 잠긴 거죠 | **L5.** 블록 표면에 튀어나온 파이프 끝에 그라우트 호스가 연결되고, 투명해진 블록 속에서 파이프가 회색 반죽으로 차오름. 이어 기둥 사이 수직 이음매가 반죽으로 메워지며 붉은 선이 하나로 이어짐 | 프레임→영상 (시작+끝) | Quality |
+| 7 | 45–52 | And this is where the thinking flips. Instead of waiting for the dam to cool, they cooled it from the inside. | 이때 발상을 전환합니다. 댐이 식기를 기다리는 대신, 속에서부터 식혔어요 | **L3.** 한 덩어리 상상 컷이 세로로 쪼개지며 수많은 사각 기둥 블록으로 나뉘고, 각 블록 속에 가는 파이프 망이 나타나 차가운 물이 흐르기 시작. 주황 열기가 파란빛으로 바뀌어 감 | 프레임→영상 (시작) | Quality |
+| 8 | 52–59 | First, they built it in pieces: about 215 separate columns, some only 25 feet across, each one rising on its own. | 먼저 조각으로 나눠 지었어요. 약 215개의 기둥으로, 어떤 건 폭이 25피트밖에 안 됐고, 각자 따로 올라갔습니다 | **핵심 비주얼 ① · L3.** 1934년 협곡 드론 와이드. 목재 거푸집에 둘러싸인 사각 기둥들이 높이가 제각각인 채 계단처럼 솟아 있고, 케이블웨이 버킷이 그 위를 오감 | 프레임→영상 (시작) | Quality |
+| 9 | 59–66 | Each column grew just five feet at a time, and no faster than every 72 hours, so the heat had time to escape. | 기둥 하나는 한 번에 5피트씩만, 72시간보다 빨리는 올리지 않았어요. 열이 빠져나갈 시간을 준 거죠 | **L3.** 한 기둥 위 고정 카메라 타임랩스. 5피트 층이 부어지고, 해가 세 번 지고, 다음 층이 부어짐. 기둥 옆에 얇은 붉은 치수선이 한 층씩 자람 | 프레임→영상 (시작) | Fast |
+| 10 | 66–76 | Here's the clever part. In every layer, they laid one-inch steel pipe, and pumped water through it, first from the river, then ice-cold. In all, more than 582 miles of pipe. | 여기가 영리한 부분이에요. 층마다 1인치 강철 파이프를 깔고 물을 흘렸어요. 처음엔 강물을, 나중엔 얼음처럼 찬물을. 다 합치면 582마일이 넘는 파이프입니다 | **핵심 비주얼 ② · L3 + L5.** 막 부은 층 표면이 투명해지며, 촘촘한 지그재그 파이프 망 속으로 차가운 물이 흐르고 주변 주황 열기가 서서히 파랗게 식음. 온도계 바늘이 내려옴 ★ 기둥 옆에 쌓인 강철 파이프 코일 더미 앞, 실물 녹슨 강철 글자 「582 MILES」 | 프레임→영상 (시작) + Extend 1초 | Quality |
+| 11 | 76–82 | The cold came from a refrigeration plant on site that could make the equivalent of 1,000 tons of ice a day. | 그 찬 기운은 공사장 안 냉각 플랜트에서 왔어요. 하루에 얼음 1,000톤에 해당하는 냉기를 만들 수 있었죠 | **L4.** 사막 한낮과 대비되는 차가운 플랜트 내부. 강철 압축기가 돌고, 굵은 배관에 성에가 하얗게 낌. 배관을 따라 카메라가 밖으로 나가면 협곡의 기둥들로 이어짐 | 프레임→영상 (시작) | Fast |
+| 12 | 82–89 | Once a column cooled and stopped shrinking, the pipes were filled with grout, and the gaps between columns were sealed, locking 215 pieces into one dam. | 기둥이 식어 더 줄어들지 않으면, 파이프를 시멘트 반죽으로 채우고, 기둥 사이 틈도 메웠어요. 215개 조각이 하나의 댐으로 잠긴 거죠 | **L5.** 블록 표면에 튀어나온 파이프 끝에 그라우트 호스가 연결되고, 투명해진 블록 속에서 파이프가 회색 반죽으로 차오름. 이어 기둥 사이 수직 이음매가 반죽으로 메워지며 붉은 선이 하나로 이어짐 | 프레임→영상 (시작) | Quality |
 | 13 | 89–95 | Cooling was finished in March 1935, less than two years after the first bucket was poured. | 냉각은 1935년 3월에 끝났어요. 첫 버킷을 부은 지 2년이 안 돼서요 | **L3.** 노을 속 거의 완성된 댐 벽. 거푸집이 걷히고 기둥 이음선이 희미하게 보이는 매끈한 벽. 온도계 바늘이 평온한 위치에서 멈춤 | 프레임→영상 (시작) | Fast |
 
 ### 반전
 
 | # | 초 | 나레이션 (EN) | 뜻 | 화면 (실사 기반) | Flow 모드 | 품질 |
 |---|---|---|---|---|---|---|
-| 14 | 95–102 | But here's the part I'd love you to remember. You may have heard that Hoover Dam is still cooling down. It isn't. That ended in 1935. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 후버댐이 아직도 식고 있다는 말, 들어 보셨을 거예요. 사실이 아닙니다. 그건 1935년에 끝났어요 | **L6.** 지금의 댐 속 점검 갤러리, 긴 콘크리트 터널. 벽에 박힌 오래된 황동 온도계 클로즈업, 바늘은 평온하게 멈춰 있음 | 프레임→영상 (시작+끝) | Quality |
-| 15 | 102–110 | What it is still doing is getting stronger. Concrete keeps hardening, very slowly, for decades. And those 582 miles of pipe are still inside, filled solid. | 지금도 계속되는 건 따로 있어요. 더 단단해지는 것. 콘크리트는 수십 년에 걸쳐 아주 느리게 계속 굳습니다. 그리고 그 582마일의 파이프는 지금도 속에 있어요. 꽉 채워진 채로 | **핵심 비주얼 ③ · L6 → L1.** 갤러리 벽이 투명해지며 카메라가 벽 속으로 빠져나감. 댐 전체 속에 회색 그라우트로 채워진 파이프 망이 층층이 은은한 붉은 선으로 빛나고, 카메라가 계속 빠져 협곡의 댐 전경으로 나옴 | 프레임→영상 (시작+끝) + Extend 1초 | Quality |
+| 14 | 95–102 | But here's the part I'd love you to remember. You may have heard that Hoover Dam is still cooling down. It isn't. That ended in 1935. | 그런데 꼭 기억해 주셨으면 하는 부분이 있어요. 후버댐이 아직도 식고 있다는 말, 들어 보셨을 거예요. 사실이 아닙니다. 그건 1935년에 끝났어요 | **L6.** 지금의 댐 속 점검 갤러리, 긴 콘크리트 터널. 벽에 박힌 오래된 황동 온도계 클로즈업, 바늘은 평온하게 멈춰 있음 | 프레임→영상 (시작) | Quality |
+| 15 | 102–110 | What it is still doing is getting stronger. Concrete keeps hardening, very slowly, for decades. And those 582 miles of pipe are still inside, filled solid. | 지금도 계속되는 건 따로 있어요. 더 단단해지는 것. 콘크리트는 수십 년에 걸쳐 아주 느리게 계속 굳습니다. 그리고 그 582마일의 파이프는 지금도 속에 있어요. 꽉 채워진 채로 | **핵심 비주얼 ③ · L6 → L1.** 갤러리 벽이 투명해지며 카메라가 벽 속으로 빠져나감. 댐 전체 속에 회색 그라우트로 채워진 파이프 망이 층층이 은은한 붉은 선으로 빛나고, 카메라가 계속 빠져 협곡의 댐 전경으로 나옴 | 프레임→영상 (시작) + Extend 1초 | Quality |
 | 16 | 110–116 | They didn't wait 125 years for this wall. They threaded it with ice water and finished it in under two. | 그들은 이 벽을 위해 125년을 기다리지 않았어요. 얼음물을 꿰어 넣고 2년이 안 돼 끝냈습니다 | **L1.** 골든아워 후버댐 정면 드론, 레이크미드에 노을. 벽 속 파이프 망의 붉은 선이 천천히 사라지고 매끈한 콘크리트만 남음. 1초 정적 | 프레임→영상 (시작) | Quality |
 | 17 | 116–122 | Next time, let's visit the Mississippi, a river that's really 29 lakes in a row. | 다음엔 사실은 호수 29개가 이어진 강, 미시시피로 가 볼게요 | 다음 편 티저: 미시시피강의 갑문과 댐 실사 드론 컷, 수면 일부가 투명해지는 1초(EP.05 레퍼런스 선제작) | 편집 | — |
 | 18 | 122–128 | — | — | 로고: 책장이 넘어가며 다음 장소가 솟아오르는 AAB 로고 0.5초 | 편집 | — |
@@ -168,6 +168,9 @@ Next time, let's visit the Mississippi, a river that's really 29 lakes in a row.
 
 ## 6. Flow 작업 메모
 
+- **시작 프레임 전용 방식(2026-10 변경):** Flow가 끝 프레임을 받지 않으므로, 아래 `시작(…) → 끝(…)`은 **시작 프레임 + 영상 안에서 일어날 변화**를 뜻합니다. §7의 각 컷 `Flow 영상 프롬프트`를 Flow 텍스트 칸에 붙여 넣으세요. 변화가 원하는 만큼 안 일어나면 ① 같은 프롬프트로 2~3회 더 생성 ② 8초 안에 변화가 두 단계 이상이면 컷을 둘로 나눠 두 번째 컷의 시작 프레임으로 첫 컷의 마지막 프레임을 캡처해 사용 ③ 그래도 안 되면 변화 전·후 스틸 두 장을 각각 2~3초 느린 푸시인 영상으로 만들어 편집에서 디졸브
+- **큰자막 처리:** AI 영상이 도중에 글자를 만들면 깨지기 쉬우므로, 큰자막은 영상에 넣지 않고 **편집에서 3D 카메라 트래킹 글자**(CapCut 3D 텍스트·After Effects 3D 카메라 트래커)로 장면 바닥이나 벽에 고정해 얹습니다. 그림자는 글자 아래 블러 처리한 어두운 복사본으로. 대안: 변화가 끝난 상태를 글자 포함 스틸로 따로 만들어 2초 푸시인 인서트로 붙이기
+- **붉은 선·X·치수선:** 영상 중간에 생성되는 얇은 붉은 선은 흔들리거나 번질 수 있습니다. 깔끔하지 않으면 프롬프트에서 해당 문장을 지우고 편집에서 마스크 선·X로 얹으세요. 엑스레이 리빌(투명해지는 면)은 영상 생성에 맡기되, 테두리 붉은 선만 편집으로 보강해도 됩니다
 - **크레딧 배분:** Quality 11컷(1, 4, 5, 6, 7, 8, 10, 12, 14, 15, 16), Fast 5컷(2, 3, 9, 11, 13), 편집 2컷. 먼저 **1·7·15번**으로 톤 확정. 1번이 실사로 안 보이면 공통 스타일 블록부터 다시
 - **Ingredients 사용:** 1930년대 컷은 USBR 퍼블릭 도메인 공사 사진을 구도 입력으로 쓰고 결과는 컬러 시네마틱으로. 현대 컷은 직접 촬영 또는 CC0
 - 컷 1: 시작(협곡 위 높은 드론, 벽 불투명) → 끝(벽이 프레임을 채움, 한 구간 투명 + 세로 이음선). 하강 한 동작
@@ -236,70 +239,74 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷1 시작 Use reference image A, the camera high above the canyon, the dam wall solid.
 
-컷1 끝 [편집] Edit the previous image: the camera has descended until the curved dam face fills the frame; one bounded section of the concrete face has become clear glass within a thin red edge line, revealing inside it the vertical joints between many separate rectangular concrete columns, like a hidden grid. Same light.
+컷1 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has descended until the curved dam face fills the frame; one bounded section of the concrete face has become clear glass within a thin red edge line, revealing inside it the vertical joints between many separate rectangular concrete columns, like a hidden grid. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷2
 ```
 컷2 시작 [STYLE] A photoreal satellite-style relief view of the American Southwest in natural color, the Colorado River winding through canyons, a thin glowing red ring at the Nevada–Arizona border. No text.
 
-컷2 끝 Use reference image A as a high wide: the dam, the deep canyon below, and the broad blue expanse of Lake Mead with its white bathtub ring behind it.
+컷2 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Aerial drone view inside Black Canyon at blue-hour dawn, looking at the downstream face of Hoover Dam: the vast pale concrete arch curving between red-brown volcanic canyon walls, the Art Deco intake towers and Lake Mead with its white bathtub ring visible beyond the crest, the Colorado River dark green far below. Cool blue light, first warm hint of sun on the canyon rim, faint mist over the river. as a high wide: the dam, the deep canyon below, and the broad blue expanse of Lake Mead with its white bathtub ring behind it. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷3
 ```
 컷3 시작 Use reference image B with the river still flowing in its natural bed and the tunnel mouth dry.
 
-컷3 끝 Use reference image B exactly as it is: the river pouring into the tunnel, the old riverbed drained.
+컷3 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Black Canyon in 1932 at midday: on one side, the huge mouth of a river-diversion tunnel bored into the volcanic rock wall, about fifty feet across, with the brown Colorado River pouring into it; the original riverbed beside it is drained, exposing wet boulders and mud. Workers as tiny distant silhouettes at the tunnel mouth for scale. Harsh desert sun, dust. the river pouring into the tunnel, the old riverbed drained. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷4
 ```
 컷4 시작 Use reference image C, close on the top of one column where fresh wet concrete has just been poured from the bucket; the brass thermometer needle is low.
 
-컷4 끝 [편집] Edit the previous image: a bounded area of the column's side has become clear glass with a thin red edge, revealing a soft, subtle orange glow spreading inside the fresh concrete; the brass thermometer needle has risen noticeably. Same camera.
+컷4 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded area of the column's side has become clear glass with a thin red edge, revealing a soft, subtle orange glow spreading inside the fresh concrete; the brass thermometer needle has risen noticeably. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷5
 ```
 컷5 시작 [STYLE] A close view of a concrete block whose side has turned to clear glass with a thin red edge: the outer layer cool grey, the core glowing a soft orange.
 
-컷5 끝 [편집] Edit the previous image: fine hairline cracks have spread through the concrete along the boundary between the cool outer layer and the hot core, traced with thin red lines. Same camera.
+컷5 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: fine hairline cracks have spread through the concrete along the boundary between the cool outer layer and the hot core, traced with thin red lines. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷6 (막힌 길)
 ```
 컷6 시작 [STYLE] Black Canyon in 1934, imagined: the entire canyon between the walls is filled with one single, continuous, enormous block of fresh concrete, no columns, no joints, the cableway overhead; a brass dial thermometer on its top surface.
 
-컷6 끝 [편집] Edit the previous image: a large bounded area of the block's face has become clear glass with a thin red edge, showing the whole interior glowing a deep soft orange; the thermometer needle is jammed in its red zone; a thin red X is drawn over the block. Set into the top surface, real weathered-steel 3D letters reading "125 YEARS" catch the sun and cast shadows. Same camera.
+컷6 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a large bounded area of the block's face has become clear glass with a thin red edge, showing the whole interior glowing a deep soft orange; the thermometer needle is jammed in its red zone; a thin red X is drawn over the block. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷6 큰자막 「125 YEARS」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷7 (뒤집힘)
 ```
-컷7 시작 Use the image from cut 6's end without the red X and without the letters.
+컷7 시작 Use the last frame of cut 6's generated video (saved as a still) without the red X and without the letters.
 
-컷7 끝 [편집] Edit the previous image: the single block has split vertically into many separate rectangular columns with narrow gaps between them; inside each, visible through the glass, a fine grid of thin steel pipes carries flowing water, and the orange glow is turning to a soft cool blue. Same camera.
+컷7 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the single block has split vertically into many separate rectangular columns with narrow gaps between them; inside each, visible through the glass, a fine grid of thin steel pipes carries flowing water, and the orange glow is turning to a soft cool blue. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷8 (핵심 비주얼)
 ```
 컷8 시작 Use reference image C as a high drone wide, the columns still low near the canyon floor.
 
-컷8 끝 Use reference image C exactly as it is: the columns rising like giant uneven steps up the canyon, the cableway bucket in motion.
+컷8 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Black Canyon in 1934 at midday: dozens of rectangular concrete columns rising from the canyon floor at uneven heights like giant steps, each wrapped in timber formwork, the tallest reaching halfway up the canyon walls; a steel cableway spans the canyon overhead, carrying a large concrete bucket; small silhouetted workers on top of the columns; a brass dial thermometer set into the top surface of the nearest column. Bright desert light, dust in the air. the columns rising like giant uneven steps up the canyon, the cableway bucket in motion. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷9
 ```
 컷9 시작 Use reference image C, fixed camera on one column, its top surface with fresh concrete, a short thin red vertical dimension line beside its newest layer.
 
-컷9 끝 [편집] Edit the previous image: the column has grown by several more layers, each roughly the same thickness, the red dimension line beside it now marked in several equal segments; the light has shifted to a different time of day. Same camera.
+컷9 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the column has grown by several more layers, each roughly the same thickness, the red dimension line beside it now marked in several equal segments; the light has shifted to a different time of day. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷10 (핵심 비주얼)
 ```
 컷10 시작 Use reference image E before any grout: the top of a freshly poured layer with pipe ends protruding, the concrete opaque.
 
-컷10 끝 [편집] Edit the previous image: a bounded section of the layer has become clear glass with a thin red edge, revealing a dense, orderly zigzag grid of one-inch steel pipe embedded in the concrete with ice-cold water flowing through it, the surrounding concrete cooling from soft orange to soft blue. Beside the column, a stacked pile of coiled rusted steel pipe, and in front of it real weathered-steel 3D letters reading "582 MILES" catching the desert sun. Same light.
+컷10 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded section of the layer has become clear glass with a thin red edge, revealing a dense, orderly zigzag grid of one-inch steel pipe embedded in the concrete with ice-cold water flowing through it, the surrounding concrete cooling from soft orange to soft blue. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
+
+> 컷10 큰자막 「582 MILES」은 영상에 넣지 말고 편집에서 3D 트래킹 글자로 얹으세요(§6 메모 참조).
 ```
 
 #### 컷11
@@ -311,7 +318,7 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷12 시작 Use reference image E exactly as it is.
 
-컷12 끝 [편집] Edit the previous image: a bounded section of the column has become clear glass with a thin red edge, showing the embedded pipes now filled solid with grey grout; the vertical joint between this column and the next has been filled flush with grout, and a single continuous thin red line now runs across both columns. Same camera.
+컷12 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: a bounded section of the column has become clear glass with a thin red edge, showing the embedded pipes now filled solid with grey grout; the vertical joint between this column and the next has been filled flush with grout, and a single continuous thin red line now runs across both columns. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷13
@@ -323,14 +330,14 @@ Vertical 9:16, 2K. Photorealistic cinematic still that looks like a real locatio
 ```
 컷14 시작 Use reference image F as a wide view down the gallery.
 
-컷14 끝 Use reference image F, close on the brass thermometer in the wall, its needle resting calmly.
+컷14 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the shot arrives at this view: Inside Hoover Dam today: a long, narrow concrete inspection gallery receding into the distance, smooth curved walls stained by decades of seepage, a worn steel handrail, warm caged lights at intervals. Set into the wall at eye level, an old brass dial thermometer with a glass face, its needle resting calmly. Quiet, cool, faint echo atmosphere. close on the brass thermometer in the wall, its needle resting calmly. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷15 (핵심 비주얼)
 ```
 컷15 시작 Use reference image F, close on the gallery wall.
 
-컷15 끝 [편집] Edit the previous image: the camera has pulled back through the wall and out into the canyon, showing the whole dam from downstream at golden hour; a large bounded section of the dam face has become clear glass with a thin red edge, revealing layer upon layer of embedded pipe grids, now filled solid with grey grout, each traced by a faint red line.
+컷15 Flow 영상 프롬프트 (시작 프레임 하나로 생성) A single continuous 8-second shot that begins exactly on the start frame. Over the course of the shot, it changes smoothly until, by the end: the camera has pulled back through the wall and out into the canyon, showing the whole dam from downstream at golden hour; a large bounded section of the dam face has become clear glass with a thin red edge, revealing layer upon layer of embedded pipe grids, now filled solid with grey grout, each traced by a faint red line. Keep the camera, lighting and photorealistic style consistent with the start frame unless a camera move is described. No cuts, no new text or letters appearing, physically plausible motion.
 ```
 
 #### 컷16
